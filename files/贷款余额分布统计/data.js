@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额分布统计.html",
-  "generationDate":new Date(1659117591003.04),
+  "generationDate":new Date(1659118515229.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -349,7 +349,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":40,
+              "x":620,
               "y":159},
             "size":{
               "width":420,
@@ -365,7 +365,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":40,
+                  "x":620,
                   "y":159},
                 "size":{
                   "width":420,
@@ -382,8 +382,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":480,
-              "y":152.5},
+              "x":68,
+              "y":159},
             "size":{
               "width":502,
               "height":304}},
@@ -398,8 +398,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":480,
-                  "y":152.5},
+                  "x":68,
+                  "y":159},
                 "size":{
                   "width":502,
                   "height":304}},
@@ -415,8 +415,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":570,
-              "y":522},
+              "x":100,
+              "y":511},
             "size":{
               "width":237,
               "height":218}},
@@ -431,8 +431,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":570,
-                  "y":522},
+                  "x":100,
+                  "y":511},
                 "size":{
                   "width":237,
                   "height":218}},
@@ -448,8 +448,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":50,
-              "y":511},
+              "x":620,
+              "y":500},
             "size":{
               "width":331,
               "height":269}},
@@ -464,8 +464,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":50,
-                  "y":511},
+                  "x":620,
+                  "y":500},
                 "size":{
                   "width":331,
                   "height":269}},
