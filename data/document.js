@@ -31,7 +31,19 @@
 {
             "pageName":"贷款余额分布统计",
             "type":"Wireframe",
-            "url":"贷款余额分布统计.html"}]}]},
+            "url":"贷款余额分布统计.html"}]},
+{
+        "pageName":"业务数据",
+        "type":"Wireframe",
+        "url":"业务数据.html",
+        "children":[{
+            "pageName":"新页面 1",
+            "type":"Wireframe",
+            "url":"新页面_1.html"},
+{
+            "pageName":"业务数据统一查看",
+            "type":"Wireframe",
+            "url":"业务数据统一查看.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

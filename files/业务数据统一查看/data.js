@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"贷款余额登记管理.html",
-  "generationDate":new Date(1659320681018.32),
+  "url":"业务数据统一查看.html",
+  "generationDate":new Date(1659320681360.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"2cda613ea71e4ffb81a2a23bd353ee61",
+    "packageId":"fbf76b54ed2044f3a7c4e994570b3416",
     "type":"Axure:Page",
-    "name":"贷款余额登记管理",
+    "name":"业务数据统一查看",
     "notes":{
 },
     "style":{

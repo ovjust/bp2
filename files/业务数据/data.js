@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"报表-业务情况查询.html",
-  "generationDate":new Date(1659320680819.21),
+  "url":"业务数据.html",
+  "generationDate":new Date(1659320681203.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"e33ed634b0ef46138dce4c985cd29caa",
+    "packageId":"79f191d970244ec890da3c8ef167b9e2",
     "type":"Axure:Page",
-    "name":"报表-业务情况查询",
+    "name":"业务数据",
     "notes":{
 },
     "style":{
