@@ -37,13 +37,33 @@
         "type":"Wireframe",
         "url":"业务数据.html",
         "children":[{
-            "pageName":"新页面 1",
+            "pageName":"金融产品管理？",
             "type":"Wireframe",
-            "url":"新页面_1.html"},
+            "url":"金融产品管理？.html"},
 {
-            "pageName":"业务数据统一查看",
+            "pageName":"客户管理-业务数据",
             "type":"Wireframe",
-            "url":"业务数据统一查看.html"}]}]},
+            "url":"客户管理-业务数据.html"},
+{
+            "pageName":"内部业务数据管理",
+            "type":"Wireframe",
+            "url":"内部业务数据管理.html"},
+{
+            "pageName":"集团融资预算管理",
+            "type":"Wireframe",
+            "url":"集团融资预算管理.html"},
+{
+            "pageName":"外部融资余额管理",
+            "type":"Wireframe",
+            "url":"外部融资余额管理.html"},
+{
+            "pageName":"流程审批",
+            "type":"Wireframe",
+            "url":"流程审批.html"}]},
+{
+        "pageName":"功能风格",
+        "type":"Wireframe",
+        "url":"功能风格.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
