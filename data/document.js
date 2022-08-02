@@ -61,9 +61,9 @@
             "type":"Wireframe",
             "url":"流程审批功能.html"},
 {
-            "pageName":"审批流程",
+            "pageName":"审批流程图",
             "type":"Wireframe",
-            "url":"审批流程.html"}]},
+            "url":"审批流程图.html"}]},
 {
         "pageName":"功能风格",
         "type":"Wireframe",
