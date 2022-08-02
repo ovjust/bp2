@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"流程审批.html",
-  "generationDate":new Date(1659348969703.85),
+  "url":"流程审批功能.html",
+  "generationDate":new Date(1659402956294.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
     "packageId":"989cb9f80c3e44888106300216ece60f",
     "type":"Axure:Page",
-    "name":"流程审批",
+    "name":"流程审批功能",
     "notes":{
 },
     "style":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程审批/u0.png"}},
+            "normal~":"images/流程审批功能/u0.png"}},
 {
           "id":"409a9458647e498cad434197c1447305",
           "label":"",
@@ -102,7 +102,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程审批/u2.png"}},
+            "normal~":"images/流程审批功能/u2.png"}},
 {
           "id":"0651bd8a300042d38aac429308eb0813",
           "label":"",
@@ -208,7 +208,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u8.png"}},
+                "normal~":"images/流程审批功能/u8.png"}},
 {
               "id":"a4024332b9bd47248c4f9e38de61f73c",
               "label":"",
@@ -241,7 +241,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u20.png"}},
+                "normal~":"images/流程审批功能/u20.png"}},
 {
               "id":"6eeac3850be74af5bd42ace98709d32b",
               "label":"",
@@ -274,7 +274,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u32.png"}},
+                "normal~":"images/流程审批功能/u32.png"}},
 {
               "id":"58bae2b351264fbe80b960f2f5d3a5d9",
               "label":"",
@@ -307,7 +307,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u10.png"}},
+                "normal~":"images/流程审批功能/u10.png"}},
 {
               "id":"96e890df29df4c84b62c15ce260153f7",
               "label":"",
@@ -340,7 +340,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u22.png"}},
+                "normal~":"images/流程审批功能/u22.png"}},
 {
               "id":"48fd2b48789943afb36e186954c7910b",
               "label":"",
@@ -373,7 +373,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u34.png"}},
+                "normal~":"images/流程审批功能/u34.png"}},
 {
               "id":"260ee175c7c841fd9e5185542ecf7a05",
               "label":"",
@@ -406,7 +406,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u12.png"}},
+                "normal~":"images/流程审批功能/u12.png"}},
 {
               "id":"8ebc026f6e694973984885c03b94a02c",
               "label":"",
@@ -439,7 +439,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u24.png"}},
+                "normal~":"images/流程审批功能/u24.png"}},
 {
               "id":"3c771e181a79454594c501454b8f49bc",
               "label":"",
@@ -472,7 +472,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u36.png"}},
+                "normal~":"images/流程审批功能/u36.png"}},
 {
               "id":"e18420e37f5b4ad9b3885a0151e03238",
               "label":"",
@@ -505,7 +505,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u14.png"}},
+                "normal~":"images/流程审批功能/u14.png"}},
 {
               "id":"4ea1f27299c6474ebe5a2af11023ec7b",
               "label":"",
@@ -538,7 +538,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u26.png"}},
+                "normal~":"images/流程审批功能/u26.png"}},
 {
               "id":"c09a6f6ea8c745c4bb67d389bd5d3274",
               "label":"",
@@ -571,7 +571,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u38.png"}},
+                "normal~":"images/流程审批功能/u38.png"}},
 {
               "id":"142ef0867a0f4ba7b8c7ade95ac64375",
               "label":"",
@@ -604,7 +604,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u16.png"}},
+                "normal~":"images/流程审批功能/u16.png"}},
 {
               "id":"f91d67b0154a4d638e78b652a41dd655",
               "label":"",
@@ -637,7 +637,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u28.png"}},
+                "normal~":"images/流程审批功能/u28.png"}},
 {
               "id":"3ee67ee02bc74656b64d51654ca8884b",
               "label":"",
@@ -670,7 +670,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u40.png"}},
+                "normal~":"images/流程审批功能/u40.png"}},
 {
               "id":"eaf62c42c8c041509fb01c649232aaf2",
               "label":"",
@@ -703,7 +703,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u18.png"}},
+                "normal~":"images/流程审批功能/u18.png"}},
 {
               "id":"20773267381140e68b30679349bb2090",
               "label":"",
@@ -744,7 +744,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u30.png"}},
+                "normal~":"images/流程审批功能/u30.png"}},
 {
               "id":"81cf65cb04954b638a6bcb88724204e1",
               "label":"",
@@ -777,7 +777,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/流程审批/u42.png"}}]},
+                "normal~":"images/流程审批功能/u42.png"}}]},
 {
           "id":"a8aa1723f3b242158d0f748101787a78",
           "label":"",
@@ -1190,7 +1190,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程审批/u65.png"}},
+            "normal~":"images/流程审批功能/u65.png"}},
 {
           "id":"cbb59927772143ba8f848836fa3b68a9",
           "label":"",
@@ -1223,7 +1223,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程审批/u67.png"}},
+            "normal~":"images/流程审批功能/u67.png"}},
 {
           "id":"f829c9bc99584f02a95426117b4dfb69",
           "label":"",
@@ -1256,7 +1256,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程审批/u69.png"}},
+            "normal~":"images/流程审批功能/u69.png"}},
 {
           "id":"7466703eb926453bbb8b2b9297be0273",
           "label":"",
@@ -1289,7 +1289,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程审批/u71.png"}},
+            "normal~":"images/流程审批功能/u71.png"}},
 {
           "id":"5cce7b1eba3a4f5ca7d28d7aada46bd0",
           "label":"",

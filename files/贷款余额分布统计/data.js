@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额分布统计.html",
-  "generationDate":new Date(1659348717189.38),
+  "generationDate":new Date(1659402955268.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

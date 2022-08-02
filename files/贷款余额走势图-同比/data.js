@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额走势图-同比.html",
-  "generationDate":new Date(1659348717159.31),
+  "generationDate":new Date(1659402955220.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

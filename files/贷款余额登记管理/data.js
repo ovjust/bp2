@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额登记管理.html",
-  "generationDate":new Date(1659348716907.4),
+  "generationDate":new Date(1659402955056.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
