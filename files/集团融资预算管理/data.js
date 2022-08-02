@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"集团融资预算管理.html",
-  "generationDate":new Date(1659403123658.53),
+  "generationDate":new Date(1659405085824.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -86,7 +86,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/金融产品管理？/u1.png"}},
+            "normal~":"images/金融产品管理/u1.png"}},
 {
           "id":"0651bd8a300042d38aac429308eb0813",
           "label":"",

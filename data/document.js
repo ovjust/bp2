@@ -37,9 +37,9 @@
         "type":"Wireframe",
         "url":"业务数据.html",
         "children":[{
-            "pageName":"金融产品管理？",
+            "pageName":"金融产品管理",
             "type":"Wireframe",
-            "url":"金融产品管理？.html"},
+            "url":"金融产品管理.html"},
 {
             "pageName":"客户管理-业务数据",
             "type":"Wireframe",
