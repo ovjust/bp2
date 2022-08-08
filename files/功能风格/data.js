@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"功能风格.html",
-  "generationDate":new Date(1659405086108.86),
+  "generationDate":new Date(1659928324093.94),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -40,8 +40,8 @@
               "x":60,
               "y":100},
             "size":{
-              "width":228,
-              "height":32}},
+              "width":356,
+              "height":64}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -56,8 +56,41 @@
                   "x":60,
                   "y":100},
                 "size":{
-                  "width":228,
-                  "height":32}},
+                  "width":356,
+                  "height":64}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"7d5d03914b4442a3bc98f8d5bf030794",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":40},
+            "size":{
+              "width":289,
+              "height":38}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4182c4eeb0184eccb74537cddf168486",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":60,
+                  "y":40},
+                "size":{
+                  "width":289,
+                  "height":38}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -68,4 +101,8 @@
     "d4c0865cd3124f6a8de193b115466fad":{
       "scriptId":"u0"},
     "10059af54f8c4c739871867f4770ddfd":{
-      "scriptId":"u1"}}});
+      "scriptId":"u1"},
+    "7d5d03914b4442a3bc98f8d5bf030794":{
+      "scriptId":"u2"},
+    "4182c4eeb0184eccb74537cddf168486":{
+      "scriptId":"u3"}}});

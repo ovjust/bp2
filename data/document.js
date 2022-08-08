@@ -65,6 +65,26 @@
             "type":"Wireframe",
             "url":"审批流程图.html"}]},
 {
+        "pageName":"知识库",
+        "type":"Wireframe",
+        "url":"知识库.html",
+        "children":[{
+            "pageName":"文章管理",
+            "type":"Wireframe",
+            "url":"文章管理.html"},
+{
+            "pageName":"订阅管理",
+            "type":"Wireframe",
+            "url":"订阅管理.html"}]},
+{
+        "pageName":"工作周报",
+        "type":"Wireframe",
+        "url":"工作周报.html",
+        "children":[{
+            "pageName":"工作周报管理",
+            "type":"Wireframe",
+            "url":"工作周报管理.html"}]},
+{
         "pageName":"功能风格",
         "type":"Wireframe",
         "url":"功能风格.html"}]},

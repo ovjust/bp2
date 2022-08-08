@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"内部业务数据管理.html",
-  "generationDate":new Date(1659405085641.75),
+  "generationDate":new Date(1659928323078.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -3677,8 +3677,8 @@
               "color":0xFF000000,
               "opacity":1},
             "location":{
-              "x":318,
-              "y":632},
+              "x":98,
+              "y":663},
             "size":{
               "width":68,
               "height":16}},
@@ -3697,8 +3697,8 @@
                   "color":0xFF000000,
                   "opacity":1},
                 "location":{
-                  "x":318,
-                  "y":632},
+                  "x":98,
+                  "y":663},
                 "size":{
                   "width":68,
                   "height":16}},
@@ -3714,8 +3714,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":388,
-              "y":628},
+              "x":170,
+              "y":659},
             "size":{
               "width":93,
               "height":25}},
@@ -3729,8 +3729,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":98,
-              "y":663},
+              "x":318,
+              "y":667},
             "size":{
               "width":54,
               "height":16}},
@@ -3745,8 +3745,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":98,
-                  "y":663},
+                  "x":318,
+                  "y":667},
                 "size":{
                   "width":54,
                   "height":16}},
@@ -3762,8 +3762,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":168,
-              "y":659},
+              "x":388,
+              "y":663},
             "size":{
               "width":93,
               "height":25}},
@@ -3942,7 +3942,55 @@
               "height":25}},
           "adaptiveStyles":{
 },
-          "placeholderText":"请输入客户编码"}]}},
+          "placeholderText":"请输入客户编码"},
+{
+          "id":"fcb2720f286e442495731d7a1473d4e6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":318,
+              "y":627},
+            "size":{
+              "width":63,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"398b75be68d34cf2b7be7c7bac9652e2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":318,
+                  "y":627},
+                "size":{
+                  "width":63,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3cb8a4d7084b4cba9c52b4aa269f651d",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":388,
+              "y":624},
+            "size":{
+              "width":193,
+              "height":25}},
+          "adaptiveStyles":{
+}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -4415,4 +4463,10 @@
     "b1b89af4b36a4318a9c9111b3ebf5c8a":{
       "scriptId":"u233"},
     "f2143826d3434220b1d67d6bdcf5e33a":{
-      "scriptId":"u234"}}});
+      "scriptId":"u234"},
+    "fcb2720f286e442495731d7a1473d4e6":{
+      "scriptId":"u235"},
+    "398b75be68d34cf2b7be7c7bac9652e2":{
+      "scriptId":"u236"},
+    "3cb8a4d7084b4cba9c52b4aa269f651d":{
+      "scriptId":"u237"}}});
