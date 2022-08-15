@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"外部融资余额管理.html",
-  "generationDate":new Date(1659928323368.6),
+  "generationDate":new Date(1660559342868.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -225,7 +225,7 @@
               "y":150},
             "size":{
               "width":660,
-              "height":156}},
+              "height":157}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -235,6 +235,10 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
                 "size":{
                   "width":82,
                   "height":36}},
@@ -248,6 +252,10 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
                     "size":{
                       "width":82,
                       "height":36}},
@@ -262,6 +270,10 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
                 "location":{
                   "x":0,
                   "y":36},
@@ -278,6 +290,10 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
                     "location":{
                       "x":0,
                       "y":36},
@@ -295,6 +311,10 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
                 "location":{
                   "x":0,
                   "y":56},
@@ -311,6 +331,10 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
                     "location":{
                       "x":0,
                       "y":56},
@@ -328,6 +352,10 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
                 "location":{
                   "x":0,
                   "y":76},
@@ -344,6 +372,10 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
                     "location":{
                       "x":0,
                       "y":76},
@@ -361,12 +393,16 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
                 "location":{
                   "x":0,
                   "y":96},
                 "size":{
                   "width":82,
-                  "height":20}},
+                  "height":21}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -377,16 +413,20 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
                     "location":{
                       "x":0,
                       "y":96},
                     "size":{
                       "width":82,
-                      "height":20}},
+                      "height":21}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理/u39.png"}},
+                "normal~":"images/外部融资余额管理/u75.png"}},
 {
               "id":"41d9ed8a690343fb83772a5ec998dc71",
               "label":"",
@@ -394,9 +434,13 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
                 "location":{
                   "x":0,
-                  "y":116},
+                  "y":117},
                 "size":{
                   "width":82,
                   "height":20}},
@@ -410,9 +454,13 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
                     "location":{
                       "x":0,
-                      "y":116},
+                      "y":117},
                     "size":{
                       "width":82,
                       "height":20}},
@@ -427,9 +475,13 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
                 "location":{
                   "x":0,
-                  "y":136},
+                  "y":137},
                 "size":{
                   "width":82,
                   "height":20}},
@@ -443,9 +495,13 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
                     "location":{
                       "x":0,
-                      "y":136},
+                      "y":137},
                     "size":{
                       "width":82,
                       "height":20}},
@@ -597,7 +653,7 @@
                   "y":96},
                 "size":{
                   "width":78,
-                  "height":20}},
+                  "height":21}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -613,11 +669,11 @@
                       "y":96},
                     "size":{
                       "width":78,
-                      "height":20}},
+                      "height":21}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理/u45.png"}},
+                "normal~":"images/外部融资余额管理/u77.png"}},
 {
               "id":"66091384b279416e88d56499c111e7da",
               "label":"",
@@ -627,7 +683,7 @@
               "style":{
                 "location":{
                   "x":82,
-                  "y":116},
+                  "y":117},
                 "size":{
                   "width":78,
                   "height":20}},
@@ -643,7 +699,7 @@
                   "style":{
                     "location":{
                       "x":82,
-                      "y":116},
+                      "y":117},
                     "size":{
                       "width":78,
                       "height":20}},
@@ -660,7 +716,7 @@
               "style":{
                 "location":{
                   "x":82,
-                  "y":136},
+                  "y":137},
                 "size":{
                   "width":78,
                   "height":20}},
@@ -676,7 +732,7 @@
                   "style":{
                     "location":{
                       "x":82,
-                      "y":136},
+                      "y":137},
                     "size":{
                       "width":78,
                       "height":20}},
@@ -828,7 +884,7 @@
                   "y":96},
                 "size":{
                   "width":71,
-                  "height":20}},
+                  "height":21}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -844,11 +900,11 @@
                       "y":96},
                     "size":{
                       "width":71,
-                      "height":20}},
+                      "height":21}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理/u49.png"}},
+                "normal~":"images/外部融资余额管理/u79.png"}},
 {
               "id":"d224c6022f2941c7999840d583c90572",
               "label":"",
@@ -858,7 +914,7 @@
               "style":{
                 "location":{
                   "x":160,
-                  "y":116},
+                  "y":117},
                 "size":{
                   "width":71,
                   "height":20}},
@@ -874,7 +930,7 @@
                   "style":{
                     "location":{
                       "x":160,
-                      "y":116},
+                      "y":117},
                     "size":{
                       "width":71,
                       "height":20}},
@@ -891,7 +947,7 @@
               "style":{
                 "location":{
                   "x":160,
-                  "y":136},
+                  "y":137},
                 "size":{
                   "width":71,
                   "height":20}},
@@ -907,7 +963,7 @@
                   "style":{
                     "location":{
                       "x":160,
-                      "y":136},
+                      "y":137},
                     "size":{
                       "width":71,
                       "height":20}},
@@ -1059,7 +1115,7 @@
                   "y":96},
                 "size":{
                   "width":113,
-                  "height":20}},
+                  "height":21}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -1075,11 +1131,11 @@
                       "y":96},
                     "size":{
                       "width":113,
-                      "height":20}},
+                      "height":21}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理/u51.png"}},
+                "normal~":"images/外部融资余额管理/u81.png"}},
 {
               "id":"959606aef7754fd2b72bdc2488d95e48",
               "label":"",
@@ -1089,7 +1145,7 @@
               "style":{
                 "location":{
                   "x":231,
-                  "y":116},
+                  "y":117},
                 "size":{
                   "width":113,
                   "height":20}},
@@ -1105,7 +1161,7 @@
                   "style":{
                     "location":{
                       "x":231,
-                      "y":116},
+                      "y":117},
                     "size":{
                       "width":113,
                       "height":20}},
@@ -1122,7 +1178,7 @@
               "style":{
                 "location":{
                   "x":231,
-                  "y":136},
+                  "y":137},
                 "size":{
                   "width":113,
                   "height":20}},
@@ -1138,7 +1194,7 @@
                   "style":{
                     "location":{
                       "x":231,
-                      "y":136},
+                      "y":137},
                     "size":{
                       "width":113,
                       "height":20}},
@@ -1290,7 +1346,7 @@
                   "y":96},
                 "size":{
                   "width":87,
-                  "height":20}},
+                  "height":21}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -1306,11 +1362,11 @@
                       "y":96},
                     "size":{
                       "width":87,
-                      "height":20}},
+                      "height":21}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理/u55.png"}},
+                "normal~":"images/外部融资余额管理/u83.png"}},
 {
               "id":"5c284c4e03884afa8ac14a75348dc265",
               "label":"",
@@ -1320,7 +1376,7 @@
               "style":{
                 "location":{
                   "x":344,
-                  "y":116},
+                  "y":117},
                 "size":{
                   "width":87,
                   "height":20}},
@@ -1336,7 +1392,7 @@
                   "style":{
                     "location":{
                       "x":344,
-                      "y":116},
+                      "y":117},
                     "size":{
                       "width":87,
                       "height":20}},
@@ -1353,7 +1409,7 @@
               "style":{
                 "location":{
                   "x":344,
-                  "y":136},
+                  "y":137},
                 "size":{
                   "width":87,
                   "height":20}},
@@ -1369,7 +1425,7 @@
                   "style":{
                     "location":{
                       "x":344,
-                      "y":136},
+                      "y":137},
                     "size":{
                       "width":87,
                       "height":20}},
@@ -1521,7 +1577,7 @@
                   "y":96},
                 "size":{
                   "width":51,
-                  "height":20}},
+                  "height":21}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -1537,11 +1593,11 @@
                       "y":96},
                     "size":{
                       "width":51,
-                      "height":20}},
+                      "height":21}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理/u57.png"}},
+                "normal~":"images/外部融资余额管理/u85.png"}},
 {
               "id":"272301e5baae4304929b726da44d1680",
               "label":"",
@@ -1551,7 +1607,7 @@
               "style":{
                 "location":{
                   "x":431,
-                  "y":116},
+                  "y":117},
                 "size":{
                   "width":51,
                   "height":20}},
@@ -1567,7 +1623,7 @@
                   "style":{
                     "location":{
                       "x":431,
-                      "y":116},
+                      "y":117},
                     "size":{
                       "width":51,
                       "height":20}},
@@ -1584,7 +1640,7 @@
               "style":{
                 "location":{
                   "x":431,
-                  "y":136},
+                  "y":137},
                 "size":{
                   "width":51,
                   "height":20}},
@@ -1600,7 +1656,7 @@
                   "style":{
                     "location":{
                       "x":431,
-                      "y":136},
+                      "y":137},
                     "size":{
                       "width":51,
                       "height":20}},
@@ -1752,7 +1808,7 @@
                   "y":96},
                 "size":{
                   "width":46,
-                  "height":20}},
+                  "height":21}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -1768,11 +1824,11 @@
                       "y":96},
                     "size":{
                       "width":46,
-                      "height":20}},
+                      "height":21}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理/u59.png"}},
+                "normal~":"images/外部融资余额管理/u87.png"}},
 {
               "id":"6b6455cb923849349cbeac82201050b4",
               "label":"",
@@ -1782,7 +1838,7 @@
               "style":{
                 "location":{
                   "x":482,
-                  "y":116},
+                  "y":117},
                 "size":{
                   "width":46,
                   "height":20}},
@@ -1798,7 +1854,7 @@
                   "style":{
                     "location":{
                       "x":482,
-                      "y":116},
+                      "y":117},
                     "size":{
                       "width":46,
                       "height":20}},
@@ -1815,7 +1871,7 @@
               "style":{
                 "location":{
                   "x":482,
-                  "y":136},
+                  "y":137},
                 "size":{
                   "width":46,
                   "height":20}},
@@ -1831,7 +1887,7 @@
                   "style":{
                     "location":{
                       "x":482,
-                      "y":136},
+                      "y":137},
                     "size":{
                       "width":46,
                       "height":20}},
@@ -1991,7 +2047,7 @@
                   "y":96},
                 "size":{
                   "width":132,
-                  "height":20}},
+                  "height":21}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -2007,11 +2063,11 @@
                       "y":96},
                     "size":{
                       "width":132,
-                      "height":20}},
+                      "height":21}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理/u61.png"}},
+                "normal~":"images/外部融资余额管理/u89.png"}},
 {
               "id":"8f05a4383df845adac07e6a8bbcf5ed2",
               "label":"",
@@ -2021,7 +2077,7 @@
               "style":{
                 "location":{
                   "x":528,
-                  "y":116},
+                  "y":117},
                 "size":{
                   "width":132,
                   "height":20}},
@@ -2037,7 +2093,7 @@
                   "style":{
                     "location":{
                       "x":528,
-                      "y":116},
+                      "y":117},
                     "size":{
                       "width":132,
                       "height":20}},
@@ -2054,7 +2110,7 @@
               "style":{
                 "location":{
                   "x":528,
-                  "y":136},
+                  "y":137},
                 "size":{
                   "width":132,
                   "height":20}},
@@ -2070,7 +2126,7 @@
                   "style":{
                     "location":{
                       "x":528,
-                      "y":136},
+                      "y":137},
                     "size":{
                       "width":132,
                       "height":20}},

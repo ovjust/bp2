@@ -57,6 +57,18 @@
             "type":"Wireframe",
             "url":"外部融资余额管理.html"},
 {
+            "pageName":"融资信息管理",
+            "type":"Wireframe",
+            "url":"融资信息管理.html"},
+{
+            "pageName":"融资计划管理",
+            "type":"Wireframe",
+            "url":"融资计划管理.html"},
+{
+            "pageName":"风险评估管理",
+            "type":"Wireframe",
+            "url":"风险评估管理.html"},
+{
             "pageName":"流程审批功能",
             "type":"Wireframe",
             "url":"流程审批功能.html"},
@@ -87,7 +99,11 @@
 {
         "pageName":"功能风格",
         "type":"Wireframe",
-        "url":"功能风格.html"}]},
+        "url":"功能风格.html"},
+{
+        "pageName":"OA对接",
+        "type":"Wireframe",
+        "url":"oa对接.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

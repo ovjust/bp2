@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"工作周报管理.html",
-  "generationDate":new Date(1659928324063.77),
+  "generationDate":new Date(1660559343666.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2215,7 +2215,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作周报管理/u10.png"}},
+                "normal~":"images/融资信息管理/u25.png"}},
 {
               "id":"ad23462e535041cb8b2a4d44e139f891",
               "label":"",
@@ -2406,7 +2406,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作周报管理/u50.png"}},
+                "normal~":"images/融资信息管理/u41.png"}},
 {
               "id":"3db0ce01f9e64a7ea7ab977e6df55e15",
               "label":"",
@@ -2439,7 +2439,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作周报管理/u50.png"}},
+                "normal~":"images/融资信息管理/u41.png"}},
 {
               "id":"497f94739c7d47ffa36b8835f0b8df49",
               "label":"",
@@ -2622,7 +2622,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作周报管理/u50.png"}},
+                "normal~":"images/融资信息管理/u41.png"}},
 {
               "id":"a787ec58884447388b5715bb1ac4f9f1",
               "label":"",
@@ -2698,7 +2698,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作周报管理/u50.png"}},
+                "normal~":"images/融资信息管理/u41.png"}},
 {
               "id":"de5b550f252b48e8a23d19bc4447b80d",
               "label":"",
