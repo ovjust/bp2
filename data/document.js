@@ -103,7 +103,11 @@
 {
         "pageName":"OA对接",
         "type":"Wireframe",
-        "url":"oa对接.html"}]},
+        "url":"oa对接.html"},
+{
+        "pageName":"接口对接",
+        "type":"Wireframe",
+        "url":"接口对接.html"}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{
