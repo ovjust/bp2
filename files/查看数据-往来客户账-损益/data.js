@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-往来客户账-损益.html",
-  "generationDate":new Date(1661326025987.98),
+  "generationDate":new Date(1661334571062.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -347,7 +347,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额登记管理-delete/u183.png"}},
+            "normal~":"images/余额_收入详情/u73.png"}},
 {
           "id":"9823c2fd75634c248a33ad460214f2de",
           "label":"",

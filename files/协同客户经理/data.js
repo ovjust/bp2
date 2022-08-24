@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"协同客户经理.html",
-  "generationDate":new Date(1661326033010.42),
+  "generationDate":new Date(1661334576272.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -158,7 +158,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/贷款余额登记管理-delete/u6_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"1c6c986da48a4abab79039b45f08ef7e",
           "label":"",
@@ -217,7 +217,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u15.png"}},
+                "normal~":"images/余额_收入详情/u37.png"}},
 {
               "id":"a4024332b9bd47248c4f9e38de61f73c",
               "label":"",
@@ -250,7 +250,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u39.png"}},
+                "normal~":"images/余额_收入详情/u15.png"}},
 {
               "id":"6eeac3850be74af5bd42ace98709d32b",
               "label":"",
@@ -283,7 +283,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u39.png"}},
+                "normal~":"images/余额_收入详情/u15.png"}},
 {
               "id":"978c3a8a54d44fbdbcca480cefb4c4e2",
               "label":"",
@@ -316,7 +316,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u159.png"}},
+                "normal~":"images/金融产品管理/u51.png"}},
 {
               "id":"58bae2b351264fbe80b960f2f5d3a5d9",
               "label":"",
@@ -351,7 +351,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u21.png"}},
+                "normal~":"images/客户管理-业务数据/u93.png"}},
 {
               "id":"96e890df29df4c84b62c15ce260153f7",
               "label":"",
@@ -384,7 +384,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u45.png"}},
+                "normal~":"images/客户管理-业务数据/u67.png"}},
 {
               "id":"48fd2b48789943afb36e186954c7910b",
               "label":"",
@@ -417,7 +417,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u45.png"}},
+                "normal~":"images/客户管理-业务数据/u67.png"}},
 {
               "id":"e628bf22227645c1b91c7486e976761b",
               "label":"",
@@ -450,7 +450,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u165.png"}},
+                "normal~":"images/客户管理-业务数据/u497.png"}},
 {
               "id":"142ef0867a0f4ba7b8c7ade95ac64375",
               "label":"",
@@ -483,7 +483,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u33.png"}},
+                "normal~":"images/金融产品管理/u17.png"}},
 {
               "id":"f91d67b0154a4d638e78b652a41dd655",
               "label":"",
@@ -516,7 +516,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u57.png"}},
+                "normal~":"images/金融产品管理/u31.png"}},
 {
               "id":"3ee67ee02bc74656b64d51654ca8884b",
               "label":"",
@@ -549,7 +549,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u57.png"}},
+                "normal~":"images/金融产品管理/u31.png"}},
 {
               "id":"3a281df8cf2245f0b772441fe1298320",
               "label":"",
@@ -582,7 +582,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u177.png"}},
+                "normal~":"images/金融产品管理/u59.png"}},
 {
               "id":"7e839768e5d041709889ed5c2577cc59",
               "label":"",
@@ -615,7 +615,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u35.png"}},
+                "normal~":"images/余额_收入详情/u29.png"}},
 {
               "id":"37614c2fcc704ec48634351ab3db5729",
               "label":"",
@@ -648,7 +648,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u59.png"}},
+                "normal~":"images/余额_收入详情/u7.png"}},
 {
               "id":"099effa2cc5348ce85d5f465608f9d11",
               "label":"",
@@ -681,7 +681,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u59.png"}},
+                "normal~":"images/余额_收入详情/u7.png"}},
 {
               "id":"35ed3da7ca7e43cd8bd741909cca9616",
               "label":"",
@@ -714,7 +714,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u179.png"}},
+                "normal~":"images/金融产品管理/u61.png"}},
 {
               "id":"eaf62c42c8c041509fb01c649232aaf2",
               "label":"",
@@ -747,7 +747,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u37.png"}},
+                "normal~":"images/金融产品管理/u21.png"}},
 {
               "id":"20773267381140e68b30679349bb2090",
               "label":"",
@@ -788,7 +788,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u61.png"}},
+                "normal~":"images/金融产品管理/u35.png"}},
 {
               "id":"81cf65cb04954b638a6bcb88724204e1",
               "label":"",
@@ -821,7 +821,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u61.png"}},
+                "normal~":"images/金融产品管理/u35.png"}},
 {
               "id":"f7df7ee4553a4526a70ea01bc7407799",
               "label":"",
@@ -854,7 +854,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u181.png"}},
+                "normal~":"images/金融产品管理/u63.png"}},
 {
               "id":"9e5d3ae5e9834e348cfcea5a3ffeb893",
               "label":"",
@@ -891,7 +891,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u21.png"}},
+                "normal~":"images/客户管理-业务数据/u93.png"}},
 {
               "id":"a387dcfb287a401c8029f01886df6e45",
               "label":"",
@@ -924,7 +924,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u45.png"}},
+                "normal~":"images/客户管理-业务数据/u67.png"}},
 {
               "id":"6c2ec79709e44573a608b229bed037a4",
               "label":"",
@@ -957,7 +957,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u45.png"}},
+                "normal~":"images/客户管理-业务数据/u67.png"}},
 {
               "id":"8ba056774410417bbaaa6331576dcfb9",
               "label":"",
@@ -990,7 +990,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u165.png"}},
+                "normal~":"images/客户管理-业务数据/u497.png"}},
 {
               "id":"a89a549e432d408a982444b37e06f422",
               "label":"",
@@ -1023,7 +1023,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u21.png"}},
+                "normal~":"images/客户管理-业务数据/u93.png"}},
 {
               "id":"e3917bb9c3234ee6b85fbac5d112d194",
               "label":"",
@@ -1056,7 +1056,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u45.png"}},
+                "normal~":"images/客户管理-业务数据/u67.png"}},
 {
               "id":"3e90718b2e3f4c158900efe4baff344d",
               "label":"",
@@ -1089,7 +1089,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u45.png"}},
+                "normal~":"images/客户管理-业务数据/u67.png"}},
 {
               "id":"f797e4975614413cb789ba6746bf8367",
               "label":"",
@@ -1122,7 +1122,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u165.png"}},
+                "normal~":"images/客户管理-业务数据/u497.png"}},
 {
               "id":"1c14cf9e78f64639a15d2726742a5937",
               "label":"",
@@ -1155,7 +1155,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u21.png"}},
+                "normal~":"images/客户管理-业务数据/u93.png"}},
 {
               "id":"9973a36b34fe410d8ea57b4430bd86e6",
               "label":"",
@@ -1188,7 +1188,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u45.png"}},
+                "normal~":"images/客户管理-业务数据/u67.png"}},
 {
               "id":"29b01109fa964c0488cee9f74b4d29ae",
               "label":"",
@@ -1221,7 +1221,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u45.png"}},
+                "normal~":"images/客户管理-业务数据/u67.png"}},
 {
               "id":"188d2cb9635e40c894f404b9bd197dbc",
               "label":"",
@@ -1254,7 +1254,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u165.png"}}]},
+                "normal~":"images/客户管理-业务数据/u497.png"}}]},
 {
           "id":"a8aa1723f3b242158d0f748101787a78",
           "label":"",
@@ -1287,7 +1287,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额登记管理-delete/u183.png"}},
+            "normal~":"images/余额_收入详情/u73.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

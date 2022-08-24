@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"oa对接.html",
-  "generationDate":new Date(1661326032791.66),
+  "generationDate":new Date(1661334576079.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -518,7 +518,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"78f9c6321c574cc0bf885cfa9f1f5536",
               "label":"",
@@ -555,7 +555,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"45af4b5a3e2a41e8b301925def01a8c2",
               "label":"",
@@ -592,7 +592,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u85.png"}}]}]}},
+                "normal~":"images/客户管理-业务数据/u11.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{

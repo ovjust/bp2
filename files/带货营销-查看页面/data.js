@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"带货营销-查看页面.html",
-  "generationDate":new Date(1661326033333.81),
+  "generationDate":new Date(1661334576553.43),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -150,7 +150,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"b34a2620213d44e2a2ccaa7c25e6953a",
               "label":"",
@@ -224,7 +224,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"4075bdf1dcb6446e9d7de78a2d989fa7",
               "label":"",
@@ -298,7 +298,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u85.png"}},
+                "normal~":"images/客户管理-业务数据/u11.png"}},
 {
               "id":"454b18b8eeda4613882bd363062f08ac",
               "label":"",
@@ -372,7 +372,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"f336ac256a8a4c5bb4ebdee0a4cddb1e",
               "label":"",
@@ -625,7 +625,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"25f137f73d944e7bbe74286451d33c8b",
               "label":"",
@@ -736,7 +736,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}}]},
+                "normal~":"images/客户管理-业务数据/u3.png"}}]},
 {
           "id":"2bcfcc45845c49558ff09843a2394530",
           "label":"",

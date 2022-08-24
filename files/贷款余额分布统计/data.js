@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额分布统计.html",
-  "generationDate":new Date(1661326023853.21),
+  "generationDate":new Date(1661334573627.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -174,7 +174,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/贷款余额登记管理-delete/u6_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"8f4a10112df24b938532ca6d6c9ca233",
           "label":"",
@@ -557,7 +557,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"efda258e96e14f99bab0fa5c808e339e",
               "label":"",
@@ -602,7 +602,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u85.png"}}]},
+                "normal~":"images/客户管理-业务数据/u11.png"}}]},
 {
           "id":"25d08ee1f20547749450e77003c5706a",
           "label":"",
@@ -656,7 +656,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"c7577c1445474d8e93ff12fd58506d88",
               "label":"",
@@ -701,7 +701,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u85.png"}}]},
+                "normal~":"images/客户管理-业务数据/u11.png"}}]},
 {
           "id":"30f061234d474c7bb98d3bc2544d6d2c",
           "label":"",

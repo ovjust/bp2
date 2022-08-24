@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"流程审批功能.html",
-  "generationDate":new Date(1661326029008.11),
+  "generationDate":new Date(1661334573040.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -166,7 +166,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/贷款余额登记管理-delete/u6_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"764ee102b4104c10b85745d10d312937",
           "label":"",
@@ -810,7 +810,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额登记管理-delete/u183.png"}},
+            "normal~":"images/余额_收入详情/u73.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",
@@ -909,7 +909,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"61b23f675b4b49b49de811edfd35b210",
               "label":"",
@@ -946,7 +946,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"49639ff5fe86402ebaac00d75821200a",
               "label":"",
@@ -983,7 +983,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u85.png"}}]},
+                "normal~":"images/客户管理-业务数据/u11.png"}}]},
 {
           "id":"05b115e75024423e9730dd5425c29637",
           "label":"",
@@ -1083,7 +1083,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"2df15728a53b4ef4ae935af8e31ed797",
               "label":"",
@@ -1120,7 +1120,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"dfecfed6f67247aeade28c92d01a69b8",
               "label":"",
@@ -1157,7 +1157,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u85.png"}}]},
+                "normal~":"images/客户管理-业务数据/u11.png"}}]},
 {
           "id":"942655ffcb5a4f909166533fbdff78a5",
           "label":"",
@@ -1511,7 +1511,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"1dd75270b4314b8383c042ed7f78d5a4",
               "label":"",
@@ -1556,7 +1556,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u81.png"}},
+                "normal~":"images/客户管理-业务数据/u3.png"}},
 {
               "id":"8ad3f3edc30442619f3f52d3f2ddd4aa",
               "label":"",
@@ -1593,7 +1593,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额走势图/u85.png"}}]}]}},
+                "normal~":"images/客户管理-业务数据/u11.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{

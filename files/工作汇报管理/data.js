@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"工作汇报管理.html",
-  "generationDate":new Date(1661326030195.15),
+  "generationDate":new Date(1661334574255.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -3319,7 +3319,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/贷款余额登记管理-delete/u6_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"1c6c986da48a4abab79039b45f08ef7e",
           "label":"",
@@ -5057,7 +5057,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额登记管理-delete/u183.png"}},
+            "normal~":"images/余额_收入详情/u73.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

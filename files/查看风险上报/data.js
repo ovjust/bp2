@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看风险上报.html",
-  "generationDate":new Date(1661326031059.98),
+  "generationDate":new Date(1661334574813.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -127,7 +127,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额登记管理-delete/u183.png"}},
+            "normal~":"images/余额_收入详情/u73.png"}},
 {
           "id":"69629e3599054cbcb30918a431c03592",
           "label":"",

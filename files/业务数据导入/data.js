@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"业务数据导入.html",
-  "generationDate":new Date(1661326025468.04),
+  "generationDate":new Date(1661334570693.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -39,7 +39,7 @@
           "style":{
             "location":{
               "x":40,
-              "y":363},
+              "y":420},
             "size":{
               "width":630,
               "height":237},
@@ -63,7 +63,7 @@
           "style":{
             "location":{
               "x":51,
-              "y":374},
+              "y":431},
             "size":{
               "width":608,
               "height":206}},
@@ -79,7 +79,7 @@
               "style":{
                 "location":{
                   "x":51,
-                  "y":374},
+                  "y":431},
                 "size":{
                   "width":608,
                   "height":206}},
@@ -150,7 +150,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/贷款余额登记管理-delete/u6_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"439257830ab740908d2f14e3d808ada8",
           "label":"",
@@ -175,7 +175,7 @@
           "style":{
             "location":{
               "x":69,
-              "y":374},
+              "y":431},
             "size":{
               "width":200,
               "height":28}},
@@ -191,7 +191,7 @@
               "style":{
                 "location":{
                   "x":69,
-                  "y":374},
+                  "y":431},
                 "size":{
                   "width":200,
                   "height":28}},
@@ -208,7 +208,7 @@
           "style":{
             "location":{
               "x":134,
-              "y":424},
+              "y":481},
             "size":{
               "width":86,
               "height":16}},
@@ -224,7 +224,7 @@
               "style":{
                 "location":{
                   "x":134,
-                  "y":424},
+                  "y":481},
                 "size":{
                   "width":86,
                   "height":16}},
@@ -272,7 +272,7 @@
           "style":{
             "location":{
               "x":370,
-              "y":525},
+              "y":582},
             "size":{
               "width":60,
               "height":25}},
@@ -305,7 +305,7 @@
           "style":{
             "location":{
               "x":444,
-              "y":525},
+              "y":582},
             "size":{
               "width":60,
               "height":25}},
@@ -320,7 +320,7 @@
           "style":{
             "location":{
               "x":717,
-              "y":394},
+              "y":451},
             "size":{
               "width":488,
               "height":160}},
@@ -336,7 +336,7 @@
               "style":{
                 "location":{
                   "x":717,
-                  "y":394},
+                  "y":451},
                 "size":{
                   "width":488,
                   "height":160}},
@@ -383,7 +383,7 @@
           "style":{
             "location":{
               "x":230,
-              "y":420},
+              "y":477},
             "size":{
               "width":120,
               "height":22}},
@@ -3536,7 +3536,7 @@
           "style":{
             "location":{
               "x":134,
-              "y":469},
+              "y":526},
             "size":{
               "width":112,
               "height":16}},
@@ -3552,7 +3552,7 @@
               "style":{
                 "location":{
                   "x":134,
-                  "y":469},
+                  "y":526},
                 "size":{
                   "width":112,
                   "height":16}},
@@ -3569,7 +3569,7 @@
           "style":{
             "location":{
               "x":246,
-              "y":470.5},
+              "y":527},
             "size":{
               "width":120,
               "height":22}},
@@ -3614,7 +3614,7 @@
           "style":{
             "location":{
               "x":40,
-              "y":634},
+              "y":703},
             "size":{
               "width":950,
               "height":426}},
@@ -3630,7 +3630,7 @@
               "style":{
                 "location":{
                   "x":40,
-                  "y":634},
+                  "y":703},
                 "size":{
                   "width":950,
                   "height":426}},
@@ -3653,7 +3653,7 @@
               "opacity":1},
             "location":{
               "x":68,
-              "y":634},
+              "y":703},
             "size":{
               "width":97,
               "height":28}},
@@ -3675,7 +3675,7 @@
                   "opacity":1},
                 "location":{
                   "x":68,
-                  "y":634},
+                  "y":703},
                 "size":{
                   "width":97,
                   "height":28}},
@@ -3692,7 +3692,7 @@
           "style":{
             "location":{
               "x":82,
-              "y":704},
+              "y":773},
             "size":{
               "width":112,
               "height":16}},
@@ -3708,7 +3708,7 @@
               "style":{
                 "location":{
                   "x":82,
-                  "y":704},
+                  "y":773},
                 "size":{
                   "width":112,
                   "height":16}},
@@ -3726,7 +3726,7 @@
           "style":{
             "location":{
               "x":194,
-              "y":705},
+              "y":774},
             "size":{
               "width":120,
               "height":22}},
@@ -3741,7 +3741,7 @@
           "style":{
             "location":{
               "x":82,
-              "y":737},
+              "y":806},
             "size":{
               "width":993,
               "height":52}},
@@ -4135,8 +4135,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":393.999969482422,
-              "y":424},
+              "x":394,
+              "y":481},
             "size":{
               "width":60,
               "height":16}},
@@ -4151,8 +4151,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":393.999969482422,
-                  "y":424},
+                  "x":394,
+                  "y":481},
                 "size":{
                   "width":60,
                   "height":16}},
@@ -4168,8 +4168,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":489.999969482422,
-              "y":420},
+              "x":490,
+              "y":477},
             "size":{
               "width":120,
               "height":22}},
@@ -4188,7 +4188,7 @@
               "opacity":1},
             "location":{
               "x":350,
-              "y":677},
+              "y":746},
             "size":{
               "width":54,
               "height":16}},
@@ -4208,7 +4208,7 @@
                   "opacity":1},
                 "location":{
                   "x":350,
-                  "y":677},
+                  "y":746},
                 "size":{
                   "width":54,
                   "height":16}},
@@ -4226,7 +4226,7 @@
           "style":{
             "location":{
               "x":446,
-              "y":673},
+              "y":742},
             "size":{
               "width":120,
               "height":22}},
@@ -4241,7 +4241,7 @@
           "style":{
             "location":{
               "x":194,
-              "y":673},
+              "y":742},
             "size":{
               "width":120,
               "height":22}},
@@ -4256,7 +4256,7 @@
           "style":{
             "location":{
               "x":82,
-              "y":678},
+              "y":747},
             "size":{
               "width":86,
               "height":16}},
@@ -4272,7 +4272,7 @@
               "style":{
                 "location":{
                   "x":82,
-                  "y":678},
+                  "y":747},
                 "size":{
                   "width":86,
                   "height":16}},
@@ -4289,7 +4289,7 @@
           "style":{
             "location":{
               "x":91,
-              "y":786},
+              "y":855},
             "size":{
               "width":830,
               "height":240}},
@@ -4305,7 +4305,7 @@
               "style":{
                 "location":{
                   "x":91,
-                  "y":786},
+                  "y":855},
                 "size":{
                   "width":830,
                   "height":240}},
@@ -4345,7 +4345,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额登记管理-delete/u183.png"}},
+            "normal~":"images/余额_收入详情/u73.png"}},
 {
           "id":"188510f8d3be4d6f82077828cd6aea16",
           "label":"",
@@ -4354,8 +4354,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":419.999969482422,
-              "y":1023},
+              "x":420,
+              "y":1092},
             "size":{
               "width":508,
               "height":37}},
@@ -4370,15 +4370,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":419.999969482422,
-                  "y":1023},
+                  "x":420,
+                  "y":1092},
                 "size":{
                   "width":508,
                   "height":37}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额登记管理-delete/u183.png"}},
+            "normal~":"images/余额_收入详情/u73.png"}},
 {
           "id":"9fd84ab0cd5747ffaffba9fd8713c6eb",
           "label":"",
@@ -4388,7 +4388,7 @@
           "style":{
             "location":{
               "x":937,
-              "y":990},
+              "y":1059},
             "size":{
               "width":166,
               "height":16}},
@@ -4404,7 +4404,7 @@
               "style":{
                 "location":{
                   "x":937,
-                  "y":990},
+                  "y":1059},
                 "size":{
                   "width":166,
                   "height":16}},

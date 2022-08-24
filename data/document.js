@@ -17,26 +17,6 @@
         "type":"Wireframe",
         "url":"首页.html"},
 {
-        "pageName":"报表-业务情况查询",
-        "type":"Wireframe",
-        "url":"报表-业务情况查询.html",
-        "children":[{
-            "pageName":"贷款余额登记管理-delete",
-            "type":"Wireframe",
-            "url":"贷款余额登记管理-delete.html"},
-{
-            "pageName":"贷款余额走势图",
-            "type":"Wireframe",
-            "url":"贷款余额走势图.html",
-            "children":[{
-                "pageName":"贷款余额走势图-同比",
-                "type":"Wireframe",
-                "url":"贷款余额走势图-同比.html"}]},
-{
-            "pageName":"贷款余额分布统计",
-            "type":"Wireframe",
-            "url":"贷款余额分布统计.html"}]},
-{
         "pageName":"客户管理",
         "type":"Wireframe",
         "url":"客户管理.html",
@@ -61,6 +41,10 @@
             "type":"Wireframe",
             "url":"专业公司客户名称管理.html"},
 {
+            "pageName":"业务数据导入权限配置-待确认",
+            "type":"Wireframe",
+            "url":"业务数据导入权限配置-待确认.html"},
+{
             "pageName":"业务数据导入",
             "type":"Wireframe",
             "url":"业务数据导入.html",
@@ -68,10 +52,6 @@
                 "pageName":"数据处理流程示意",
                 "type":"Wireframe",
                 "url":"数据处理流程示意.html"},
-{
-                "pageName":"业务数据导入权限配置",
-                "type":"Wireframe",
-                "url":"业务数据导入权限配置.html"},
 {
                 "pageName":"业务数据导入模板下载",
                 "type":"Wireframe",
@@ -156,6 +136,26 @@
             "pageName":"审批流程图",
             "type":"Wireframe",
             "url":"审批流程图.html"}]},
+{
+        "pageName":"报表-业务情况查询",
+        "type":"Wireframe",
+        "url":"报表-业务情况查询.html",
+        "children":[{
+            "pageName":"贷款余额登记管理-delete",
+            "type":"Wireframe",
+            "url":"贷款余额登记管理-delete.html"},
+{
+            "pageName":"贷款余额走势图",
+            "type":"Wireframe",
+            "url":"贷款余额走势图.html",
+            "children":[{
+                "pageName":"贷款余额走势图-同比",
+                "type":"Wireframe",
+                "url":"贷款余额走势图-同比.html"}]},
+{
+            "pageName":"贷款余额分布统计",
+            "type":"Wireframe",
+            "url":"贷款余额分布统计.html"}]},
 {
         "pageName":"知识库",
         "type":"Wireframe",

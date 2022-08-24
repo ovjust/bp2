@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"余额_收入详情.html",
-  "generationDate":new Date(1661326024854.18),
+  "generationDate":new Date(1661334569826.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -301,7 +301,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u59.png"}},
+                "normal~":"images/余额_收入详情/u7.png"}},
 {
               "id":"6c3713641688475fbc573c8fd73b44c3",
               "label":"",
@@ -334,7 +334,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u35.png"}},
+                "normal~":"images/余额_收入详情/u29.png"}},
 {
               "id":"ed4e6e4a14e847779de41aed5f3e5284",
               "label":"",
@@ -697,7 +697,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u39.png"}},
+                "normal~":"images/余额_收入详情/u15.png"}},
 {
               "id":"70f1f82007a34abba8c35c0b28eddf49",
               "label":"",
@@ -730,7 +730,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u15.png"}},
+                "normal~":"images/余额_收入详情/u37.png"}},
 {
               "id":"7320846bcdcf4400865ca29e8971e7c3",
               "label":"",
@@ -796,7 +796,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u59.png"}},
+                "normal~":"images/余额_收入详情/u7.png"}},
 {
               "id":"e9bf8107046a4a6d8d62b91cf0aa87cf",
               "label":"",
@@ -829,7 +829,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/贷款余额登记管理-delete/u35.png"}},
+                "normal~":"images/余额_收入详情/u29.png"}},
 {
               "id":"1a73f376ccce43ad9b91d6e28920c2cc",
               "label":"",
@@ -1258,7 +1258,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额登记管理-delete/u183.png"}},
+            "normal~":"images/余额_收入详情/u73.png"}},
 {
           "id":"cae5e35943cd40478ecfab772b383877",
           "label":"",

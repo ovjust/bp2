@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"部门经理.html",
-  "generationDate":new Date(1661326030655.3),
+  "generationDate":new Date(1661334574519.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
