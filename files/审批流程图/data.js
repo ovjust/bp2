@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"审批流程图.html",
-  "generationDate":new Date(1660793550373.59),
+  "generationDate":new Date(1661326029059.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -63,22 +63,22 @@
           "images":{
             "normal~":"images/审批流程图/u0.jpg"}},
 {
-          "id":"662cbef4b8d145d5820ec2407987bbd8",
+          "id":"6f7c862df49c4404997736a0ae9bbeda",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
           "visible":true,
           "style":{
             "location":{
-              "x":70,
-              "y":454},
+              "x":770,
+              "y":150},
             "size":{
-              "width":170,
-              "height":16}},
+              "width":552,
+              "height":144}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"65f9b54ed9794cd9bb141cfae68d131e",
+              "id":"1b0599a1beee456facac9f93e2d466ce",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -86,11 +86,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":70,
-                  "y":454},
+                  "x":770,
+                  "y":150},
                 "size":{
-                  "width":170,
-                  "height":16}},
+                  "width":552,
+                  "height":144}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -102,7 +102,7 @@
       "scriptId":"u0"},
     "02f0010238704a91ae1fb8c806e7c8b3":{
       "scriptId":"u1"},
-    "662cbef4b8d145d5820ec2407987bbd8":{
+    "6f7c862df49c4404997736a0ae9bbeda":{
       "scriptId":"u2"},
-    "65f9b54ed9794cd9bb141cfae68d131e":{
+    "1b0599a1beee456facac9f93e2d466ce":{
       "scriptId":"u3"}}});

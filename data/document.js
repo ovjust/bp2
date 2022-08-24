@@ -13,25 +13,41 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
+        "pageName":"首页",
+        "type":"Wireframe",
+        "url":"首页.html"},
+{
         "pageName":"报表-业务情况查询",
         "type":"Wireframe",
         "url":"报表-业务情况查询.html",
         "children":[{
-            "pageName":"贷款余额登记管理",
+            "pageName":"贷款余额登记管理-delete",
             "type":"Wireframe",
-            "url":"贷款余额登记管理.html"},
+            "url":"贷款余额登记管理-delete.html"},
 {
-            "pageName":"贷款余额走势图-按月",
+            "pageName":"贷款余额走势图",
             "type":"Wireframe",
-            "url":"贷款余额走势图-按月.html"},
-{
-            "pageName":"贷款余额走势图-同比",
-            "type":"Wireframe",
-            "url":"贷款余额走势图-同比.html"},
+            "url":"贷款余额走势图.html",
+            "children":[{
+                "pageName":"贷款余额走势图-同比",
+                "type":"Wireframe",
+                "url":"贷款余额走势图-同比.html"}]},
 {
             "pageName":"贷款余额分布统计",
             "type":"Wireframe",
             "url":"贷款余额分布统计.html"}]},
+{
+        "pageName":"客户管理",
+        "type":"Wireframe",
+        "url":"客户管理.html",
+        "children":[{
+            "pageName":"客户管理-业务数据",
+            "type":"Wireframe",
+            "url":"客户管理-业务数据.html",
+            "children":[{
+                "pageName":"余额/收入详情",
+                "type":"Wireframe",
+                "url":"余额_收入详情.html"}]}]},
 {
         "pageName":"业务数据",
         "type":"Wireframe",
@@ -41,13 +57,77 @@
             "type":"Wireframe",
             "url":"金融产品管理.html"},
 {
-            "pageName":"客户管理-业务数据",
+            "pageName":"专业公司客户名称管理",
             "type":"Wireframe",
-            "url":"客户管理-业务数据.html"},
+            "url":"专业公司客户名称管理.html"},
 {
-            "pageName":"内部业务数据管理",
+            "pageName":"业务数据导入",
             "type":"Wireframe",
-            "url":"内部业务数据管理.html"},
+            "url":"业务数据导入.html",
+            "children":[{
+                "pageName":"数据处理流程示意",
+                "type":"Wireframe",
+                "url":"数据处理流程示意.html"},
+{
+                "pageName":"业务数据导入权限配置",
+                "type":"Wireframe",
+                "url":"业务数据导入权限配置.html"},
+{
+                "pageName":"业务数据导入模板下载",
+                "type":"Wireframe",
+                "url":"业务数据导入模板下载.html"},
+{
+                "pageName":"查看数据-财务公司",
+                "type":"Wireframe",
+                "url":"查看数据-财务公司.html"},
+{
+                "pageName":"查看数据-保理公司",
+                "type":"Wireframe",
+                "url":"查看数据-保理公司.html"},
+{
+                "pageName":"查看数据-往来客户账-损益",
+                "type":"Wireframe",
+                "url":"查看数据-往来客户账-损益.html"},
+{
+                "pageName":"查看数据-香港公司",
+                "type":"Wireframe",
+                "url":"查看数据-香港公司.html"},
+{
+                "pageName":"查看数据-租赁公司",
+                "type":"Wireframe",
+                "url":"查看数据-租赁公司.html"},
+{
+                "pageName":"查看数据-历史融资",
+                "type":"Wireframe",
+                "url":"查看数据-历史融资.html"},
+{
+                "pageName":"查看数据-融资计划",
+                "type":"Wireframe",
+                "url":"查看数据-融资计划.html"},
+{
+                "pageName":"查看数据-风险评估",
+                "type":"Wireframe",
+                "url":"查看数据-风险评估.html"},
+{
+                "pageName":"查看数据-集团融资预算",
+                "type":"Wireframe",
+                "url":"查看数据-集团融资预算.html"},
+{
+                "pageName":"查看数据-外部融资余额",
+                "type":"Wireframe",
+                "url":"查看数据-外部融资余额.html"},
+{
+                "pageName":"查看数据-外部融资数据",
+                "type":"Wireframe",
+                "url":"查看数据-外部融资数据.html"},
+{
+                "pageName":"查看数据-外部存款数据",
+                "type":"Wireframe",
+                "url":"查看数据-外部存款数据.html"}]},
+{
+            "pageName":"内部业务数据管理-仅查看",
+            "type":"Wireframe",
+            "url":"内部业务数据管理-仅查看.html"},
 {
             "pageName":"集团融资预算管理",
             "type":"Wireframe",
@@ -57,9 +137,9 @@
             "type":"Wireframe",
             "url":"外部融资余额管理.html"},
 {
-            "pageName":"融资信息管理",
+            "pageName":"历史融资管理",
             "type":"Wireframe",
-            "url":"融资信息管理.html"},
+            "url":"历史融资管理.html"},
 {
             "pageName":"融资计划管理",
             "type":"Wireframe",
@@ -89,25 +169,117 @@
             "type":"Wireframe",
             "url":"订阅管理.html"}]},
 {
-        "pageName":"工作周报",
+        "pageName":"工作汇报",
         "type":"Wireframe",
-        "url":"工作周报.html",
+        "url":"工作汇报.html",
         "children":[{
-            "pageName":"工作周报管理",
+            "pageName":"工作汇报管理",
             "type":"Wireframe",
-            "url":"工作周报管理.html"}]},
+            "url":"工作汇报管理.html",
+            "children":[{
+                "pageName":"部门经理",
+                "type":"Wireframe",
+                "url":"部门经理.html"}]},
+{
+            "pageName":"工作汇报期间设置",
+            "type":"Wireframe",
+            "url":"工作汇报期间设置.html"}]},
+{
+        "pageName":"风险看板",
+        "type":"Wireframe",
+        "url":"风险看板.html",
+        "children":[{
+            "pageName":"看板企业管理",
+            "type":"Wireframe",
+            "url":"看板企业管理.html",
+            "children":[{
+                "pageName":"查看风险上报",
+                "type":"Wireframe",
+                "url":"查看风险上报.html"}]},
+{
+            "pageName":"看板企业风险上报",
+            "type":"Wireframe",
+            "url":"看板企业风险上报.html"},
+{
+            "pageName":"看板企业风险上报任务",
+            "type":"Wireframe",
+            "url":"看板企业风险上报任务.html"}]},
+{
+        "pageName":"积分管理",
+        "type":"Wireframe",
+        "url":"积分管理.html",
+        "children":[{
+            "pageName":"客户经理积分配置",
+            "type":"Wireframe",
+            "url":"客户经理积分配置.html"},
+{
+            "pageName":"积分记录",
+            "type":"Wireframe",
+            "url":"积分记录.html"},
+{
+            "pageName":"积分统计",
+            "type":"Wireframe",
+            "url":"积分统计.html"}]},
+{
+        "pageName":"OA对接",
+        "type":"Wireframe",
+        "url":"oa对接.html",
+        "children":[{
+            "pageName":"接口对接",
+            "type":"Wireframe",
+            "url":"接口对接.html"}]},
 {
         "pageName":"功能风格",
         "type":"Wireframe",
         "url":"功能风格.html"},
 {
-        "pageName":"OA对接",
+        "pageName":"一期遗留、其它需求",
         "type":"Wireframe",
-        "url":"oa对接.html"},
+        "url":"一期遗留、其它需求.html",
+        "children":[{
+            "pageName":"协同客户经理",
+            "type":"Wireframe",
+            "url":"协同客户经理.html"},
 {
-        "pageName":"接口对接",
-        "type":"Wireframe",
-        "url":"接口对接.html"}]},
+            "pageName":"离职移交数据权限",
+            "type":"Wireframe",
+            "url":"离职移交数据权限.html"},
+{
+            "pageName":"其它需求",
+            "type":"Wireframe",
+            "url":"其它需求.html"}]},
+{
+        "pageName":"项目管理",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"新页面 1",
+            "type":"Wireframe",
+            "url":"新页面_1.html"}]},
+{
+        "pageName":"带货营销",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"带货营销-查看页面",
+            "type":"Wireframe",
+            "url":"带货营销-查看页面.html"},
+{
+            "pageName":"带货营销-第1级审批单据",
+            "type":"Wireframe",
+            "url":"带货营销-第1级审批单据.html"},
+{
+            "pageName":"带货营销-第2级审批单据",
+            "type":"Wireframe",
+            "url":"带货营销-第2级审批单据.html"},
+{
+            "pageName":"带货营销-第3、4级审批单据",
+            "type":"Wireframe",
+            "url":"带货营销-第3、4级审批单据.html"},
+{
+            "pageName":"带货营销-第3、4级审批单据的副本",
+            "type":"Wireframe",
+            "url":"带货营销-第3、4级审批单据的副本.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

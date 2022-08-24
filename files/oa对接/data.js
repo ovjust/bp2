@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"oa对接.html",
-  "generationDate":new Date(1660793550813.62),
+  "generationDate":new Date(1661326032791.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -41,7 +41,7 @@
               "y":60},
             "size":{
               "width":300,
-              "height":174}},
+              "height":204}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -74,7 +74,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/oa对接/u1.png"}},
+                "normal~":"images/客户管理-业务数据/u515.png"}},
 {
               "id":"6bb22d6ab8374ce6916ad82175334742",
               "label":"",
@@ -111,7 +111,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/oa对接/u1.png"}},
+                "normal~":"images/客户管理-业务数据/u515.png"}},
 {
               "id":"21e7e3c34375496dac88dfc4988832fe",
               "label":"",
@@ -185,7 +185,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/oa对接/u1.png"}},
+                "normal~":"images/客户管理-业务数据/u515.png"}},
 {
               "id":"4d0b297ba42a448cbaa113977b4afb44",
               "label":"",
@@ -222,7 +222,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/oa对接/u1.png"}},
+                "normal~":"images/客户管理-业务数据/u515.png"}},
 {
               "id":"807cc5f511d445eeaa2e01c4942ee9cb",
               "label":"",
@@ -296,7 +296,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/oa对接/u5.png"}},
+                "normal~":"images/客户管理-业务数据/u517.png"}},
 {
               "id":"ae5f6c4159b9403d855a350b27d47f1f",
               "label":"",
@@ -333,7 +333,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/oa对接/u5.png"}},
+                "normal~":"images/客户管理-业务数据/u517.png"}},
 {
               "id":"64da8bc53b384d3aaf3b6db76c6401d4",
               "label":"",
@@ -407,7 +407,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u3.png"}},
+                "normal~":"images/客户管理-业务数据/u515.png"}},
 {
               "id":"32976b21e12749789f78e394f2db304e",
               "label":"",
@@ -444,7 +444,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u3.png"}},
+                "normal~":"images/客户管理-业务数据/u515.png"}},
 {
               "id":"9346569feb774ffcbb3d0c6dfab7a4ef",
               "label":"",
@@ -481,7 +481,118 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u9.png"}}]}]}},
+                "normal~":"images/客户管理-业务数据/u517.png"}},
+{
+              "id":"c5f29837ab5d4f4a9f34cc5e0228ed26",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":174},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f3bb3e84cfeb44b5b11696e38035a2e5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":174},
+                    "size":{
+                      "width":100,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/贷款余额走势图/u81.png"}},
+{
+              "id":"78f9c6321c574cc0bf885cfa9f1f5536",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":100,
+                  "y":174},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c687f3e6a9d54977a4d4ca7740775769",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":100,
+                      "y":174},
+                    "size":{
+                      "width":100,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/贷款余额走势图/u81.png"}},
+{
+              "id":"45af4b5a3e2a41e8b301925def01a8c2",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":200,
+                  "y":174},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7e5d737ae8c948299c21b6b750c6f8fb",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":200,
+                      "y":174},
+                    "size":{
+                      "width":100,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/贷款余额走势图/u85.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -534,4 +645,16 @@
     "9346569feb774ffcbb3d0c6dfab7a4ef":{
       "scriptId":"u23"},
     "2b9e498d126c4383b72fb606254aeeed":{
-      "scriptId":"u24"}}});
+      "scriptId":"u24"},
+    "c5f29837ab5d4f4a9f34cc5e0228ed26":{
+      "scriptId":"u25"},
+    "f3bb3e84cfeb44b5b11696e38035a2e5":{
+      "scriptId":"u26"},
+    "78f9c6321c574cc0bf885cfa9f1f5536":{
+      "scriptId":"u27"},
+    "c687f3e6a9d54977a4d4ca7740775769":{
+      "scriptId":"u28"},
+    "45af4b5a3e2a41e8b301925def01a8c2":{
+      "scriptId":"u29"},
+    "7e5d737ae8c948299c21b6b750c6f8fb":{
+      "scriptId":"u30"}}});

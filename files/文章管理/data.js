@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章管理.html",
-  "generationDate":new Date(1660793550464.59),
+  "generationDate":new Date(1661326029289.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -158,7 +158,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/贷款余额登记管理/u6_line.png"}},
+            "line~":"images/贷款余额登记管理-delete/u6_line.png"}},
 {
           "id":"1c6c986da48a4abab79039b45f08ef7e",
           "label":"",
@@ -1294,7 +1294,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额登记管理/u183.png"}},
+            "normal~":"images/贷款余额登记管理-delete/u183.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

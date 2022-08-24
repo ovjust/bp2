@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额走势图-按月.html",
-  "generationDate":new Date(1660793548961.59),
+  "generationDate":new Date(1660895576151.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -108,7 +108,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/贷款余额登记管理/u6_line.png"}},
+            "line~":"images/贷款余额登记管理-delete/u6_line.png"}},
 {
           "id":"8f4a10112df24b938532ca6d6c9ca233",
           "label":"",

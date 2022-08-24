@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额分布统计.html",
-  "generationDate":new Date(1660793549050.59),
+  "generationDate":new Date(1661326023853.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,6 +30,72 @@
 },
     "diagram":{
       "objects":[{
+          "id":"fbf83aecf0fb4d548851cfb603f52fd2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":610,
+              "y":150},
+            "size":{
+              "width":540,
+              "height":630}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"864a938c48574904a01ef09fd7133f0c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":610,
+                  "y":150},
+                "size":{
+                  "width":540,
+                  "height":630}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/贷款余额分布统计/u0.png"}},
+{
+          "id":"ce72021d42ec484195c394e43d5ae5e4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":60,
+              "y":150},
+            "size":{
+              "width":540,
+              "height":680}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dfb39b13386149a1a907763ced1e6a18",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":60,
+                  "y":150},
+                "size":{
+                  "width":540,
+                  "height":680}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/贷款余额分布统计/u2.png"}},
+{
           "id":"e2074b88634e448a98768fcb6bad6b7c",
           "label":"",
           "type":"buttonShape",
@@ -108,7 +174,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/贷款余额登记管理/u6_line.png"}},
+            "line~":"images/贷款余额登记管理-delete/u6_line.png"}},
 {
           "id":"8f4a10112df24b938532ca6d6c9ca233",
           "label":"",
@@ -216,41 +282,6 @@
           "adaptiveStyles":{
 }},
 {
-          "id":"a6a7e844839f4989a3442d660b0e1c63",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"h2",
-          "visible":true,
-          "style":{
-            "fontSize":"14px",
-            "location":{
-              "x":90,
-              "y":132},
-            "size":{
-              "width":155,
-              "height":17}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"1a109bf4e95b43328d1b1bbd12a37111",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "fontSize":"14px",
-                "location":{
-                  "x":90,
-                  "y":132},
-                "size":{
-                  "width":155,
-                  "height":17}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"9cc3fe9ded3d431592cdf96aa055bf24",
           "label":"",
           "type":"buttonShape",
@@ -320,7 +351,7 @@
               "y":842},
             "size":{
               "width":386,
-              "height":144}},
+              "height":160}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -336,7 +367,7 @@
                   "y":842},
                 "size":{
                   "width":386,
-                  "height":144}},
+                  "height":160}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -373,7 +404,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额分布统计/u18.png"}},
+            "normal~":"images/贷款余额分布统计/u20.png"}},
 {
           "id":"a098d15fe3c34c268614c9e617f06616",
           "label":"",
@@ -406,7 +437,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额分布统计/u20.png"}},
+            "normal~":"images/贷款余额分布统计/u22.png"}},
 {
           "id":"718194434ba440b7a454fbb01fe69b99",
           "label":"",
@@ -439,7 +470,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额分布统计/u22.png"}},
+            "normal~":"images/贷款余额分布统计/u24.png"}},
 {
           "id":"bd73998c2a384a29b5a32dd907e264a9",
           "label":"",
@@ -472,59 +503,318 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额分布统计/u24.png"}}]}},
+            "normal~":"images/贷款余额分布统计/u26.png"}},
+{
+          "id":"66ae6548095d47f1a17eb2af035f9f47",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":68,
+              "y":122},
+            "size":{
+              "width":200,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"89e965dae9c84a39ab0c3c6456380995",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"bb6a403db42842e6a268758fd082fab7",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "size":{
+                      "width":100,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/贷款余额走势图/u81.png"}},
+{
+              "id":"efda258e96e14f99bab0fa5c808e339e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000099,
+                  "opacity":1},
+                "location":{
+                  "x":100,
+                  "y":0},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"85e3ca4f319d46aa9bbe16debe418696",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000099,
+                      "opacity":1},
+                    "location":{
+                      "x":100,
+                      "y":0},
+                    "size":{
+                      "width":100,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/贷款余额走势图/u85.png"}}]},
+{
+          "id":"25d08ee1f20547749450e77003c5706a",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":125},
+            "size":{
+              "width":200,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f44b1c914ace4a35b0b248562af0896b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c15f824292384a208afbf3bb2459f4ea",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000000,
+                      "opacity":1},
+                    "size":{
+                      "width":100,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/贷款余额走势图/u81.png"}},
+{
+              "id":"c7577c1445474d8e93ff12fd58506d88",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":100,
+                  "y":0},
+                "size":{
+                  "width":100,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0ff362d9e0e34238ac85fcf1d0d7528c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFF0000,
+                      "opacity":1},
+                    "location":{
+                      "x":100,
+                      "y":0},
+                    "size":{
+                      "width":100,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/贷款余额走势图/u85.png"}}]},
+{
+          "id":"30f061234d474c7bb98d3bc2544d6d2c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":76,
+              "y":784},
+            "size":{
+              "width":312,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"01161e8f26c54fc0ac00ccf34f9c3324",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":76,
+                  "y":784},
+                "size":{
+                  "width":312,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "e2074b88634e448a98768fcb6bad6b7c":{
+    "fbf83aecf0fb4d548851cfb603f52fd2":{
       "scriptId":"u0"},
-    "4e83c609a0384a3c925cbe416b84d670":{
+    "864a938c48574904a01ef09fd7133f0c":{
       "scriptId":"u1"},
-    "f248b7d560c1447ea2bb75187abc561c":{
+    "ce72021d42ec484195c394e43d5ae5e4":{
       "scriptId":"u2"},
-    "4006281f45324024977edc354b922a96":{
+    "dfb39b13386149a1a907763ced1e6a18":{
       "scriptId":"u3"},
-    "8f4a10112df24b938532ca6d6c9ca233":{
+    "e2074b88634e448a98768fcb6bad6b7c":{
       "scriptId":"u4"},
-    "b336e60f6a3348948b262ddd0c2a5c68":{
+    "4e83c609a0384a3c925cbe416b84d670":{
       "scriptId":"u5"},
-    "ddc748402e0d42fca0a6d8a2c040ad04":{
+    "f248b7d560c1447ea2bb75187abc561c":{
       "scriptId":"u6"},
-    "e5ef3f618ae84136ba49b793e068af9f":{
+    "4006281f45324024977edc354b922a96":{
       "scriptId":"u7"},
-    "f1828aa5bbf74245b81a691a70bef4a0":{
+    "8f4a10112df24b938532ca6d6c9ca233":{
       "scriptId":"u8"},
-    "12b83612b23f4520be05dd9f3f7b2f20":{
+    "b336e60f6a3348948b262ddd0c2a5c68":{
       "scriptId":"u9"},
-    "6665266d83c144ef8e68049b49f44499":{
+    "ddc748402e0d42fca0a6d8a2c040ad04":{
       "scriptId":"u10"},
-    "a6a7e844839f4989a3442d660b0e1c63":{
+    "e5ef3f618ae84136ba49b793e068af9f":{
       "scriptId":"u11"},
-    "1a109bf4e95b43328d1b1bbd12a37111":{
+    "f1828aa5bbf74245b81a691a70bef4a0":{
       "scriptId":"u12"},
-    "9cc3fe9ded3d431592cdf96aa055bf24":{
+    "12b83612b23f4520be05dd9f3f7b2f20":{
       "scriptId":"u13"},
-    "5a9d0a9a52ac434383118f571f52b18f":{
+    "6665266d83c144ef8e68049b49f44499":{
       "scriptId":"u14"},
-    "fec8214114404227aa334cf19b3feafc":{
+    "9cc3fe9ded3d431592cdf96aa055bf24":{
       "scriptId":"u15"},
-    "70bf561119cf424bbe4d45ecb4ddb761":{
+    "5a9d0a9a52ac434383118f571f52b18f":{
       "scriptId":"u16"},
-    "068e7f16ac6e406f958a0a5343c02f90":{
+    "fec8214114404227aa334cf19b3feafc":{
       "scriptId":"u17"},
-    "7e3ac14af3a64a91b25e7ceab4a314ef":{
+    "70bf561119cf424bbe4d45ecb4ddb761":{
       "scriptId":"u18"},
-    "7da7a92c924a47668af5f3cdd76981c3":{
+    "068e7f16ac6e406f958a0a5343c02f90":{
       "scriptId":"u19"},
-    "a098d15fe3c34c268614c9e617f06616":{
+    "7e3ac14af3a64a91b25e7ceab4a314ef":{
       "scriptId":"u20"},
-    "39e1f35fa5c44d8f9486b84589ba7443":{
+    "7da7a92c924a47668af5f3cdd76981c3":{
       "scriptId":"u21"},
-    "718194434ba440b7a454fbb01fe69b99":{
+    "a098d15fe3c34c268614c9e617f06616":{
       "scriptId":"u22"},
-    "f89ef61049dc460792b54d05713a5d97":{
+    "39e1f35fa5c44d8f9486b84589ba7443":{
       "scriptId":"u23"},
-    "bd73998c2a384a29b5a32dd907e264a9":{
+    "718194434ba440b7a454fbb01fe69b99":{
       "scriptId":"u24"},
+    "f89ef61049dc460792b54d05713a5d97":{
+      "scriptId":"u25"},
+    "bd73998c2a384a29b5a32dd907e264a9":{
+      "scriptId":"u26"},
     "1fb0942ded1f4e8298df78c36acfaef1":{
-      "scriptId":"u25"}}});
+      "scriptId":"u27"},
+    "66ae6548095d47f1a17eb2af035f9f47":{
+      "scriptId":"u28"},
+    "89e965dae9c84a39ab0c3c6456380995":{
+      "scriptId":"u29"},
+    "bb6a403db42842e6a268758fd082fab7":{
+      "scriptId":"u30"},
+    "efda258e96e14f99bab0fa5c808e339e":{
+      "scriptId":"u31"},
+    "85e3ca4f319d46aa9bbe16debe418696":{
+      "scriptId":"u32"},
+    "25d08ee1f20547749450e77003c5706a":{
+      "scriptId":"u33"},
+    "f44b1c914ace4a35b0b248562af0896b":{
+      "scriptId":"u34"},
+    "c15f824292384a208afbf3bb2459f4ea":{
+      "scriptId":"u35"},
+    "c7577c1445474d8e93ff12fd58506d88":{
+      "scriptId":"u36"},
+    "0ff362d9e0e34238ac85fcf1d0d7528c":{
+      "scriptId":"u37"},
+    "30f061234d474c7bb98d3bc2544d6d2c":{
+      "scriptId":"u38"},
+    "01161e8f26c54fc0ac00ccf34f9c3324":{
+      "scriptId":"u39"}}});
