@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-保经公司.html",
-  "generationDate":new Date(1661406630735.96),
+  "generationDate":new Date(1661416130114.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

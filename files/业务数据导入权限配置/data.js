@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"业务数据导入权限配置.html",
-  "generationDate":new Date(1661406629575.42),
+  "generationDate":new Date(1661416128931.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -158,7 +158,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/舆情查询/u3_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"1c6c986da48a4abab79039b45f08ef7e",
           "label":"",
@@ -350,6 +350,7 @@
           "label":"",
           "type":"button",
           "styleType":"button",
+          "disabled":true,
           "visible":true,
           "style":{
             "location":{

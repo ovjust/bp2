@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额登记管理-delete.html",
-  "generationDate":new Date(1661406633539.09),
+  "generationDate":new Date(1661416132922.19),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -166,7 +166,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/舆情查询/u3_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"599b37c01a494424a06b0cfd13d7b903",
           "label":"",

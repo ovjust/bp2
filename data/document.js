@@ -43,15 +43,7 @@
 {
             "pageName":"客户管理-变更",
             "type":"Wireframe",
-            "url":"客户管理-变更.html"},
-{
-            "pageName":"舆情查询",
-            "type":"Wireframe",
-            "url":"舆情查询.html",
-            "children":[{
-                "pageName":"司法舆情详情查看",
-                "type":"Wireframe",
-                "url":"司法舆情详情查看_1.html"}]}]},
+            "url":"客户管理-变更.html"}]},
 {
         "pageName":"业务数据",
         "type":"Wireframe",
@@ -231,7 +223,15 @@
 {
             "pageName":"看板企业风险上报任务",
             "type":"Wireframe",
-            "url":"看板企业风险上报任务.html"}]},
+            "url":"看板企业风险上报任务.html"},
+{
+            "pageName":"舆情查询",
+            "type":"Wireframe",
+            "url":"舆情查询.html",
+            "children":[{
+                "pageName":"司法舆情详情查看",
+                "type":"Wireframe",
+                "url":"司法舆情详情查看_1.html"}]}]},
 {
         "pageName":"积分管理",
         "type":"Wireframe",
@@ -255,15 +255,19 @@
         "children":[{
             "pageName":"OA对接",
             "type":"Wireframe",
-            "url":"oa对接.html"}]},
+            "url":"oa对接.html",
+            "children":[{
+                "pageName":"统一认证登录",
+                "type":"Wireframe",
+                "url":"统一认证登录.html"}]}]},
 {
         "pageName":"功能风格",
         "type":"Wireframe",
         "url":"功能风格.html"},
 {
-        "pageName":"一期遗留、其它需求",
+        "pageName":"协同管理",
         "type":"Wireframe",
-        "url":"一期遗留、其它需求.html",
+        "url":"协同管理.html",
         "children":[{
             "pageName":"协同客户经理",
             "type":"Wireframe",
@@ -271,11 +275,11 @@
 {
             "pageName":"离职移交数据权限",
             "type":"Wireframe",
-            "url":"离职移交数据权限.html"},
+            "url":"离职移交数据权限.html"}]},
 {
-            "pageName":"其它需求",
-            "type":"Wireframe",
-            "url":"其它需求.html"}]},
+        "pageName":"其它需求",
+        "type":"Wireframe",
+        "url":"其它需求.html"},
 {
         "pageName":"项目管理",
         "type":"Folder",

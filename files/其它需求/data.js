@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"其它需求.html",
-  "generationDate":new Date(1661406637688.61),
+  "generationDate":new Date(1661416137347.76),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -74,7 +74,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u1.png"}},
+                "normal~":"images/协同管理/u1.png"}},
 {
               "id":"2c1ba710f5d54d75b1e1ffcc79be5167",
               "label":"",
@@ -111,7 +111,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u7.png"}},
+                "normal~":"images/协同管理/u7.png"}},
 {
               "id":"a0c1597a1e5b43919f02458354036d3c",
               "label":"",
@@ -148,7 +148,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u13.png"}},
+                "normal~":"images/协同管理/u13.png"}},
 {
               "id":"053a85445a024572833d4ce56dd523e0",
               "label":"",
@@ -185,7 +185,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u3.png"}},
+                "normal~":"images/协同管理/u3.png"}},
 {
               "id":"2314c42145de4b12ac3637227f473ef4",
               "label":"",
@@ -222,7 +222,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u9.png"}},
+                "normal~":"images/协同管理/u9.png"}},
 {
               "id":"4a88da2bafae4f949451080c3a6d8819",
               "label":"",
@@ -259,7 +259,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u15.png"}},
+                "normal~":"images/协同管理/u15.png"}},
 {
               "id":"8dfc28f0f67a4bff8399479107ee3245",
               "label":"",
@@ -296,7 +296,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u5.png"}},
+                "normal~":"images/协同管理/u5.png"}},
 {
               "id":"0742834b1aab43f6800c2c19436f653f",
               "label":"",
@@ -333,7 +333,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u11.png"}},
+                "normal~":"images/协同管理/u11.png"}},
 {
               "id":"d4083aad930546a5a36405daa205489f",
               "label":"",
@@ -370,7 +370,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u17.png"}},
+                "normal~":"images/协同管理/u17.png"}},
 {
               "id":"4b674e2bf4214d4a8d2d94ac003d560d",
               "label":"",
@@ -407,7 +407,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u13.png"}},
+                "normal~":"images/协同管理/u13.png"}},
 {
               "id":"575f6ff9fafb4425850e3614f975bee1",
               "label":"",
@@ -444,7 +444,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u15.png"}},
+                "normal~":"images/协同管理/u15.png"}},
 {
               "id":"67de8c16cc294c11b3de66e5feb552d6",
               "label":"",
@@ -481,7 +481,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u17.png"}},
+                "normal~":"images/协同管理/u17.png"}},
 {
               "id":"3e205a4d523e4551a3877ce0df22b4cd",
               "label":"",
@@ -629,7 +629,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u25.png"}},
+                "normal~":"images/协同管理/u25.png"}},
 {
               "id":"d8c67467604b4031a5d3fe55d3a7c79f",
               "label":"",
@@ -666,7 +666,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u27.png"}},
+                "normal~":"images/协同管理/u27.png"}},
 {
               "id":"92f69f618c9144ef9f28f746bf8b3d29",
               "label":"",
@@ -703,7 +703,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/一期遗留、其它需求/u29.png"}}]}]}},
+                "normal~":"images/协同管理/u29.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{

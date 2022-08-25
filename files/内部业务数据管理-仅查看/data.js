@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"内部业务数据管理-仅查看.html",
-  "generationDate":new Date(1661406631906.78),
+  "generationDate":new Date(1661416131241.53),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -166,7 +166,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/舆情查询/u3_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"599b37c01a494424a06b0cfd13d7b903",
           "label":"",

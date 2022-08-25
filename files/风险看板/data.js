@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"风险看板.html",
-  "generationDate":new Date(1661406635205.02),
+  "generationDate":new Date(1661416134534.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

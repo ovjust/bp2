@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"风险评估管理.html",
-  "generationDate":new Date(1661406633054.83),
+  "generationDate":new Date(1661416132371.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -166,7 +166,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/舆情查询/u3_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"1c6c986da48a4abab79039b45f08ef7e",
           "label":"",

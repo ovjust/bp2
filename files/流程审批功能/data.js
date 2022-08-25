@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"流程审批功能.html",
-  "generationDate":new Date(1661406633222.64),
+  "generationDate":new Date(1661416132571.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -166,7 +166,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/舆情查询/u3_line.png"}},
+            "line~":"images/金融产品管理/u5_line.png"}},
 {
           "id":"764ee102b4104c10b85745d10d312937",
           "label":"",
