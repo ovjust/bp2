@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"内部业务数据管理-仅查看.html",
-  "generationDate":new Date(1661334571997.74),
+  "generationDate":new Date(1661390477580.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1008,7 +1008,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u93.png"}},
+                "normal~":"images/客户管理-业务数据展示/u93.png"}},
 {
               "id":"96e890df29df4c84b62c15ce260153f7",
               "label":"",
@@ -1041,7 +1041,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u67.png"}},
 {
               "id":"48fd2b48789943afb36e186954c7910b",
               "label":"",
@@ -1074,7 +1074,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u67.png"}},
 {
               "id":"e628bf22227645c1b91c7486e976761b",
               "label":"",
@@ -1107,7 +1107,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u67.png"}},
 {
               "id":"7ce4b4d6b92c474d966cd9c082692b0e",
               "label":"",
@@ -1140,7 +1140,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u67.png"}},
 {
               "id":"66091384b279416e88d56499c111e7da",
               "label":"",
@@ -1173,7 +1173,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u67.png"}},
 {
               "id":"5292775bdcb74a9bbdd1276d1d295a71",
               "label":"",
@@ -1206,7 +1206,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u497.png"}},
+                "normal~":"images/客户管理-业务数据展示/u497.png"}},
 {
               "id":"340dee4318044c22bd45b2b917afac23",
               "label":"",
@@ -1239,7 +1239,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u543.png"}},
+                "normal~":"images/客户管理-业务数据展示/u543.png"}},
 {
               "id":"c6922b73ec174f7a826444099f67063e",
               "label":"",

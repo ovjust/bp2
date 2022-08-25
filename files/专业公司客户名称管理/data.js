@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"专业公司客户名称管理.html",
-  "generationDate":new Date(1661334570156.5),
+  "generationDate":new Date(1661390475137.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2167,7 +2167,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u541.png"}},
+                "normal~":"images/客户管理-业务数据展示/u541.png"}},
 {
               "id":"64ac681b2e3f46b29cd2207c6043adee",
               "label":"",

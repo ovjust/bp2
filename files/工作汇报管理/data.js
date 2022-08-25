@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"工作汇报管理.html",
-  "generationDate":new Date(1661334574255.19),
+  "generationDate":new Date(1661390480233.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2225,7 +2225,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u553.png"}},
+                "normal~":"images/客户管理-业务数据展示/u553.png"}},
 {
               "id":"ad23462e535041cb8b2a4d44e139f891",
               "label":"",

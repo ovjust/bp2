@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业管理.html",
-  "generationDate":new Date(1661334574765.2),
+  "generationDate":new Date(1661390480821.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1734,7 +1734,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u543.png"}},
+                "normal~":"images/客户管理-业务数据展示/u543.png"}},
 {
               "id":"42ea322ef2e2468991716b8147c25034",
               "label":"",
@@ -1959,7 +1959,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u543.png"}},
+                "normal~":"images/客户管理-业务数据展示/u543.png"}},
 {
               "id":"260ee175c7c841fd9e5185542ecf7a05",
               "label":"",

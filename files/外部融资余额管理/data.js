@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"外部融资余额管理.html",
-  "generationDate":new Date(1661334572373.74),
+  "generationDate":new Date(1661390477987.82),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -541,7 +541,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u93.png"}},
+                "normal~":"images/客户管理-业务数据展示/u93.png"}},
 {
               "id":"96e890df29df4c84b62c15ce260153f7",
               "label":"",
@@ -574,7 +574,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u67.png"}},
 {
               "id":"48fd2b48789943afb36e186954c7910b",
               "label":"",
@@ -607,7 +607,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u67.png"}},
 {
               "id":"e628bf22227645c1b91c7486e976761b",
               "label":"",
@@ -640,7 +640,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u67.png"}},
 {
               "id":"7ce4b4d6b92c474d966cd9c082692b0e",
               "label":"",
@@ -706,7 +706,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u67.png"}},
 {
               "id":"5292775bdcb74a9bbdd1276d1d295a71",
               "label":"",
@@ -739,7 +739,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u497.png"}},
+                "normal~":"images/客户管理-业务数据展示/u497.png"}},
 {
               "id":"260ee175c7c841fd9e5185542ecf7a05",
               "label":"",

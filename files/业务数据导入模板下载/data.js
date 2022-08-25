@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"业务数据导入模板下载.html",
-  "generationDate":new Date(1661334570927.5),
+  "generationDate":new Date(1661390476022.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -74,7 +74,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u29.png"}},
+                "normal~":"images/业务数据导入权限配置/u29.png"}},
 {
               "id":"3ac8758199594e6a88ffb42db645dddc",
               "label":"",
@@ -117,7 +117,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"e10c7bad4c324906b56e501f9eeaaefb",
               "label":"",
@@ -150,7 +150,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"2357217335464dd2927a4a95e74b4cbf",
               "label":"",
@@ -187,7 +187,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u29.png"}},
+                "normal~":"images/业务数据导入权限配置/u29.png"}},
 {
               "id":"9dccc9af6b704448aaba390743d38eb8",
               "label":"",
@@ -224,7 +224,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"489f384d279544f69cfe098495d80937",
               "label":"",
@@ -261,7 +261,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"8354b684445841bcaa00ae6fb1b22979",
               "label":"",
@@ -298,7 +298,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u29.png"}},
+                "normal~":"images/业务数据导入权限配置/u29.png"}},
 {
               "id":"03e13735c26947beac4035c79120e8db",
               "label":"",
@@ -335,7 +335,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"87f99fd53fc0418eb8c99cea3a5486b8",
               "label":"",
@@ -372,7 +372,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"3f49021b09a4437896277e9ad6491d93",
               "label":"",
@@ -405,7 +405,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"15c4fdcdb394475684a45e7820125daf",
               "label":"",
@@ -442,7 +442,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"2962e48d4d354cc8849d0008a3d256cb",
               "label":"",
@@ -479,7 +479,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"0eaa8814e1334fdc85044bbde524e75b",
               "label":"",
@@ -512,7 +512,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"dcf905f9f30849b18e18f9fe3c086513",
               "label":"",
@@ -549,7 +549,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"8fb85033629846d392ec1a94e922aeca",
               "label":"",
@@ -586,7 +586,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"ab224a9445cf4e4aa2b4d021e0f5cbd6",
               "label":"",
@@ -619,7 +619,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"17918012983e45f39cfb286bb7506e7d",
               "label":"",
@@ -656,7 +656,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"8e2a70d6dc5f4c13a3fc27438190b321",
               "label":"",
@@ -693,7 +693,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"b6bf3eeb38a247ae8c713367343d79c1",
               "label":"",
@@ -726,7 +726,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"22e971b9ff004d7384b1df21d3f54b32",
               "label":"",
@@ -763,7 +763,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"f177f2f83ffb4ad6b4a8882d03b1a0fd",
               "label":"",
@@ -800,7 +800,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"288763d56caa4c2d8cf21a87eebeb570",
               "label":"",
@@ -833,7 +833,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"9e2cbd6bdbc245f38f8dbebef23e396d",
               "label":"",
@@ -870,7 +870,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"c5f423ba57704c16a3b32276d0cf190c",
               "label":"",
@@ -907,7 +907,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"5ba8da6751994aec8f9f0351c579e529",
               "label":"",
@@ -940,7 +940,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"7af05382591a42afb189173386f0a8eb",
               "label":"",
@@ -977,7 +977,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"5a0d7803aac54358a7207e56493817b9",
               "label":"",
@@ -1014,7 +1014,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"ff3112c9a1c24ddfa483b1eb7b2768a0",
               "label":"",
@@ -1047,7 +1047,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"289fff8cc96c4d88b6ef0822740d2818",
               "label":"",
@@ -1084,7 +1084,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"d714dbb3814345cfb3d664cccf5c9938",
               "label":"",
@@ -1121,7 +1121,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"70f07d4de48f4968b62b5d5a7c5e89b0",
               "label":"",
@@ -1614,7 +1614,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"09f875bdf9ca4b75a3e133677dfd6802",
               "label":"",
@@ -1651,7 +1651,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"957b6b0523064edeb12aaa515a5babd8",
               "label":"",
@@ -1688,7 +1688,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"e5438ccce6d641bb9d0e4571ad0bcd2f",
               "label":"",
@@ -1768,7 +1768,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"14d3f0ddc6dd4409ab8c3efc0aecbe64",
               "label":"",
@@ -1805,7 +1805,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"6829a2c5751b4756a8a964f9cbb83651",
               "label":"",
@@ -1842,7 +1842,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"9facd1c789aa46e8a41b800866f91f68",
               "label":"",
@@ -1934,7 +1934,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u197.png"}},
+                "normal~":"images/业务数据导入权限配置/u197.png"}},
 {
               "id":"b00665f6eec04e329cb045b573239375",
               "label":"",
@@ -1971,7 +1971,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u197.png"}},
+                "normal~":"images/业务数据导入权限配置/u197.png"}},
 {
               "id":"df5079c92fd444d38b2111992b1b39ec",
               "label":"",
@@ -2008,7 +2008,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u197.png"}},
+                "normal~":"images/业务数据导入权限配置/u197.png"}},
 {
               "id":"5e75ec270e58489d8e99aea83552d05e",
               "label":"",
@@ -2088,7 +2088,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"8f3baaa23c2949e791c20a8dd0eed52f",
               "label":"",
@@ -2125,7 +2125,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"aecc6d8f168e442db914451d4ccda6ee",
               "label":"",
@@ -2162,7 +2162,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置-待确认/u77.png"}},
+                "normal~":"images/业务数据导入权限配置/u77.png"}},
 {
               "id":"3ba96fd00ece44958f978da478ed68af",
               "label":"",

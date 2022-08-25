@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-风险评估.html",
-  "generationDate":new Date(1661334571416.5),
+  "generationDate":new Date(1661390476850.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -422,7 +422,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u16.png"}},
+                "normal~":"images/客户管理-业务数据展示/u16.png"}},
 {
               "id":"12ebfccac24444a0ad4d073228ba57a7",
               "label":"",
@@ -455,7 +455,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"261b8b61bac243df940d7488a9f759ee",
               "label":"",
@@ -488,7 +488,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"97d634ec4437465494b88b47bba1a3d6",
               "label":"",
@@ -521,7 +521,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"220c13cdded84c58aac8b1f5705e49e0",
               "label":"",
@@ -554,7 +554,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u56.png"}},
+                "normal~":"images/客户管理-业务数据展示/u56.png"}},
 {
               "id":"6354d62f679445cda5bb6ee51237f330",
               "label":"",
@@ -587,7 +587,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u16.png"}},
+                "normal~":"images/客户管理-业务数据展示/u16.png"}},
 {
               "id":"e6a62c0331bc4f5699ded1250458756a",
               "label":"",
@@ -620,7 +620,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"965ca8d5583547fb98b55c4c68b64c73",
               "label":"",
@@ -653,7 +653,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"26f751b6c4cc4ab5b9277427a784dff0",
               "label":"",
@@ -686,7 +686,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"4a2ee6249bc2441383cfb707b586961e",
               "label":"",
@@ -719,7 +719,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u56.png"}},
+                "normal~":"images/客户管理-业务数据展示/u56.png"}},
 {
               "id":"53d26090bef84aa093000f0bfabc8429",
               "label":"",
@@ -752,7 +752,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u16.png"}},
+                "normal~":"images/客户管理-业务数据展示/u16.png"}},
 {
               "id":"0a849487563841deb466ee34fc31ecfd",
               "label":"",
@@ -785,7 +785,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"1ba88dfb20b74169bdc336b522dfccc5",
               "label":"",
@@ -818,7 +818,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"e53bed3e72d848f8ac624da5c14fb235",
               "label":"",
@@ -851,7 +851,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"e223e9b04e17453ba887073fe3a02a4b",
               "label":"",
@@ -884,7 +884,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u56.png"}},
+                "normal~":"images/客户管理-业务数据展示/u56.png"}},
 {
               "id":"a44ee40e54874c65a6fd7aecb69b98bb",
               "label":"",
@@ -917,7 +917,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u16.png"}},
+                "normal~":"images/客户管理-业务数据展示/u16.png"}},
 {
               "id":"0661ce3047fe4f6b9b173fd542121107",
               "label":"",
@@ -950,7 +950,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"1aba9dc03b3d4bfe958a4ee7443c721e",
               "label":"",
@@ -983,7 +983,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"44437b92af4547429c702a76f869d1a7",
               "label":"",
@@ -1016,7 +1016,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"dc72610cfcea43f9ae6dfd6521b9b3e1",
               "label":"",
@@ -1049,7 +1049,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u56.png"}},
+                "normal~":"images/客户管理-业务数据展示/u56.png"}},
 {
               "id":"7580c349feb14be183d9a5256eec8e8d",
               "label":"",
@@ -1082,7 +1082,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u16.png"}},
+                "normal~":"images/客户管理-业务数据展示/u16.png"}},
 {
               "id":"b542dcddafe546ba8b0023bb0d22bc8c",
               "label":"",
@@ -1115,7 +1115,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"0ad18cf32d5a4e45b961b993a36d0ecd",
               "label":"",
@@ -1148,7 +1148,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"6686e717765f4d6cb8c36bb0aec97cba",
               "label":"",
@@ -1181,7 +1181,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"e5779553ebb244b1b67ac96e5cf0349e",
               "label":"",
@@ -1214,7 +1214,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u56.png"}},
+                "normal~":"images/客户管理-业务数据展示/u56.png"}},
 {
               "id":"6b276d828474484fadf0037220496381",
               "label":"",
@@ -1247,7 +1247,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u16.png"}},
+                "normal~":"images/客户管理-业务数据展示/u16.png"}},
 {
               "id":"71e041b547594a1b9505bdb9dfd1a145",
               "label":"",
@@ -1280,7 +1280,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"5060dd7ed668402186adc87188644274",
               "label":"",
@@ -1313,7 +1313,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"2fca4ffcebac4dd08bbb97e482ccbd28",
               "label":"",
@@ -1346,7 +1346,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"802254343e1c4d499bd313c26b11f4c6",
               "label":"",
@@ -1379,7 +1379,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u56.png"}},
+                "normal~":"images/客户管理-业务数据展示/u56.png"}},
 {
               "id":"f37a0b7eba1d4e2381a7f56fa8d3b1da",
               "label":"",
@@ -1412,7 +1412,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u24.png"}},
+                "normal~":"images/客户管理-业务数据展示/u24.png"}},
 {
               "id":"8e505742b4774a5c80f9afe54ea2590f",
               "label":"",
@@ -1445,7 +1445,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u34.png"}},
+                "normal~":"images/客户管理-业务数据展示/u34.png"}},
 {
               "id":"90bbb5645d714d43b6edf44f1f60a4d4",
               "label":"",
@@ -1478,7 +1478,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u34.png"}},
+                "normal~":"images/客户管理-业务数据展示/u34.png"}},
 {
               "id":"a365f5d88e584605a205f60933b61db8",
               "label":"",
@@ -1511,7 +1511,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u34.png"}},
+                "normal~":"images/客户管理-业务数据展示/u34.png"}},
 {
               "id":"4a20b17e94ce49ab80e9ac99e74fd1e2",
               "label":"",
@@ -1544,7 +1544,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u64.png"}}]}]}},
+                "normal~":"images/客户管理-业务数据展示/u64.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{

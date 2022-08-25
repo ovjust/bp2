@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"部门经理.html",
-  "generationDate":new Date(1661334574519.3),
+  "generationDate":new Date(1661390480564.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2225,7 +2225,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u553.png"}},
+                "normal~":"images/客户管理-业务数据展示/u553.png"}},
 {
               "id":"46128fb33be24e928f78d3e1993016ad",
               "label":"",

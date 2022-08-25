@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-集团融资预算.html",
-  "generationDate":new Date(1661334571482.5),
+  "generationDate":new Date(1661390476950.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -424,7 +424,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"37d868e5b71c44269a25cd0dc662d4ce",
               "label":"",
@@ -457,7 +457,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"d0868c2c3bb641ce843e9fb2238ff9e5",
               "label":"",
@@ -490,7 +490,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u56.png"}},
+                "normal~":"images/客户管理-业务数据展示/u56.png"}},
 {
               "id":"345c9b944c244a718e5199827ade6e51",
               "label":"",
@@ -523,7 +523,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"71c6baf7954648488d12829ff847d21a",
               "label":"",
@@ -556,7 +556,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"c76bf5d91bf74db3b320fb5432875a70",
               "label":"",
@@ -589,7 +589,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u56.png"}},
+                "normal~":"images/客户管理-业务数据展示/u56.png"}},
 {
               "id":"2b7a01cff1204375bd76fcf2214c2640",
               "label":"",
@@ -622,7 +622,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"82582937005c4ddc95bfedb7e8e46f63",
               "label":"",
@@ -655,7 +655,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u26.png"}},
+                "normal~":"images/客户管理-业务数据展示/u26.png"}},
 {
               "id":"a8ae0ff69b894703ac4634832211bc21",
               "label":"",
@@ -688,7 +688,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u56.png"}},
+                "normal~":"images/客户管理-业务数据展示/u56.png"}},
 {
               "id":"e4deee78d6aa4866a7c8dd9e8233c6fe",
               "label":"",
@@ -721,7 +721,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u34.png"}},
+                "normal~":"images/客户管理-业务数据展示/u34.png"}},
 {
               "id":"36f222ba036346ba9d16d07c0245a1d9",
               "label":"",
@@ -754,7 +754,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u34.png"}},
+                "normal~":"images/客户管理-业务数据展示/u34.png"}},
 {
               "id":"6be023806af64a4d97002a12e15acc6d",
               "label":"",
@@ -787,7 +787,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据/u64.png"}}]}]}},
+                "normal~":"images/客户管理-业务数据展示/u64.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{

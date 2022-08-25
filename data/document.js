@@ -21,9 +21,9 @@
         "type":"Wireframe",
         "url":"客户管理.html",
         "children":[{
-            "pageName":"客户管理-业务数据",
+            "pageName":"客户管理-业务数据展示",
             "type":"Wireframe",
-            "url":"客户管理-业务数据.html",
+            "url":"客户管理-业务数据展示.html",
             "children":[{
                 "pageName":"余额/收入详情",
                 "type":"Wireframe",
@@ -41,9 +41,9 @@
             "type":"Wireframe",
             "url":"专业公司客户名称管理.html"},
 {
-            "pageName":"业务数据导入权限配置-待确认",
+            "pageName":"业务数据导入权限配置",
             "type":"Wireframe",
-            "url":"业务数据导入权限配置-待确认.html"},
+            "url":"业务数据导入权限配置.html"},
 {
             "pageName":"业务数据导入",
             "type":"Wireframe",
@@ -76,6 +76,10 @@
                 "pageName":"查看数据-租赁公司",
                 "type":"Wireframe",
                 "url":"查看数据-租赁公司.html"},
+{
+                "pageName":"查看数据-保经公司",
+                "type":"Wireframe",
+                "url":"查看数据-保经公司.html"},
 {
                 "pageName":"查看数据-历史融资",
                 "type":"Wireframe",
