@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业风险上报.html",
-  "generationDate":new Date(1661390481327.95),
+  "generationDate":new Date(1661406635965.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -166,7 +166,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/金融产品管理/u5_line.png"}},
+            "line~":"images/舆情查询/u3_line.png"}},
 {
           "id":"1c6c986da48a4abab79039b45f08ef7e",
           "label":"",
@@ -244,7 +244,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u17.png"}},
+                "normal~":"images/舆情查询/u23.png"}},
 {
               "id":"48fd2b48789943afb36e186954c7910b",
               "label":"",
@@ -310,7 +310,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/舆情查询/u55.png"}},
 {
               "id":"7ce4b4d6b92c474d966cd9c082692b0e",
               "label":"",
@@ -343,7 +343,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/舆情查询/u55.png"}},
 {
               "id":"66091384b279416e88d56499c111e7da",
               "label":"",
@@ -376,7 +376,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/舆情查询/u55.png"}},
 {
               "id":"5292775bdcb74a9bbdd1276d1d295a71",
               "label":"",
@@ -409,7 +409,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u65.png"}},
+                "normal~":"images/舆情查询/u103.png"}},
 {
               "id":"8ebc026f6e694973984885c03b94a02c",
               "label":"",
@@ -442,7 +442,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u50.png"}},
+                "normal~":"images/舆情查询/u27.png"}},
 {
               "id":"3c771e181a79454594c501454b8f49bc",
               "label":"",
@@ -508,7 +508,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u122.png"}},
+                "normal~":"images/舆情查询/u59.png"}},
 {
               "id":"f3803edf583f4fcab29f486a8c717950",
               "label":"",
@@ -541,7 +541,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u122.png"}},
+                "normal~":"images/舆情查询/u59.png"}},
 {
               "id":"d224c6022f2941c7999840d583c90572",
               "label":"",
@@ -574,7 +574,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u122.png"}},
+                "normal~":"images/舆情查询/u59.png"}},
 {
               "id":"a0310a8681c44fac8483ebcc9c594c08",
               "label":"",
@@ -607,7 +607,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u230.png"}},
+                "normal~":"images/舆情查询/u107.png"}},
 {
               "id":"4ea1f27299c6474ebe5a2af11023ec7b",
               "label":"",
@@ -1084,7 +1084,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u78.png"}},
+                "normal~":"images/舆情查询/u35.png"}},
 {
               "id":"099effa2cc5348ce85d5f465608f9d11",
               "label":"",
@@ -1150,7 +1150,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u150.png"}},
+                "normal~":"images/舆情查询/u67.png"}},
 {
               "id":"6884c7133dcc4d749fb08779ec48e282",
               "label":"",
@@ -1183,7 +1183,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u150.png"}},
+                "normal~":"images/舆情查询/u67.png"}},
 {
               "id":"6b6455cb923849349cbeac82201050b4",
               "label":"",
@@ -1216,7 +1216,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u150.png"}},
+                "normal~":"images/舆情查询/u67.png"}},
 {
               "id":"5e93e6d3bf1a48e092ddfe1e8201e7e4",
               "label":"",
@@ -1249,7 +1249,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u258.png"}},
+                "normal~":"images/舆情查询/u115.png"}},
 {
               "id":"20773267381140e68b30679349bb2090",
               "label":"",
@@ -1496,7 +1496,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u97.png"}},
+                "normal~":"images/客户管理-业务数据展示/u101.png"}},
 {
               "id":"a1608fcabc7948f6bc46337a6bd6ff56",
               "label":"",
@@ -1578,7 +1578,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u71.png"}},
+                "normal~":"images/客户管理-业务数据展示/u75.png"}},
 {
               "id":"39d04be586314b9bbba1c590ad867463",
               "label":"",
@@ -1619,7 +1619,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u71.png"}},
+                "normal~":"images/客户管理-业务数据展示/u75.png"}},
 {
               "id":"b1fa694f388c41ef9bccf9022401bb31",
               "label":"",
@@ -1660,7 +1660,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u71.png"}},
+                "normal~":"images/客户管理-业务数据展示/u75.png"}},
 {
               "id":"25b977027677433ea31e80f44ee9caa2",
               "label":"",
@@ -1701,7 +1701,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u501.png"}},
+                "normal~":"images/客户管理-业务数据展示/u505.png"}},
 {
               "id":"e2215e14e0a0461fa36b456efa1f5919",
               "label":"",
@@ -1734,7 +1734,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u48.png"}},
+                "normal~":"images/舆情查询/u25.png"}},
 {
               "id":"42ea322ef2e2468991716b8147c25034",
               "label":"",
@@ -1800,7 +1800,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u120.png"}},
+                "normal~":"images/舆情查询/u57.png"}},
 {
               "id":"7f8b750d7d02435d9bd975bebc68259c",
               "label":"",
@@ -1833,7 +1833,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u120.png"}},
+                "normal~":"images/舆情查询/u57.png"}},
 {
               "id":"559943a24f414865ac4cf080c01f380f",
               "label":"",
@@ -1866,7 +1866,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u120.png"}},
+                "normal~":"images/舆情查询/u57.png"}},
 {
               "id":"1ac5a937934545828bc67010c3e9a85c",
               "label":"",
@@ -1899,7 +1899,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u228.png"}},
+                "normal~":"images/舆情查询/u105.png"}},
 {
               "id":"58bae2b351264fbe80b960f2f5d3a5d9",
               "label":"",
@@ -1926,7 +1926,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u10.png"}},
+                "normal~":"images/舆情查询/u7.png"}},
 {
               "id":"9789ce2159d04f53b93156b1d34dd838",
               "label":"",
@@ -1959,7 +1959,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u12.png"}},
+                "normal~":"images/舆情查询/u9.png"}},
 {
               "id":"260ee175c7c841fd9e5185542ecf7a05",
               "label":"",
@@ -1992,7 +1992,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u14.png"}},
+                "normal~":"images/舆情查询/u11.png"}},
 {
               "id":"66aa6a6272db43f684a8c75a63ca3ad9",
               "label":"",
@@ -2124,7 +2124,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u42.png"}},
+                "normal~":"images/舆情查询/u19.png"}},
 {
               "id":"eaf62c42c8c041509fb01c649232aaf2",
               "label":"",
@@ -2190,7 +2190,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u16.png"}},
+                "normal~":"images/舆情查询/u13.png"}},
 {
               "id":"9b5be081aac048b28587b11a47aa83a8",
               "label":"",
@@ -2231,7 +2231,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u52.png"}},
+                "normal~":"images/舆情查询/u29.png"}},
 {
               "id":"a8665a460a3d41289372dd2ead12ac1f",
               "label":"",
@@ -2313,7 +2313,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u124.png"}},
+                "normal~":"images/舆情查询/u61.png"}},
 {
               "id":"2aa40ce25ecd41348288ed5021920df0",
               "label":"",
@@ -2354,7 +2354,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u124.png"}},
+                "normal~":"images/舆情查询/u61.png"}},
 {
               "id":"bf127e4982784a0aaa1cec57f4a85444",
               "label":"",
@@ -2395,7 +2395,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u124.png"}},
+                "normal~":"images/舆情查询/u61.png"}},
 {
               "id":"7d7c98e0cab9461993ad446eae794cbd",
               "label":"",
@@ -2436,7 +2436,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报/u232.png"}},
+                "normal~":"images/舆情查询/u109.png"}},
 {
               "id":"9480273dd42f4055b0d075f6d7952112",
               "label":"",
@@ -3665,7 +3665,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u537.png"}},
+                "normal~":"images/客户管理-业务数据展示/u539.png"}},
 {
               "id":"87fce9702ee74ffdb520d22ff076c376",
               "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"订阅管理.html",
-  "generationDate":new Date(1661390479789.36),
+  "generationDate":new Date(1661406634264.1),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -158,7 +158,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/金融产品管理/u5_line.png"}},
+            "line~":"images/舆情查询/u3_line.png"}},
 {
           "id":"1c6c986da48a4abab79039b45f08ef7e",
           "label":"",
@@ -362,7 +362,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u93.png"}},
+                "normal~":"images/客户管理-业务数据展示/u97.png"}},
 {
               "id":"96e890df29df4c84b62c15ce260153f7",
               "label":"",
@@ -395,7 +395,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u71.png"}},
 {
               "id":"48fd2b48789943afb36e186954c7910b",
               "label":"",
@@ -428,7 +428,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u67.png"}},
+                "normal~":"images/客户管理-业务数据展示/u71.png"}},
 {
               "id":"e628bf22227645c1b91c7486e976761b",
               "label":"",
@@ -461,7 +461,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u497.png"}},
+                "normal~":"images/客户管理-业务数据展示/u501.png"}},
 {
               "id":"260ee175c7c841fd9e5185542ecf7a05",
               "label":"",
@@ -1287,47 +1287,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"63b8d94496274429b26bba9e7f2ee57a",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF000000,
-              "opacity":1},
-            "location":{
-              "x":331,
-              "y":460},
-            "size":{
-              "width":112,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"3dbda1bc04a04bb5b7070b8331973406",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000,
-                  "opacity":1},
-                "location":{
-                  "x":331,
-                  "y":460},
-                "size":{
-                  "width":112,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"56fc86d32ccc464fa7d0284a5b6cde1e",
           "label":"",
           "type":"button",
@@ -1459,21 +1418,6 @@
               "y":422},
             "size":{
               "width":128,
-              "height":22}},
-          "adaptiveStyles":{
-}},
-{
-          "id":"b094a4e7ac1f4585b76ce25aa20f54dc",
-          "label":"",
-          "type":"comboBox",
-          "styleType":"comboBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":395,
-              "y":457},
-            "size":{
-              "width":122,
               "height":22}},
           "adaptiveStyles":{
 }},
@@ -1728,33 +1672,27 @@
       "scriptId":"u71"},
     "f224a30f24ea4243bccba7ec995eceb3":{
       "scriptId":"u72"},
-    "63b8d94496274429b26bba9e7f2ee57a":{
-      "scriptId":"u73"},
-    "3dbda1bc04a04bb5b7070b8331973406":{
-      "scriptId":"u74"},
     "56fc86d32ccc464fa7d0284a5b6cde1e":{
-      "scriptId":"u75"},
+      "scriptId":"u73"},
     "be907d098c2b4159929bf9338176fda5":{
-      "scriptId":"u76"},
+      "scriptId":"u74"},
     "7ed7fa6ff25d45fe9b51a3ada2fc01df":{
-      "scriptId":"u77"},
+      "scriptId":"u75"},
     "7e78be9c1530448c9abb3a3520b97b7b":{
-      "scriptId":"u78"},
+      "scriptId":"u76"},
     "69147be70ae548eb8a436d7fa08903cc":{
-      "scriptId":"u79"},
+      "scriptId":"u77"},
     "4f3391cd216647bab26936f9a1aaba34":{
-      "scriptId":"u80"},
-    "b094a4e7ac1f4585b76ce25aa20f54dc":{
-      "scriptId":"u81"},
+      "scriptId":"u78"},
     "b18db227c4bd4513a6955409c8df8bd8":{
-      "scriptId":"u82"},
+      "scriptId":"u79"},
     "6ed68e8737b74f38881fe174e9ea00de":{
-      "scriptId":"u83"},
+      "scriptId":"u80"},
     "73723bb20548477aa073270fe2050023":{
-      "scriptId":"u84"},
+      "scriptId":"u81"},
     "52d13ea575c24809b2fc0f27255ae127":{
-      "scriptId":"u85"},
+      "scriptId":"u82"},
     "1526b6f7b86d4bdaae7748b1f51dd265":{
-      "scriptId":"u86"},
+      "scriptId":"u83"},
     "94a80d3586da4d41a2be5e0f96b108a0":{
-      "scriptId":"u87"}}});
+      "scriptId":"u84"}}});

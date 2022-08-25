@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"审批流程.html",
-  "generationDate":new Date(1659402956311.58),
+  "generationDate":new Date(1661406633254.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -30,55 +30,22 @@
 },
     "diagram":{
       "objects":[{
-          "id":"380cfcb870b540928012704ceb6db7e4",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":10,
-              "y":20},
-            "size":{
-              "width":760,
-              "height":420}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"02f0010238704a91ae1fb8c806e7c8b3",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":10,
-                  "y":20},
-                "size":{
-                  "width":760,
-                  "height":420}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/审批流程/u0.jpg"}},
-{
-          "id":"662cbef4b8d145d5820ec2407987bbd8",
+          "id":"6f7c862df49c4404997736a0ae9bbeda",
           "label":"",
           "type":"buttonShape",
           "styleType":"paragraph",
           "visible":true,
           "style":{
             "location":{
-              "x":70,
-              "y":454},
+              "x":68,
+              "y":80},
             "size":{
-              "width":170,
-              "height":16}},
+              "width":572,
+              "height":144}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"65f9b54ed9794cd9bb141cfae68d131e",
+              "id":"1b0599a1beee456facac9f93e2d466ce",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -86,11 +53,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":70,
-                  "y":454},
+                  "x":68,
+                  "y":80},
                 "size":{
-                  "width":170,
-                  "height":16}},
+                  "width":572,
+                  "height":144}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -98,11 +65,7 @@
   "masters":{
 },
   "objectPaths":{
-    "380cfcb870b540928012704ceb6db7e4":{
+    "6f7c862df49c4404997736a0ae9bbeda":{
       "scriptId":"u0"},
-    "02f0010238704a91ae1fb8c806e7c8b3":{
-      "scriptId":"u1"},
-    "662cbef4b8d145d5820ec2407987bbd8":{
-      "scriptId":"u2"},
-    "65f9b54ed9794cd9bb141cfae68d131e":{
-      "scriptId":"u3"}}});
+    "1b0599a1beee456facac9f93e2d466ce":{
+      "scriptId":"u1"}}});

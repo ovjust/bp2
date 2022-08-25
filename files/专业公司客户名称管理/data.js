@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"专业公司客户名称管理.html",
-  "generationDate":new Date(1661390475137.86),
+  "generationDate":new Date(1661406629232.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -168,7 +168,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/金融产品管理/u5_line.png"}},
+            "line~":"images/舆情查询/u3_line.png"}},
 {
           "id":"439257830ab740908d2f14e3d808ada8",
           "label":"",
@@ -2167,7 +2167,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u541.png"}},
+                "normal~":"images/客户管理-业务数据展示/u543.png"}},
 {
               "id":"64ac681b2e3f46b29cd2207c6043adee",
               "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"流程审批功能.html",
-  "generationDate":new Date(1661390478763.08),
+  "generationDate":new Date(1661406633222.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -166,7 +166,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/金融产品管理/u5_line.png"}},
+            "line~":"images/舆情查询/u3_line.png"}},
 {
           "id":"764ee102b4104c10b85745d10d312937",
           "label":"",
@@ -373,7 +373,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u559.png"}},
+                "normal~":"images/客户管理-业务数据展示/u561.png"}},
 {
               "id":"260ee175c7c841fd9e5185542ecf7a05",
               "label":"",
@@ -983,7 +983,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u11.png"}}]},
+                "normal~":"images/客户管理-业务数据展示/u15.png"}}]},
 {
           "id":"05b115e75024423e9730dd5425c29637",
           "label":"",
@@ -1157,7 +1157,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u11.png"}}]},
+                "normal~":"images/客户管理-业务数据展示/u15.png"}}]},
 {
           "id":"942655ffcb5a4f909166533fbdff78a5",
           "label":"",
@@ -1593,7 +1593,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u11.png"}}]}]}},
+                "normal~":"images/客户管理-业务数据展示/u15.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{

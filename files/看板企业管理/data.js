@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业管理.html",
-  "generationDate":new Date(1661390480821.49),
+  "generationDate":new Date(1661406635461.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -166,7 +166,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/金融产品管理/u5_line.png"}},
+            "line~":"images/舆情查询/u3_line.png"}},
 {
           "id":"1c6c986da48a4abab79039b45f08ef7e",
           "label":"",
@@ -417,6 +417,11 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
                 "location":{
                   "x":202,
                   "y":36},
@@ -433,6 +438,11 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
                     "location":{
                       "x":202,
                       "y":36},
@@ -450,6 +460,11 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
                 "location":{
                   "x":202,
                   "y":72},
@@ -466,6 +481,11 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
                     "location":{
                       "x":202,
                       "y":72},
@@ -483,6 +503,11 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
                 "location":{
                   "x":202,
                   "y":95},
@@ -499,6 +524,11 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
                     "location":{
                       "x":202,
                       "y":95},
@@ -516,6 +546,11 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
                 "location":{
                   "x":202,
                   "y":115},
@@ -532,6 +567,11 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
                     "location":{
                       "x":202,
                       "y":115},
@@ -549,6 +589,11 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
                 "location":{
                   "x":202,
                   "y":135},
@@ -565,6 +610,11 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
                     "location":{
                       "x":202,
                       "y":135},
@@ -582,6 +632,11 @@
               "styleType":"tableCell",
               "visible":true,
               "style":{
+                "underline":true,
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
                 "location":{
                   "x":202,
                   "y":155},
@@ -598,6 +653,11 @@
                   "styleType":"paragraph",
                   "visible":true,
                   "style":{
+                    "underline":true,
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
                     "location":{
                       "x":202,
                       "y":155},
@@ -1734,7 +1794,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u543.png"}},
+                "normal~":"images/客户管理-业务数据展示/u545.png"}},
 {
               "id":"42ea322ef2e2468991716b8147c25034",
               "label":"",
@@ -1959,7 +2019,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u543.png"}},
+                "normal~":"images/客户管理-业务数据展示/u545.png"}},
 {
               "id":"260ee175c7c841fd9e5185542ecf7a05",
               "label":"",
@@ -2962,7 +3022,7 @@
               "y":394},
             "size":{
               "width":346,
-              "height":160}},
+              "height":192}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -2978,7 +3038,7 @@
                   "y":394},
                 "size":{
                   "width":346,
-                  "height":160}},
+                  "height":192}},
               "adaptiveStyles":{
 }}],
           "images":{

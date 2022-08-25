@@ -13,6 +13,10 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
+        "pageName":"阅读说明",
+        "type":"Wireframe",
+        "url":"阅读说明.html"},
+{
         "pageName":"首页",
         "type":"Wireframe",
         "url":"首页.html"},
@@ -27,7 +31,27 @@
             "children":[{
                 "pageName":"余额/收入详情",
                 "type":"Wireframe",
-                "url":"余额_收入详情.html"}]}]},
+                "url":"余额_收入详情.html"},
+{
+                "pageName":"工商舆情信息",
+                "type":"Wireframe",
+                "url":"工商舆情信息.html",
+                "children":[{
+                    "pageName":"司法舆情详情查看",
+                    "type":"Wireframe",
+                    "url":"司法舆情详情查看.html"}]}]},
+{
+            "pageName":"客户管理-变更",
+            "type":"Wireframe",
+            "url":"客户管理-变更.html"},
+{
+            "pageName":"舆情查询",
+            "type":"Wireframe",
+            "url":"舆情查询.html",
+            "children":[{
+                "pageName":"司法舆情详情查看",
+                "type":"Wireframe",
+                "url":"司法舆情详情查看_1.html"}]}]},
 {
         "pageName":"业务数据",
         "type":"Wireframe",
@@ -137,9 +161,9 @@
             "type":"Wireframe",
             "url":"流程审批功能.html"},
 {
-            "pageName":"审批流程图",
+            "pageName":"审批流程",
             "type":"Wireframe",
-            "url":"审批流程图.html"}]},
+            "url":"审批流程.html"}]},
 {
         "pageName":"报表-业务情况查询",
         "type":"Wireframe",
@@ -225,13 +249,13 @@
             "type":"Wireframe",
             "url":"积分统计.html"}]},
 {
-        "pageName":"OA对接",
+        "pageName":"接口对接",
         "type":"Wireframe",
-        "url":"oa对接.html",
+        "url":"接口对接.html",
         "children":[{
-            "pageName":"接口对接",
+            "pageName":"OA对接",
             "type":"Wireframe",
-            "url":"接口对接.html"}]},
+            "url":"oa对接.html"}]},
 {
         "pageName":"功能风格",
         "type":"Wireframe",

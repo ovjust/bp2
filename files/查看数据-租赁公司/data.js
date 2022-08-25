@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-租赁公司.html",
-  "generationDate":new Date(1661390476338.15),
+  "generationDate":new Date(1661406630610.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

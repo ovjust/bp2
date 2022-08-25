@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章管理.html",
-  "generationDate":new Date(1661390479681.69),
+  "generationDate":new Date(1661406634141.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -158,7 +158,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/金融产品管理/u5_line.png"}},
+            "line~":"images/舆情查询/u3_line.png"}},
 {
           "id":"1c6c986da48a4abab79039b45f08ef7e",
           "label":"",
@@ -1162,7 +1162,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u17.png"}},
+                "normal~":"images/舆情查询/u23.png"}},
 {
               "id":"3e471831e8534af288894171f5661915",
               "label":"",
@@ -1195,7 +1195,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/舆情查询/u55.png"}},
 {
               "id":"cc513b8a2cf546cd867f4c3549bac7fe",
               "label":"",
@@ -1228,7 +1228,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/舆情查询/u55.png"}},
 {
               "id":"2ea26301a86b4096b86164f6fb3eb2d0",
               "label":"",
@@ -1261,7 +1261,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u65.png"}}]},
+                "normal~":"images/舆情查询/u103.png"}}]},
 {
           "id":"a8aa1723f3b242158d0f748101787a78",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"功能风格.html",
-  "generationDate":new Date(1661390482448.7),
+  "generationDate":new Date(1661406637270.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -40,8 +40,8 @@
               "x":60,
               "y":100},
             "size":{
-              "width":436,
-              "height":96}},
+              "width":490,
+              "height":240}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -56,8 +56,8 @@
                   "x":60,
                   "y":100},
                 "size":{
-                  "width":436,
-                  "height":96}},
+                  "width":490,
+                  "height":240}},
               "adaptiveStyles":{
 }}],
           "images":{
