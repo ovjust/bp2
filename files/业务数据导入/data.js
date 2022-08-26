@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"业务数据导入.html",
-  "generationDate":new Date(1661479205995.14),
+  "generationDate":new Date(1661498370154.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4345,7 +4345,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"188510f8d3be4d6f82077828cd6aea16",
           "label":"",
@@ -4378,7 +4378,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"9fd84ab0cd5747ffaffba9fd8713c6eb",
           "label":"",

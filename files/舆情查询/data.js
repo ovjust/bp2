@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"舆情查询.html",
-  "generationDate":new Date(1661479212017.72),
+  "generationDate":new Date(1661498375592.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2411,7 +2411,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"7e78be9c1530448c9abb3a3520b97b7b",
           "label":"",

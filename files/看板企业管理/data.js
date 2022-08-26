@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业管理.html",
-  "generationDate":new Date(1661479210922.75),
+  "generationDate":new Date(1661498374531.6),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -3390,7 +3390,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

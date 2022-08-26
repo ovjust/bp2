@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"流程审批功能.html",
-  "generationDate":new Date(1661479209661.55),
+  "generationDate":new Date(1661498373447.28),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -810,7 +810,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"f874771714af40dd8d9acf3b6eab93d9",
           "label":"",
@@ -864,7 +864,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"61b23f675b4b49b49de811edfd35b210",
               "label":"",
@@ -901,7 +901,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"49639ff5fe86402ebaac00d75821200a",
               "label":"",
@@ -938,7 +938,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u15.png"}}]},
+                "normal~":"images/添加模块/u15.png"}}]},
 {
           "id":"05b115e75024423e9730dd5425c29637",
           "label":"",
@@ -1038,7 +1038,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"2df15728a53b4ef4ae935af8e31ed797",
               "label":"",
@@ -1075,7 +1075,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"dfecfed6f67247aeade28c92d01a69b8",
               "label":"",
@@ -1112,7 +1112,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u15.png"}}]},
+                "normal~":"images/添加模块/u15.png"}}]},
 {
           "id":"cbb59927772143ba8f848836fa3b68a9",
           "label":"",
@@ -1433,7 +1433,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"1dd75270b4314b8383c042ed7f78d5a4",
               "label":"",
@@ -1478,7 +1478,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"8ad3f3edc30442619f3f52d3f2ddd4aa",
               "label":"",
@@ -1515,7 +1515,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u15.png"}}]},
+                "normal~":"images/添加模块/u15.png"}}]},
 {
           "id":"5b1644fac9e74c2f8a8db15b53e1f14e",
           "label":"",
@@ -2208,7 +2208,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"28b9da0452c84729980bd3d8b88881da",
           "label":"",

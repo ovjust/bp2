@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-风险评估.html",
-  "generationDate":new Date(1661479207148.45),
+  "generationDate":new Date(1661498371179.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -347,7 +347,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"9823c2fd75634c248a33ad460214f2de",
           "label":"",

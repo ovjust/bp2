@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户经理积分配置.html",
-  "generationDate":new Date(1661479213588.62),
+  "generationDate":new Date(1661498377222.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -201,7 +201,7 @@
               "y":150},
             "size":{
               "width":652,
-              "height":556}},
+              "height":592}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1007,7 +1007,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":240},
+                  "y":276},
                 "size":{
                   "width":114,
                   "height":36}},
@@ -1023,7 +1023,7 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":240},
+                      "y":276},
                     "size":{
                       "width":114,
                       "height":36}},
@@ -1040,7 +1040,7 @@
               "style":{
                 "location":{
                   "x":114,
-                  "y":240},
+                  "y":276},
                 "size":{
                   "width":56,
                   "height":36}},
@@ -1056,7 +1056,7 @@
                   "style":{
                     "location":{
                       "x":114,
-                      "y":240},
+                      "y":276},
                     "size":{
                       "width":56,
                       "height":36}},
@@ -1073,7 +1073,7 @@
               "style":{
                 "location":{
                   "x":170,
-                  "y":240},
+                  "y":276},
                 "size":{
                   "width":136,
                   "height":36}},
@@ -1089,7 +1089,7 @@
                   "style":{
                     "location":{
                       "x":170,
-                      "y":240},
+                      "y":276},
                     "size":{
                       "width":136,
                       "height":36}},
@@ -1106,7 +1106,7 @@
               "style":{
                 "location":{
                   "x":408,
-                  "y":240},
+                  "y":276},
                 "size":{
                   "width":54,
                   "height":36}},
@@ -1122,7 +1122,7 @@
                   "style":{
                     "location":{
                       "x":408,
-                      "y":240},
+                      "y":276},
                     "size":{
                       "width":54,
                       "height":36}},
@@ -1139,7 +1139,7 @@
               "style":{
                 "location":{
                   "x":462,
-                  "y":240},
+                  "y":276},
                 "size":{
                   "width":49,
                   "height":36}},
@@ -1155,7 +1155,7 @@
                   "style":{
                     "location":{
                       "x":462,
-                      "y":240},
+                      "y":276},
                     "size":{
                       "width":49,
                       "height":36}},
@@ -1172,7 +1172,7 @@
               "style":{
                 "location":{
                   "x":511,
-                  "y":240},
+                  "y":276},
                 "size":{
                   "width":141,
                   "height":36}},
@@ -1188,7 +1188,7 @@
                   "style":{
                     "location":{
                       "x":511,
-                      "y":240},
+                      "y":276},
                     "size":{
                       "width":141,
                       "height":36}},
@@ -1799,7 +1799,7 @@
               "style":{
                 "location":{
                   "x":344,
-                  "y":240},
+                  "y":276},
                 "size":{
                   "width":64,
                   "height":36}},
@@ -1815,7 +1815,7 @@
                   "style":{
                     "location":{
                       "x":344,
-                      "y":240},
+                      "y":276},
                     "size":{
                       "width":64,
                       "height":36}},
@@ -2030,7 +2030,7 @@
               "style":{
                 "location":{
                   "x":306,
-                  "y":240},
+                  "y":276},
                 "size":{
                   "width":38,
                   "height":36}},
@@ -2046,7 +2046,7 @@
                   "style":{
                     "location":{
                       "x":306,
-                      "y":240},
+                      "y":276},
                     "size":{
                       "width":38,
                       "height":36}},
@@ -2591,7 +2591,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":276},
+                  "y":312},
                 "size":{
                   "width":114,
                   "height":36}},
@@ -2607,7 +2607,7 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":276},
+                      "y":312},
                     "size":{
                       "width":114,
                       "height":36}},
@@ -2624,7 +2624,7 @@
               "style":{
                 "location":{
                   "x":114,
-                  "y":276},
+                  "y":312},
                 "size":{
                   "width":56,
                   "height":36}},
@@ -2640,7 +2640,7 @@
                   "style":{
                     "location":{
                       "x":114,
-                      "y":276},
+                      "y":312},
                     "size":{
                       "width":56,
                       "height":36}},
@@ -2657,7 +2657,7 @@
               "style":{
                 "location":{
                   "x":170,
-                  "y":276},
+                  "y":312},
                 "size":{
                   "width":136,
                   "height":36}},
@@ -2673,7 +2673,7 @@
                   "style":{
                     "location":{
                       "x":170,
-                      "y":276},
+                      "y":312},
                     "size":{
                       "width":136,
                       "height":36}},
@@ -2690,7 +2690,7 @@
               "style":{
                 "location":{
                   "x":306,
-                  "y":276},
+                  "y":312},
                 "size":{
                   "width":38,
                   "height":36}},
@@ -2706,7 +2706,7 @@
                   "style":{
                     "location":{
                       "x":306,
-                      "y":276},
+                      "y":312},
                     "size":{
                       "width":38,
                       "height":36}},
@@ -2723,7 +2723,7 @@
               "style":{
                 "location":{
                   "x":344,
-                  "y":276},
+                  "y":312},
                 "size":{
                   "width":64,
                   "height":36}},
@@ -2739,7 +2739,7 @@
                   "style":{
                     "location":{
                       "x":344,
-                      "y":276},
+                      "y":312},
                     "size":{
                       "width":64,
                       "height":36}},
@@ -2756,7 +2756,7 @@
               "style":{
                 "location":{
                   "x":408,
-                  "y":276},
+                  "y":312},
                 "size":{
                   "width":54,
                   "height":36}},
@@ -2772,7 +2772,7 @@
                   "style":{
                     "location":{
                       "x":408,
-                      "y":276},
+                      "y":312},
                     "size":{
                       "width":54,
                       "height":36}},
@@ -2789,7 +2789,7 @@
               "style":{
                 "location":{
                   "x":462,
-                  "y":276},
+                  "y":312},
                 "size":{
                   "width":49,
                   "height":36}},
@@ -2805,7 +2805,7 @@
                   "style":{
                     "location":{
                       "x":462,
-                      "y":276},
+                      "y":312},
                     "size":{
                       "width":49,
                       "height":36}},
@@ -2822,7 +2822,7 @@
               "style":{
                 "location":{
                   "x":511,
-                  "y":276},
+                  "y":312},
                 "size":{
                   "width":141,
                   "height":36}},
@@ -2838,7 +2838,7 @@
                   "style":{
                     "location":{
                       "x":511,
-                      "y":276},
+                      "y":312},
                     "size":{
                       "width":141,
                       "height":36}},
@@ -2855,7 +2855,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":312},
+                  "y":348},
                 "size":{
                   "width":114,
                   "height":36}},
@@ -2871,7 +2871,7 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":312},
+                      "y":348},
                     "size":{
                       "width":114,
                       "height":36}},
@@ -2888,7 +2888,7 @@
               "style":{
                 "location":{
                   "x":114,
-                  "y":312},
+                  "y":348},
                 "size":{
                   "width":56,
                   "height":36}},
@@ -2904,7 +2904,7 @@
                   "style":{
                     "location":{
                       "x":114,
-                      "y":312},
+                      "y":348},
                     "size":{
                       "width":56,
                       "height":36}},
@@ -2921,7 +2921,7 @@
               "style":{
                 "location":{
                   "x":170,
-                  "y":312},
+                  "y":348},
                 "size":{
                   "width":136,
                   "height":36}},
@@ -2937,7 +2937,7 @@
                   "style":{
                     "location":{
                       "x":170,
-                      "y":312},
+                      "y":348},
                     "size":{
                       "width":136,
                       "height":36}},
@@ -2954,7 +2954,7 @@
               "style":{
                 "location":{
                   "x":306,
-                  "y":312},
+                  "y":348},
                 "size":{
                   "width":38,
                   "height":36}},
@@ -2970,7 +2970,7 @@
                   "style":{
                     "location":{
                       "x":306,
-                      "y":312},
+                      "y":348},
                     "size":{
                       "width":38,
                       "height":36}},
@@ -2987,7 +2987,7 @@
               "style":{
                 "location":{
                   "x":344,
-                  "y":312},
+                  "y":348},
                 "size":{
                   "width":64,
                   "height":36}},
@@ -3003,7 +3003,7 @@
                   "style":{
                     "location":{
                       "x":344,
-                      "y":312},
+                      "y":348},
                     "size":{
                       "width":64,
                       "height":36}},
@@ -3020,7 +3020,7 @@
               "style":{
                 "location":{
                   "x":408,
-                  "y":312},
+                  "y":348},
                 "size":{
                   "width":54,
                   "height":36}},
@@ -3036,7 +3036,7 @@
                   "style":{
                     "location":{
                       "x":408,
-                      "y":312},
+                      "y":348},
                     "size":{
                       "width":54,
                       "height":36}},
@@ -3053,7 +3053,7 @@
               "style":{
                 "location":{
                   "x":462,
-                  "y":312},
+                  "y":348},
                 "size":{
                   "width":49,
                   "height":36}},
@@ -3069,7 +3069,7 @@
                   "style":{
                     "location":{
                       "x":462,
-                      "y":312},
+                      "y":348},
                     "size":{
                       "width":49,
                       "height":36}},
@@ -3086,7 +3086,7 @@
               "style":{
                 "location":{
                   "x":511,
-                  "y":312},
+                  "y":348},
                 "size":{
                   "width":141,
                   "height":36}},
@@ -3102,7 +3102,7 @@
                   "style":{
                     "location":{
                       "x":511,
-                      "y":312},
+                      "y":348},
                     "size":{
                       "width":141,
                       "height":36}},
@@ -3119,7 +3119,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":348},
+                  "y":384},
                 "size":{
                   "width":114,
                   "height":52}},
@@ -3135,14 +3135,14 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":348},
+                      "y":384},
                     "size":{
                       "width":114,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u185.png"}},
+                "normal~":"images/客户经理积分配置/u201.png"}},
 {
               "id":"97854e5dbe8f401ea2afab4c25bcada0",
               "label":"",
@@ -3152,7 +3152,7 @@
               "style":{
                 "location":{
                   "x":114,
-                  "y":348},
+                  "y":384},
                 "size":{
                   "width":56,
                   "height":52}},
@@ -3168,14 +3168,14 @@
                   "style":{
                     "location":{
                       "x":114,
-                      "y":348},
+                      "y":384},
                     "size":{
                       "width":56,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u187.png"}},
+                "normal~":"images/客户经理积分配置/u203.png"}},
 {
               "id":"06e624179bf449ac8c0c56f6b4900bd6",
               "label":"",
@@ -3185,7 +3185,7 @@
               "style":{
                 "location":{
                   "x":170,
-                  "y":348},
+                  "y":384},
                 "size":{
                   "width":136,
                   "height":52}},
@@ -3201,14 +3201,14 @@
                   "style":{
                     "location":{
                       "x":170,
-                      "y":348},
+                      "y":384},
                     "size":{
                       "width":136,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u189.png"}},
+                "normal~":"images/客户经理积分配置/u205.png"}},
 {
               "id":"5a90e43ee8db40deb4b36eaba50fcb29",
               "label":"",
@@ -3218,7 +3218,7 @@
               "style":{
                 "location":{
                   "x":306,
-                  "y":348},
+                  "y":384},
                 "size":{
                   "width":38,
                   "height":52}},
@@ -3234,14 +3234,14 @@
                   "style":{
                     "location":{
                       "x":306,
-                      "y":348},
+                      "y":384},
                     "size":{
                       "width":38,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u191.png"}},
+                "normal~":"images/客户经理积分配置/u207.png"}},
 {
               "id":"e24637530a684d4ba1c0129e15a1713d",
               "label":"",
@@ -3251,7 +3251,7 @@
               "style":{
                 "location":{
                   "x":344,
-                  "y":348},
+                  "y":384},
                 "size":{
                   "width":64,
                   "height":52}},
@@ -3267,7 +3267,7 @@
                   "style":{
                     "location":{
                       "x":344,
-                      "y":348},
+                      "y":384},
                     "size":{
                       "width":64,
                       "height":52}},
@@ -3284,7 +3284,7 @@
               "style":{
                 "location":{
                   "x":408,
-                  "y":348},
+                  "y":384},
                 "size":{
                   "width":54,
                   "height":52}},
@@ -3300,14 +3300,14 @@
                   "style":{
                     "location":{
                       "x":408,
-                      "y":348},
+                      "y":384},
                     "size":{
                       "width":54,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u195.png"}},
+                "normal~":"images/客户经理积分配置/u211.png"}},
 {
               "id":"958b424b536e4b7caba724a9bc8b61df",
               "label":"",
@@ -3317,7 +3317,7 @@
               "style":{
                 "location":{
                   "x":462,
-                  "y":348},
+                  "y":384},
                 "size":{
                   "width":49,
                   "height":52}},
@@ -3333,14 +3333,14 @@
                   "style":{
                     "location":{
                       "x":462,
-                      "y":348},
+                      "y":384},
                     "size":{
                       "width":49,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u197.png"}},
+                "normal~":"images/客户经理积分配置/u213.png"}},
 {
               "id":"2d850f296efa44c088efc8d2c6166c69",
               "label":"",
@@ -3350,7 +3350,7 @@
               "style":{
                 "location":{
                   "x":511,
-                  "y":348},
+                  "y":384},
                 "size":{
                   "width":141,
                   "height":52}},
@@ -3366,14 +3366,14 @@
                   "style":{
                     "location":{
                       "x":511,
-                      "y":348},
+                      "y":384},
                     "size":{
                       "width":141,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u199.png"}},
+                "normal~":"images/客户经理积分配置/u215.png"}},
 {
               "id":"ea7039c65f2c4d9ebf29c0987b60ae2e",
               "label":"",
@@ -3383,7 +3383,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":400},
+                  "y":436},
                 "size":{
                   "width":114,
                   "height":52}},
@@ -3399,14 +3399,14 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":400},
+                      "y":436},
                     "size":{
                       "width":114,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u185.png"}},
+                "normal~":"images/客户经理积分配置/u201.png"}},
 {
               "id":"901a226d4f604b0598babfbedbe5d763",
               "label":"",
@@ -3416,7 +3416,7 @@
               "style":{
                 "location":{
                   "x":114,
-                  "y":400},
+                  "y":436},
                 "size":{
                   "width":56,
                   "height":52}},
@@ -3432,14 +3432,14 @@
                   "style":{
                     "location":{
                       "x":114,
-                      "y":400},
+                      "y":436},
                     "size":{
                       "width":56,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u187.png"}},
+                "normal~":"images/客户经理积分配置/u203.png"}},
 {
               "id":"f610a0b49f374ce1b1c8a5dec869b80e",
               "label":"",
@@ -3449,7 +3449,7 @@
               "style":{
                 "location":{
                   "x":170,
-                  "y":400},
+                  "y":436},
                 "size":{
                   "width":136,
                   "height":52}},
@@ -3465,14 +3465,14 @@
                   "style":{
                     "location":{
                       "x":170,
-                      "y":400},
+                      "y":436},
                     "size":{
                       "width":136,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u189.png"}},
+                "normal~":"images/客户经理积分配置/u205.png"}},
 {
               "id":"a85dea486f05456c8098f5832e4bd6fa",
               "label":"",
@@ -3482,7 +3482,7 @@
               "style":{
                 "location":{
                   "x":306,
-                  "y":400},
+                  "y":436},
                 "size":{
                   "width":38,
                   "height":52}},
@@ -3498,14 +3498,14 @@
                   "style":{
                     "location":{
                       "x":306,
-                      "y":400},
+                      "y":436},
                     "size":{
                       "width":38,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u191.png"}},
+                "normal~":"images/客户经理积分配置/u207.png"}},
 {
               "id":"86775c2d246549a09809edf6d75ae300",
               "label":"",
@@ -3515,7 +3515,7 @@
               "style":{
                 "location":{
                   "x":344,
-                  "y":400},
+                  "y":436},
                 "size":{
                   "width":64,
                   "height":52}},
@@ -3531,7 +3531,7 @@
                   "style":{
                     "location":{
                       "x":344,
-                      "y":400},
+                      "y":436},
                     "size":{
                       "width":64,
                       "height":52}},
@@ -3548,7 +3548,7 @@
               "style":{
                 "location":{
                   "x":408,
-                  "y":400},
+                  "y":436},
                 "size":{
                   "width":54,
                   "height":52}},
@@ -3564,14 +3564,14 @@
                   "style":{
                     "location":{
                       "x":408,
-                      "y":400},
+                      "y":436},
                     "size":{
                       "width":54,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u195.png"}},
+                "normal~":"images/客户经理积分配置/u211.png"}},
 {
               "id":"4f32d5b4712945f9a72ad42316d87462",
               "label":"",
@@ -3581,7 +3581,7 @@
               "style":{
                 "location":{
                   "x":462,
-                  "y":400},
+                  "y":436},
                 "size":{
                   "width":49,
                   "height":52}},
@@ -3597,14 +3597,14 @@
                   "style":{
                     "location":{
                       "x":462,
-                      "y":400},
+                      "y":436},
                     "size":{
                       "width":49,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u197.png"}},
+                "normal~":"images/客户经理积分配置/u213.png"}},
 {
               "id":"671966fd226c49a1893372635c21a380",
               "label":"",
@@ -3614,7 +3614,7 @@
               "style":{
                 "location":{
                   "x":511,
-                  "y":400},
+                  "y":436},
                 "size":{
                   "width":141,
                   "height":52}},
@@ -3630,14 +3630,14 @@
                   "style":{
                     "location":{
                       "x":511,
-                      "y":400},
+                      "y":436},
                     "size":{
                       "width":141,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u199.png"}},
+                "normal~":"images/客户经理积分配置/u215.png"}},
 {
               "id":"8853fa742eb549748d9ce9cdcb6e7a89",
               "label":"",
@@ -3647,7 +3647,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":452},
+                  "y":488},
                 "size":{
                   "width":114,
                   "height":52}},
@@ -3663,14 +3663,14 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":452},
+                      "y":488},
                     "size":{
                       "width":114,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u185.png"}},
+                "normal~":"images/客户经理积分配置/u201.png"}},
 {
               "id":"d455c3460c0445c3baf29f620caa5aaa",
               "label":"",
@@ -3680,7 +3680,7 @@
               "style":{
                 "location":{
                   "x":114,
-                  "y":452},
+                  "y":488},
                 "size":{
                   "width":56,
                   "height":52}},
@@ -3696,14 +3696,14 @@
                   "style":{
                     "location":{
                       "x":114,
-                      "y":452},
+                      "y":488},
                     "size":{
                       "width":56,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u187.png"}},
+                "normal~":"images/客户经理积分配置/u203.png"}},
 {
               "id":"661c298e5ef048ffa30326fdbe048f22",
               "label":"",
@@ -3713,7 +3713,7 @@
               "style":{
                 "location":{
                   "x":170,
-                  "y":452},
+                  "y":488},
                 "size":{
                   "width":136,
                   "height":52}},
@@ -3729,14 +3729,14 @@
                   "style":{
                     "location":{
                       "x":170,
-                      "y":452},
+                      "y":488},
                     "size":{
                       "width":136,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u189.png"}},
+                "normal~":"images/客户经理积分配置/u205.png"}},
 {
               "id":"f46233f1f3ad4ca8a0910fbaa7e00d77",
               "label":"",
@@ -3746,7 +3746,7 @@
               "style":{
                 "location":{
                   "x":306,
-                  "y":452},
+                  "y":488},
                 "size":{
                   "width":38,
                   "height":52}},
@@ -3762,14 +3762,14 @@
                   "style":{
                     "location":{
                       "x":306,
-                      "y":452},
+                      "y":488},
                     "size":{
                       "width":38,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u191.png"}},
+                "normal~":"images/客户经理积分配置/u207.png"}},
 {
               "id":"77e92ef8c85f421fb55f597b2d4b5d43",
               "label":"",
@@ -3779,7 +3779,7 @@
               "style":{
                 "location":{
                   "x":344,
-                  "y":452},
+                  "y":488},
                 "size":{
                   "width":64,
                   "height":52}},
@@ -3795,7 +3795,7 @@
                   "style":{
                     "location":{
                       "x":344,
-                      "y":452},
+                      "y":488},
                     "size":{
                       "width":64,
                       "height":52}},
@@ -3812,7 +3812,7 @@
               "style":{
                 "location":{
                   "x":408,
-                  "y":452},
+                  "y":488},
                 "size":{
                   "width":54,
                   "height":52}},
@@ -3828,14 +3828,14 @@
                   "style":{
                     "location":{
                       "x":408,
-                      "y":452},
+                      "y":488},
                     "size":{
                       "width":54,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u195.png"}},
+                "normal~":"images/客户经理积分配置/u211.png"}},
 {
               "id":"8f8084632a7a4111b3a583b354c02c8e",
               "label":"",
@@ -3845,7 +3845,7 @@
               "style":{
                 "location":{
                   "x":462,
-                  "y":452},
+                  "y":488},
                 "size":{
                   "width":49,
                   "height":52}},
@@ -3861,14 +3861,14 @@
                   "style":{
                     "location":{
                       "x":462,
-                      "y":452},
+                      "y":488},
                     "size":{
                       "width":49,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u197.png"}},
+                "normal~":"images/客户经理积分配置/u213.png"}},
 {
               "id":"5b321d6ea6314c58b4984302d54928c1",
               "label":"",
@@ -3878,7 +3878,7 @@
               "style":{
                 "location":{
                   "x":511,
-                  "y":452},
+                  "y":488},
                 "size":{
                   "width":141,
                   "height":52}},
@@ -3894,14 +3894,14 @@
                   "style":{
                     "location":{
                       "x":511,
-                      "y":452},
+                      "y":488},
                     "size":{
                       "width":141,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u199.png"}},
+                "normal~":"images/客户经理积分配置/u215.png"}},
 {
               "id":"7cd6d9f9a6504309bec797e808bbc8cb",
               "label":"",
@@ -3911,7 +3911,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":504},
+                  "y":540},
                 "size":{
                   "width":114,
                   "height":52}},
@@ -3927,14 +3927,14 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":504},
+                      "y":540},
                     "size":{
                       "width":114,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u233.png"}},
+                "normal~":"images/客户经理积分配置/u249.png"}},
 {
               "id":"aa2ed26b5e2141a18f5c01b352118e6b",
               "label":"",
@@ -3944,7 +3944,7 @@
               "style":{
                 "location":{
                   "x":114,
-                  "y":504},
+                  "y":540},
                 "size":{
                   "width":56,
                   "height":52}},
@@ -3960,14 +3960,14 @@
                   "style":{
                     "location":{
                       "x":114,
-                      "y":504},
+                      "y":540},
                     "size":{
                       "width":56,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u235.png"}},
+                "normal~":"images/客户经理积分配置/u251.png"}},
 {
               "id":"cc69936048aa447eb67fb1962d8402a6",
               "label":"",
@@ -3977,7 +3977,7 @@
               "style":{
                 "location":{
                   "x":170,
-                  "y":504},
+                  "y":540},
                 "size":{
                   "width":136,
                   "height":52}},
@@ -3993,14 +3993,14 @@
                   "style":{
                     "location":{
                       "x":170,
-                      "y":504},
+                      "y":540},
                     "size":{
                       "width":136,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u237.png"}},
+                "normal~":"images/客户经理积分配置/u253.png"}},
 {
               "id":"78a0106819004618b82decf9663961c1",
               "label":"",
@@ -4010,7 +4010,7 @@
               "style":{
                 "location":{
                   "x":306,
-                  "y":504},
+                  "y":540},
                 "size":{
                   "width":38,
                   "height":52}},
@@ -4026,14 +4026,14 @@
                   "style":{
                     "location":{
                       "x":306,
-                      "y":504},
+                      "y":540},
                     "size":{
                       "width":38,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u239.png"}},
+                "normal~":"images/客户经理积分配置/u255.png"}},
 {
               "id":"bb3f62200d2045119e1954653fd6c1dc",
               "label":"",
@@ -4043,7 +4043,7 @@
               "style":{
                 "location":{
                   "x":344,
-                  "y":504},
+                  "y":540},
                 "size":{
                   "width":64,
                   "height":52}},
@@ -4059,14 +4059,14 @@
                   "style":{
                     "location":{
                       "x":344,
-                      "y":504},
+                      "y":540},
                     "size":{
                       "width":64,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u241.png"}},
+                "normal~":"images/客户经理积分配置/u257.png"}},
 {
               "id":"02bd03987eeb4025bcdc39716e3b9abb",
               "label":"",
@@ -4076,7 +4076,7 @@
               "style":{
                 "location":{
                   "x":408,
-                  "y":504},
+                  "y":540},
                 "size":{
                   "width":54,
                   "height":52}},
@@ -4092,14 +4092,14 @@
                   "style":{
                     "location":{
                       "x":408,
-                      "y":504},
+                      "y":540},
                     "size":{
                       "width":54,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u243.png"}},
+                "normal~":"images/客户经理积分配置/u259.png"}},
 {
               "id":"b46a3811e1be44c78c21e2f4f860aa54",
               "label":"",
@@ -4109,7 +4109,7 @@
               "style":{
                 "location":{
                   "x":462,
-                  "y":504},
+                  "y":540},
                 "size":{
                   "width":49,
                   "height":52}},
@@ -4125,14 +4125,14 @@
                   "style":{
                     "location":{
                       "x":462,
-                      "y":504},
+                      "y":540},
                     "size":{
                       "width":49,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u245.png"}},
+                "normal~":"images/客户经理积分配置/u261.png"}},
 {
               "id":"6c43dbf398914c0580dd30e9248fd6a9",
               "label":"",
@@ -4142,7 +4142,7 @@
               "style":{
                 "location":{
                   "x":511,
-                  "y":504},
+                  "y":540},
                 "size":{
                   "width":141,
                   "height":52}},
@@ -4158,14 +4158,278 @@
                   "style":{
                     "location":{
                       "x":511,
-                      "y":504},
+                      "y":540},
                     "size":{
                       "width":141,
                       "height":52}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理积分配置/u247.png"}}]},
+                "normal~":"images/客户经理积分配置/u263.png"}},
+{
+              "id":"9fdc741720ae4144b814fc61612412d6",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":240},
+                "size":{
+                  "width":114,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7a3a02e5f658478b821ac09f9f60167e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":240},
+                    "size":{
+                      "width":114,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户经理积分配置/u9.png"}},
+{
+              "id":"a7ab65101772453aa3d8fdb416b2e82c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":114,
+                  "y":240},
+                "size":{
+                  "width":56,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4221d0897095493c8b16c47c255a677c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":114,
+                      "y":240},
+                    "size":{
+                      "width":56,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户经理积分配置/u11.png"}},
+{
+              "id":"5a61113139ac4700b862c371d9e89813",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":170,
+                  "y":240},
+                "size":{
+                  "width":136,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"13479863dc964e6db96814c87ffffea0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":170,
+                      "y":240},
+                    "size":{
+                      "width":136,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户经理积分配置/u13.png"}},
+{
+              "id":"00632755df6e45d4848a1d541c9d695a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":306,
+                  "y":240},
+                "size":{
+                  "width":38,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f829c9f176ac4e769f54a1f15408d157",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":306,
+                      "y":240},
+                    "size":{
+                      "width":38,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户经理积分配置/u15.png"}},
+{
+              "id":"3f649a3159404bf4827cc21d167ec44b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":344,
+                  "y":240},
+                "size":{
+                  "width":64,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"83cc534e6ac64090b9fb3837c5e52d1c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":344,
+                      "y":240},
+                    "size":{
+                      "width":64,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理/u28.png"}},
+{
+              "id":"72c2c5a72383436fa16cf1222a8a5286",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":408,
+                  "y":240},
+                "size":{
+                  "width":54,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0c86b62a120f4e36961c4f4f93a96c00",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":408,
+                      "y":240},
+                    "size":{
+                      "width":54,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户经理积分配置/u19.png"}},
+{
+              "id":"c3ec39dc3dff40c1a02bcaa1b96125f4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":462,
+                  "y":240},
+                "size":{
+                  "width":49,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e69d9954d0a34132b918c3d0915d88a0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":462,
+                      "y":240},
+                    "size":{
+                      "width":49,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户经理积分配置/u21.png"}},
+{
+              "id":"b4d963cf58454e21b847aa586f65dae6",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":511,
+                  "y":240},
+                "size":{
+                  "width":141,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4937ac08c7e64140b99521cf31c8c57d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":511,
+                      "y":240},
+                    "size":{
+                      "width":141,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户经理积分配置/u23.png"}}]},
 {
           "id":"a8aa1723f3b242158d0f748101787a78",
           "label":"",
@@ -4198,7 +4462,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",
@@ -4813,267 +5077,299 @@
       "scriptId":"u135"},
     "045b1f87403340f4a7a689bf936d350e":{
       "scriptId":"u136"},
-    "b04c7f50d8a64245a835dec72fa96004":{
+    "9fdc741720ae4144b814fc61612412d6":{
       "scriptId":"u137"},
-    "c5f9e8390bac4d0d8a1c0fbc9aff05f2":{
+    "7a3a02e5f658478b821ac09f9f60167e":{
       "scriptId":"u138"},
-    "0cdfa5d1b86a48babb05e6cfbaf5ce84":{
+    "a7ab65101772453aa3d8fdb416b2e82c":{
       "scriptId":"u139"},
-    "0bace96d9ca74ec2b7bf6b6dc6e94330":{
+    "4221d0897095493c8b16c47c255a677c":{
       "scriptId":"u140"},
-    "b05b87557881433eac88b10f5d2baff1":{
+    "5a61113139ac4700b862c371d9e89813":{
       "scriptId":"u141"},
-    "7c0270fe19f443e895ba21dd887c2041":{
+    "13479863dc964e6db96814c87ffffea0":{
       "scriptId":"u142"},
-    "9c0e3df28d214742b59e5f6d9c0ad261":{
+    "00632755df6e45d4848a1d541c9d695a":{
       "scriptId":"u143"},
-    "dc986477bd1548f8b17e8026511890e2":{
+    "f829c9f176ac4e769f54a1f15408d157":{
       "scriptId":"u144"},
-    "563ee7e0022546c8b142543917984d67":{
+    "3f649a3159404bf4827cc21d167ec44b":{
       "scriptId":"u145"},
-    "2da60d6d5e11461ea81e326bbdeca259":{
+    "83cc534e6ac64090b9fb3837c5e52d1c":{
       "scriptId":"u146"},
-    "4ee0e85920294d0f8c448cc1669a24b6":{
+    "72c2c5a72383436fa16cf1222a8a5286":{
       "scriptId":"u147"},
-    "8c2a4445381643f995595ec98d225853":{
+    "0c86b62a120f4e36961c4f4f93a96c00":{
       "scriptId":"u148"},
-    "48f2eb8875904826a43c75c8f1f5896c":{
+    "c3ec39dc3dff40c1a02bcaa1b96125f4":{
       "scriptId":"u149"},
-    "dcc0837432d54a5da878d015c129444d":{
+    "e69d9954d0a34132b918c3d0915d88a0":{
       "scriptId":"u150"},
-    "1dc6556c71184fa2b5c307100b8a9561":{
+    "b4d963cf58454e21b847aa586f65dae6":{
       "scriptId":"u151"},
-    "f38d866e1fac45ff8245de595ecc7708":{
+    "4937ac08c7e64140b99521cf31c8c57d":{
       "scriptId":"u152"},
-    "3692809cb1dc4b579b45a48e586209f3":{
+    "b04c7f50d8a64245a835dec72fa96004":{
       "scriptId":"u153"},
-    "1677aa7ab9e54d9eb0e2d6da574e67dd":{
+    "c5f9e8390bac4d0d8a1c0fbc9aff05f2":{
       "scriptId":"u154"},
-    "93bb5304c61e4086ab026ddaa107938e":{
+    "0cdfa5d1b86a48babb05e6cfbaf5ce84":{
       "scriptId":"u155"},
-    "39fc5162fdb14ca085cfead674af9f18":{
+    "0bace96d9ca74ec2b7bf6b6dc6e94330":{
       "scriptId":"u156"},
-    "2a0a5d0cecee48c180b94cb61bf7b478":{
+    "b05b87557881433eac88b10f5d2baff1":{
       "scriptId":"u157"},
-    "38cc19b6dbe14fd89bae2df020d7efb2":{
+    "7c0270fe19f443e895ba21dd887c2041":{
       "scriptId":"u158"},
-    "ae32e3d6cf8d42059166131ad5e505b0":{
+    "9c0e3df28d214742b59e5f6d9c0ad261":{
       "scriptId":"u159"},
-    "2fe0d268022647f58cc572c71d5a5419":{
+    "dc986477bd1548f8b17e8026511890e2":{
       "scriptId":"u160"},
-    "0f4aad9b3c7549d4a0040b8f16636019":{
+    "563ee7e0022546c8b142543917984d67":{
       "scriptId":"u161"},
-    "e8eedd5a29c645feb9134adfa593688f":{
+    "2da60d6d5e11461ea81e326bbdeca259":{
       "scriptId":"u162"},
-    "3006583f34674bb5b9ca25c407f0c08f":{
+    "4ee0e85920294d0f8c448cc1669a24b6":{
       "scriptId":"u163"},
-    "2229bb838ccf424bac9ca1a5a859b55f":{
+    "8c2a4445381643f995595ec98d225853":{
       "scriptId":"u164"},
-    "a8f022f5a2704361bda7157ef1e96fa9":{
+    "48f2eb8875904826a43c75c8f1f5896c":{
       "scriptId":"u165"},
-    "966aa8952bca4b9f9d1187f25732174b":{
+    "dcc0837432d54a5da878d015c129444d":{
       "scriptId":"u166"},
-    "febe0ca3fd144aad808e101958056b66":{
+    "1dc6556c71184fa2b5c307100b8a9561":{
       "scriptId":"u167"},
-    "9474bd665dad417a8d94d55a86fa64e9":{
+    "f38d866e1fac45ff8245de595ecc7708":{
       "scriptId":"u168"},
-    "f8dc6dc023994c809a67ab5942c9cc03":{
+    "3692809cb1dc4b579b45a48e586209f3":{
       "scriptId":"u169"},
-    "0bfcbece11284330962a9c8d612f4873":{
+    "1677aa7ab9e54d9eb0e2d6da574e67dd":{
       "scriptId":"u170"},
-    "79479d98cdb3449bb01590dd3947ef54":{
+    "93bb5304c61e4086ab026ddaa107938e":{
       "scriptId":"u171"},
-    "693c09e76f284ed7b26111d4e67032ff":{
+    "39fc5162fdb14ca085cfead674af9f18":{
       "scriptId":"u172"},
-    "f0c3c448746f40528b6a2e2c1867cd0f":{
+    "2a0a5d0cecee48c180b94cb61bf7b478":{
       "scriptId":"u173"},
-    "337c7a3d0ae242b4a304e23923c03fef":{
+    "38cc19b6dbe14fd89bae2df020d7efb2":{
       "scriptId":"u174"},
-    "0b01db112fc44b5fa0b9e101f43a29ba":{
+    "ae32e3d6cf8d42059166131ad5e505b0":{
       "scriptId":"u175"},
-    "89a228c3854643d298bddddeac077fe3":{
+    "2fe0d268022647f58cc572c71d5a5419":{
       "scriptId":"u176"},
-    "9cb46f7a006e4644bb22deafb4ae4b25":{
+    "0f4aad9b3c7549d4a0040b8f16636019":{
       "scriptId":"u177"},
-    "78d4bcfbe13b406abb2043d84ba57c7e":{
+    "e8eedd5a29c645feb9134adfa593688f":{
       "scriptId":"u178"},
-    "cb7f43186fde4c5daf833072112b1bf4":{
+    "3006583f34674bb5b9ca25c407f0c08f":{
       "scriptId":"u179"},
-    "e48ec14b1e8a4b7e80b1d576895496c0":{
+    "2229bb838ccf424bac9ca1a5a859b55f":{
       "scriptId":"u180"},
-    "f98aa661c7514133942e9489084aab73":{
+    "a8f022f5a2704361bda7157ef1e96fa9":{
       "scriptId":"u181"},
-    "130bcd9ac5f946dcbdd1db16e99cd42f":{
+    "966aa8952bca4b9f9d1187f25732174b":{
       "scriptId":"u182"},
-    "be181b7bdbb4448593535b054785d25e":{
+    "febe0ca3fd144aad808e101958056b66":{
       "scriptId":"u183"},
-    "a8ee336f2d9549509878a2b40c464c24":{
+    "9474bd665dad417a8d94d55a86fa64e9":{
       "scriptId":"u184"},
-    "16223e8ab79448ca8df469942b6fe238":{
+    "f8dc6dc023994c809a67ab5942c9cc03":{
       "scriptId":"u185"},
-    "4240efee71fb4eaea4a23fd59714855d":{
+    "0bfcbece11284330962a9c8d612f4873":{
       "scriptId":"u186"},
-    "97854e5dbe8f401ea2afab4c25bcada0":{
+    "79479d98cdb3449bb01590dd3947ef54":{
       "scriptId":"u187"},
-    "fd3019e8673c4e6c890712da85d74b29":{
+    "693c09e76f284ed7b26111d4e67032ff":{
       "scriptId":"u188"},
-    "06e624179bf449ac8c0c56f6b4900bd6":{
+    "f0c3c448746f40528b6a2e2c1867cd0f":{
       "scriptId":"u189"},
-    "f99ca9a6f9b044ce86c8757d166f2c23":{
+    "337c7a3d0ae242b4a304e23923c03fef":{
       "scriptId":"u190"},
-    "5a90e43ee8db40deb4b36eaba50fcb29":{
+    "0b01db112fc44b5fa0b9e101f43a29ba":{
       "scriptId":"u191"},
-    "25d4322ec01447abbe041f4465cb5dba":{
+    "89a228c3854643d298bddddeac077fe3":{
       "scriptId":"u192"},
-    "e24637530a684d4ba1c0129e15a1713d":{
+    "9cb46f7a006e4644bb22deafb4ae4b25":{
       "scriptId":"u193"},
-    "99d09791c3054cab83ad4fb17558faff":{
+    "78d4bcfbe13b406abb2043d84ba57c7e":{
       "scriptId":"u194"},
-    "6a0f685921fe4aeb992849326f599cfa":{
+    "cb7f43186fde4c5daf833072112b1bf4":{
       "scriptId":"u195"},
-    "f07e9b7264f344baa1e70c7cbfff14d3":{
+    "e48ec14b1e8a4b7e80b1d576895496c0":{
       "scriptId":"u196"},
-    "958b424b536e4b7caba724a9bc8b61df":{
+    "f98aa661c7514133942e9489084aab73":{
       "scriptId":"u197"},
-    "c3f1d34c2607447c8fe117e8be83a7bf":{
+    "130bcd9ac5f946dcbdd1db16e99cd42f":{
       "scriptId":"u198"},
-    "2d850f296efa44c088efc8d2c6166c69":{
+    "be181b7bdbb4448593535b054785d25e":{
       "scriptId":"u199"},
-    "b005004a320f4ed28ab288a16bef5eb6":{
+    "a8ee336f2d9549509878a2b40c464c24":{
       "scriptId":"u200"},
-    "ea7039c65f2c4d9ebf29c0987b60ae2e":{
+    "16223e8ab79448ca8df469942b6fe238":{
       "scriptId":"u201"},
-    "fde1e694b3b44cfda796a4d1591b94cd":{
+    "4240efee71fb4eaea4a23fd59714855d":{
       "scriptId":"u202"},
-    "901a226d4f604b0598babfbedbe5d763":{
+    "97854e5dbe8f401ea2afab4c25bcada0":{
       "scriptId":"u203"},
-    "cab487f6fa2e48c9ab9c08a9399c02cf":{
+    "fd3019e8673c4e6c890712da85d74b29":{
       "scriptId":"u204"},
-    "f610a0b49f374ce1b1c8a5dec869b80e":{
+    "06e624179bf449ac8c0c56f6b4900bd6":{
       "scriptId":"u205"},
-    "8aa34ec00879439e9df186e688b74849":{
+    "f99ca9a6f9b044ce86c8757d166f2c23":{
       "scriptId":"u206"},
-    "a85dea486f05456c8098f5832e4bd6fa":{
+    "5a90e43ee8db40deb4b36eaba50fcb29":{
       "scriptId":"u207"},
-    "b0ea4298d9034d2fa6450575f0b32a92":{
+    "25d4322ec01447abbe041f4465cb5dba":{
       "scriptId":"u208"},
-    "86775c2d246549a09809edf6d75ae300":{
+    "e24637530a684d4ba1c0129e15a1713d":{
       "scriptId":"u209"},
-    "8234748a969442bab0aa95389ee1c6e0":{
+    "99d09791c3054cab83ad4fb17558faff":{
       "scriptId":"u210"},
-    "94e46e67610a42aa92e4c374b1ec5ce5":{
+    "6a0f685921fe4aeb992849326f599cfa":{
       "scriptId":"u211"},
-    "3d90156e22734d4f8b9c85abc2dca292":{
+    "f07e9b7264f344baa1e70c7cbfff14d3":{
       "scriptId":"u212"},
-    "4f32d5b4712945f9a72ad42316d87462":{
+    "958b424b536e4b7caba724a9bc8b61df":{
       "scriptId":"u213"},
-    "56dae81268e34fbcbb4da2052bbe3259":{
+    "c3f1d34c2607447c8fe117e8be83a7bf":{
       "scriptId":"u214"},
-    "671966fd226c49a1893372635c21a380":{
+    "2d850f296efa44c088efc8d2c6166c69":{
       "scriptId":"u215"},
-    "9e2ce097d2a6437cbd6c5fbc1cfeaab5":{
+    "b005004a320f4ed28ab288a16bef5eb6":{
       "scriptId":"u216"},
-    "8853fa742eb549748d9ce9cdcb6e7a89":{
+    "ea7039c65f2c4d9ebf29c0987b60ae2e":{
       "scriptId":"u217"},
-    "7274fd6a01c040c78f27045da498ca96":{
+    "fde1e694b3b44cfda796a4d1591b94cd":{
       "scriptId":"u218"},
-    "d455c3460c0445c3baf29f620caa5aaa":{
+    "901a226d4f604b0598babfbedbe5d763":{
       "scriptId":"u219"},
-    "1bd97121a23f4e36bedeb4aff7692dc9":{
+    "cab487f6fa2e48c9ab9c08a9399c02cf":{
       "scriptId":"u220"},
-    "661c298e5ef048ffa30326fdbe048f22":{
+    "f610a0b49f374ce1b1c8a5dec869b80e":{
       "scriptId":"u221"},
-    "79c962f768bc4b7b98a2e2cdc4097755":{
+    "8aa34ec00879439e9df186e688b74849":{
       "scriptId":"u222"},
-    "f46233f1f3ad4ca8a0910fbaa7e00d77":{
+    "a85dea486f05456c8098f5832e4bd6fa":{
       "scriptId":"u223"},
-    "870e3caaea6549a082f6ab7d409e6377":{
+    "b0ea4298d9034d2fa6450575f0b32a92":{
       "scriptId":"u224"},
-    "77e92ef8c85f421fb55f597b2d4b5d43":{
+    "86775c2d246549a09809edf6d75ae300":{
       "scriptId":"u225"},
-    "6d41d60f221646c2937ef26c102ecc85":{
+    "8234748a969442bab0aa95389ee1c6e0":{
       "scriptId":"u226"},
-    "29c9458c2f6b4fd0bf104576c4e4ed5b":{
+    "94e46e67610a42aa92e4c374b1ec5ce5":{
       "scriptId":"u227"},
-    "40e5841a02264b6088a80f5aba8634e8":{
+    "3d90156e22734d4f8b9c85abc2dca292":{
       "scriptId":"u228"},
-    "8f8084632a7a4111b3a583b354c02c8e":{
+    "4f32d5b4712945f9a72ad42316d87462":{
       "scriptId":"u229"},
-    "f5c9e136bdf8478d871888a7c6878998":{
+    "56dae81268e34fbcbb4da2052bbe3259":{
       "scriptId":"u230"},
-    "5b321d6ea6314c58b4984302d54928c1":{
+    "671966fd226c49a1893372635c21a380":{
       "scriptId":"u231"},
-    "fbe4634da5e54ae8b1cdc3b75004b382":{
+    "9e2ce097d2a6437cbd6c5fbc1cfeaab5":{
       "scriptId":"u232"},
-    "7cd6d9f9a6504309bec797e808bbc8cb":{
+    "8853fa742eb549748d9ce9cdcb6e7a89":{
       "scriptId":"u233"},
-    "0f60898c948a4616a0cfbecbd1861492":{
+    "7274fd6a01c040c78f27045da498ca96":{
       "scriptId":"u234"},
-    "aa2ed26b5e2141a18f5c01b352118e6b":{
+    "d455c3460c0445c3baf29f620caa5aaa":{
       "scriptId":"u235"},
-    "54cb82cfc86a486ba58bb56f89baefa0":{
+    "1bd97121a23f4e36bedeb4aff7692dc9":{
       "scriptId":"u236"},
-    "cc69936048aa447eb67fb1962d8402a6":{
+    "661c298e5ef048ffa30326fdbe048f22":{
       "scriptId":"u237"},
-    "441c6bd95c304b309978a136ead3c7c2":{
+    "79c962f768bc4b7b98a2e2cdc4097755":{
       "scriptId":"u238"},
-    "78a0106819004618b82decf9663961c1":{
+    "f46233f1f3ad4ca8a0910fbaa7e00d77":{
       "scriptId":"u239"},
-    "71495ca94a504450baf0ecd0ae9bcbc1":{
+    "870e3caaea6549a082f6ab7d409e6377":{
       "scriptId":"u240"},
-    "bb3f62200d2045119e1954653fd6c1dc":{
+    "77e92ef8c85f421fb55f597b2d4b5d43":{
       "scriptId":"u241"},
-    "515eede18edd4e809e85ffcd9f52a089":{
+    "6d41d60f221646c2937ef26c102ecc85":{
       "scriptId":"u242"},
-    "02bd03987eeb4025bcdc39716e3b9abb":{
+    "29c9458c2f6b4fd0bf104576c4e4ed5b":{
       "scriptId":"u243"},
-    "92b0f3c7ad96486d8200ed7e4caed04c":{
+    "40e5841a02264b6088a80f5aba8634e8":{
       "scriptId":"u244"},
-    "b46a3811e1be44c78c21e2f4f860aa54":{
+    "8f8084632a7a4111b3a583b354c02c8e":{
       "scriptId":"u245"},
-    "ad1fa8aae07e4aba8b045c99020ab144":{
+    "f5c9e136bdf8478d871888a7c6878998":{
       "scriptId":"u246"},
-    "6c43dbf398914c0580dd30e9248fd6a9":{
+    "5b321d6ea6314c58b4984302d54928c1":{
       "scriptId":"u247"},
-    "2b8bb328fc3943f7ab48d8642d2d1582":{
+    "fbe4634da5e54ae8b1cdc3b75004b382":{
       "scriptId":"u248"},
-    "a8aa1723f3b242158d0f748101787a78":{
+    "7cd6d9f9a6504309bec797e808bbc8cb":{
       "scriptId":"u249"},
-    "8df78616ff844d6e919846ef20ea4fed":{
+    "0f60898c948a4616a0cfbecbd1861492":{
       "scriptId":"u250"},
-    "fef5ba7cd2404fda8f2ef97dbe55a5e6":{
+    "aa2ed26b5e2141a18f5c01b352118e6b":{
       "scriptId":"u251"},
-    "8db59e9005164d96808628e943c0efe0":{
+    "54cb82cfc86a486ba58bb56f89baefa0":{
       "scriptId":"u252"},
-    "51bd028d31ca435ea2304581a938faa1":{
+    "cc69936048aa447eb67fb1962d8402a6":{
       "scriptId":"u253"},
-    "853a720a522245b1ad6c2680727b461d":{
+    "441c6bd95c304b309978a136ead3c7c2":{
       "scriptId":"u254"},
-    "e8fb7dfc507c45d4975fe925524feb63":{
+    "78a0106819004618b82decf9663961c1":{
       "scriptId":"u255"},
-    "f224a30f24ea4243bccba7ec995eceb3":{
+    "71495ca94a504450baf0ecd0ae9bcbc1":{
       "scriptId":"u256"},
-    "92da21720a494f688d10be077154a327":{
+    "bb3f62200d2045119e1954653fd6c1dc":{
       "scriptId":"u257"},
-    "be907d098c2b4159929bf9338176fda5":{
+    "515eede18edd4e809e85ffcd9f52a089":{
       "scriptId":"u258"},
-    "7ed7fa6ff25d45fe9b51a3ada2fc01df":{
+    "02bd03987eeb4025bcdc39716e3b9abb":{
       "scriptId":"u259"},
-    "7e78be9c1530448c9abb3a3520b97b7b":{
+    "92b0f3c7ad96486d8200ed7e4caed04c":{
       "scriptId":"u260"},
-    "69147be70ae548eb8a436d7fa08903cc":{
+    "b46a3811e1be44c78c21e2f4f860aa54":{
       "scriptId":"u261"},
-    "6211a7f56c4d4ad78390a178c435a9b0":{
+    "ad1fa8aae07e4aba8b045c99020ab144":{
       "scriptId":"u262"},
-    "aaa6652102bb4a808462100f73e283da":{
+    "6c43dbf398914c0580dd30e9248fd6a9":{
       "scriptId":"u263"},
-    "5d39747913cc43f899369f8ff97859a7":{
+    "2b8bb328fc3943f7ab48d8642d2d1582":{
       "scriptId":"u264"},
-    "8de1eb5f62ca4dbba5477bd75c940dc0":{
+    "a8aa1723f3b242158d0f748101787a78":{
       "scriptId":"u265"},
-    "bb0c3c03e01e432aad25a189bce9c01b":{
+    "8df78616ff844d6e919846ef20ea4fed":{
       "scriptId":"u266"},
-    "f3df973f8e7f473d92261052dea56e44":{
+    "fef5ba7cd2404fda8f2ef97dbe55a5e6":{
       "scriptId":"u267"},
+    "8db59e9005164d96808628e943c0efe0":{
+      "scriptId":"u268"},
+    "51bd028d31ca435ea2304581a938faa1":{
+      "scriptId":"u269"},
+    "853a720a522245b1ad6c2680727b461d":{
+      "scriptId":"u270"},
+    "e8fb7dfc507c45d4975fe925524feb63":{
+      "scriptId":"u271"},
+    "f224a30f24ea4243bccba7ec995eceb3":{
+      "scriptId":"u272"},
+    "92da21720a494f688d10be077154a327":{
+      "scriptId":"u273"},
+    "be907d098c2b4159929bf9338176fda5":{
+      "scriptId":"u274"},
+    "7ed7fa6ff25d45fe9b51a3ada2fc01df":{
+      "scriptId":"u275"},
+    "7e78be9c1530448c9abb3a3520b97b7b":{
+      "scriptId":"u276"},
+    "69147be70ae548eb8a436d7fa08903cc":{
+      "scriptId":"u277"},
+    "6211a7f56c4d4ad78390a178c435a9b0":{
+      "scriptId":"u278"},
+    "aaa6652102bb4a808462100f73e283da":{
+      "scriptId":"u279"},
+    "5d39747913cc43f899369f8ff97859a7":{
+      "scriptId":"u280"},
+    "8de1eb5f62ca4dbba5477bd75c940dc0":{
+      "scriptId":"u281"},
+    "bb0c3c03e01e432aad25a189bce9c01b":{
+      "scriptId":"u282"},
+    "f3df973f8e7f473d92261052dea56e44":{
+      "scriptId":"u283"},
     "ecdf8be8dbad4169a2dd00142e483ea5":{
-      "scriptId":"u268"}}});
+      "scriptId":"u284"}}});

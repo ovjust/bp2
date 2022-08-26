@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额走势图.html",
-  "generationDate":new Date(1661479210238.75),
+  "generationDate":new Date(1661498373952.34),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1400,7 +1400,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"a70b67a1e43a44d79f3f48a3694d725c",
               "label":"",
@@ -1445,7 +1445,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"5a39775efe0843bb97a664bcb1755ba5",
               "label":"",
@@ -1482,7 +1482,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u15.png"}}]},
+                "normal~":"images/添加模块/u15.png"}}]},
 {
           "id":"2c43ad793d3f41fcae606c0d72dd1259",
           "label":"",

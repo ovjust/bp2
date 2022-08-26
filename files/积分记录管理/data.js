@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"积分记录管理.html",
-  "generationDate":new Date(1661479213910.94),
+  "generationDate":new Date(1661498377509.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2769,7 +2769,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"56fc86d32ccc464fa7d0284a5b6cde1e",
           "label":"",
@@ -2835,8 +2835,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":717,
-              "y":280},
+              "x":757,
+              "y":367},
             "size":{
               "width":253,
               "height":128}},
@@ -2851,8 +2851,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":717,
-                  "y":280},
+                  "x":757,
+                  "y":367},
                 "size":{
                   "width":253,
                   "height":128}},

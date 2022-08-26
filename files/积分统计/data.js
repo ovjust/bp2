@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"积分统计.html",
-  "generationDate":new Date(1661479214021.92),
+  "generationDate":new Date(1661498377683.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1096,7 +1096,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"7e78be9c1530448c9abb3a3520b97b7b",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户管理-变更.html",
-  "generationDate":new Date(1661479204548.18),
+  "generationDate":new Date(1661498368980.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -140,7 +140,7 @@
               "y":698},
             "size":{
               "width":200,
-              "height":16}},
+              "height":32}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -156,7 +156,7 @@
                   "y":698},
                 "size":{
                   "width":200,
-                  "height":16}},
+                  "height":32}},
               "adaptiveStyles":{
 }}],
           "images":{

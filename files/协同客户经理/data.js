@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"协同客户经理.html",
-  "generationDate":new Date(1661479214443.59),
+  "generationDate":new Date(1661498378106.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1287,7 +1287,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u73.png"}},
+            "normal~":"images/客户管理-业务数据展示/u614.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",
@@ -1460,8 +1460,8 @@
               "x":717,
               "y":394},
             "size":{
-              "width":264,
-              "height":160}},
+              "width":182,
+              "height":192}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1476,8 +1476,8 @@
                   "x":717,
                   "y":394},
                 "size":{
-                  "width":264,
-                  "height":160}},
+                  "width":182,
+                  "height":192}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1542,7 +1542,7 @@
               "x":427,
               "y":416},
             "size":{
-              "width":122,
+              "width":163,
               "height":22}},
           "adaptiveStyles":{
 }},

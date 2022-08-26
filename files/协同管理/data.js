@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"协同管理.html",
-  "generationDate":new Date(1661479214304.47),
+  "generationDate":new Date(1661498377965.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

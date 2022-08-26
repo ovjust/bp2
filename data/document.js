@@ -19,7 +19,15 @@
 {
         "pageName":"首页",
         "type":"Wireframe",
-        "url":"首页.html"},
+        "url":"首页.html",
+        "children":[{
+            "pageName":"添加模块",
+            "type":"Wireframe",
+            "url":"添加模块.html"},
+{
+            "pageName":"编辑模块顺序",
+            "type":"Wireframe",
+            "url":"编辑模块顺序.html"}]},
 {
         "pageName":"客户管理",
         "type":"Wireframe",
@@ -37,9 +45,13 @@
                 "type":"Wireframe",
                 "url":"工商舆情信息.html",
                 "children":[{
-                    "pageName":"司法舆情详情查看",
+                    "pageName":"司法详情查看",
                     "type":"Wireframe",
-                    "url":"司法舆情详情查看.html"}]}]},
+                    "url":"司法详情查看.html"},
+{
+                    "pageName":"舆情详情查看",
+                    "type":"Wireframe",
+                    "url":"舆情详情查看.html"}]}]},
 {
             "pageName":"客户管理-变更",
             "type":"Wireframe",
@@ -201,9 +213,9 @@
             "type":"Wireframe",
             "url":"舆情查询.html",
             "children":[{
-                "pageName":"司法舆情详情查看",
+                "pageName":"舆情详情查看",
                 "type":"Wireframe",
-                "url":"司法舆情详情查看_1.html"}]}]},
+                "url":"舆情详情查看_1.html"}]}]},
 {
         "pageName":"知识库",
         "type":"Wireframe",

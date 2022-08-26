@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额分布统计.html",
-  "generationDate":new Date(1661479210528.66),
+  "generationDate":new Date(1661498374157.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -557,7 +557,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"efda258e96e14f99bab0fa5c808e339e",
               "label":"",
@@ -602,7 +602,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u15.png"}}]},
+                "normal~":"images/添加模块/u15.png"}}]},
 {
           "id":"25d08ee1f20547749450e77003c5706a",
           "label":"",
@@ -656,7 +656,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u3.png"}},
+                "normal~":"images/添加模块/u13.png"}},
 {
               "id":"c7577c1445474d8e93ff12fd58506d88",
               "label":"",
@@ -701,7 +701,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u15.png"}}]},
+                "normal~":"images/添加模块/u15.png"}}]},
 {
           "id":"30f061234d474c7bb98d3bc2544d6d2c",
           "label":"",
