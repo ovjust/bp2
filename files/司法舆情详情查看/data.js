@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"司法舆情详情查看.html",
-  "generationDate":new Date(1661416128304.47),
+  "generationDate":new Date(1661479204519.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -127,6 +127,39 @@
               "adaptiveStyles":{
 }}],
           "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2dcf8823a40e43f4b2f38eb3f838fb96",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":580,
+              "y":54},
+            "size":{
+              "width":200,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"313cb5ef4d71415d8312301190d34b69",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":580,
+                  "y":54},
+                "size":{
+                  "width":200,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
@@ -142,4 +175,8 @@
     "7ee863f88fb54525bed6dae767e60588":{
       "scriptId":"u4"},
     "77643ff1e4104d3cad9ba3f3f95cbc75":{
-      "scriptId":"u5"}}});
+      "scriptId":"u5"},
+    "2dcf8823a40e43f4b2f38eb3f838fb96":{
+      "scriptId":"u6"},
+    "313cb5ef4d71415d8312301190d34b69":{
+      "scriptId":"u7"}}});

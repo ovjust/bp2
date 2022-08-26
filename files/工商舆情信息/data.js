@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"工商舆情信息.html",
-  "generationDate":new Date(1661416128283.15),
+  "generationDate":new Date(1661479204501.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -413,39 +413,6 @@
           "images":{
             "normal~":"images/工商舆情信息/u19.jpg"}},
 {
-          "id":"c2b2b78f0e4b49159a48055af2fafb65",
-          "label":"",
-          "type":"imageBox",
-          "styleType":"imageBox",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":222,
-              "y":382},
-            "size":{
-              "width":628,
-              "height":210}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"77d12a06802a4d859b264b625b8589b2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":222,
-                  "y":382},
-                "size":{
-                  "width":628,
-                  "height":210}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/工商舆情信息/u21.png"}},
-{
           "id":"4b2c0305513b41a1b7ead7278c2091ed",
           "label":"",
           "type":"imageBox",
@@ -510,7 +477,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/工商舆情信息/u25.png"}},
+            "normal~":"images/工商舆情信息/u23.png"}},
 {
           "id":"590bc93c2e134160b348cfa72af1a5af",
           "label":"",
@@ -543,7 +510,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/工商舆情信息/u27.png"}},
+            "normal~":"images/工商舆情信息/u25.png"}},
 {
           "id":"e3c9689f16ff49769301f8739fd96e4a",
           "label":"",
@@ -576,7 +543,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/工商舆情信息/u29.png"}},
+            "normal~":"images/工商舆情信息/u27.png"}},
 {
           "id":"07ab6054e3c147d399d37d3e25403c54",
           "label":"",
@@ -609,7 +576,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/工商舆情信息/u31.png"}},
+            "normal~":"images/工商舆情信息/u29.png"}},
 {
           "id":"3dd6c623f2384ff49fb4e23eef08f5f3",
           "label":"",
@@ -642,7 +609,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/工商舆情信息/u33.png"}},
+            "normal~":"images/工商舆情信息/u31.png"}},
 {
           "id":"ae4bed1469714b148a1488351fe65687",
           "label":"",
@@ -675,7 +642,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/工商舆情信息/u35.png"}},
+            "normal~":"images/工商舆情信息/u33.png"}},
 {
           "id":"1bd05dae192e4557b467040c26b39fda",
           "label":"",
@@ -708,7 +675,40 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/工商舆情信息/u37.png"}}]}},
+            "normal~":"images/工商舆情信息/u35.png"}},
+{
+          "id":"8f9ce98116084e6c83434b92f37ad334",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":807,
+              "y":164},
+            "size":{
+              "width":252,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8f365463686e4d6c87521dfbfbe104aa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":807,
+                  "y":164},
+                "size":{
+                  "width":252,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -754,39 +754,39 @@
       "scriptId":"u19"},
     "f2cc912503dc438c98a7dea3af962c31":{
       "scriptId":"u20"},
-    "c2b2b78f0e4b49159a48055af2fafb65":{
-      "scriptId":"u21"},
-    "77d12a06802a4d859b264b625b8589b2":{
-      "scriptId":"u22"},
     "4b2c0305513b41a1b7ead7278c2091ed":{
-      "scriptId":"u23"},
+      "scriptId":"u21"},
     "e9dcca346b2140bc8f6997dc0dccee73":{
-      "scriptId":"u24"},
+      "scriptId":"u22"},
     "22d04496db5f48899ad2c803519d22e6":{
-      "scriptId":"u25"},
+      "scriptId":"u23"},
     "a75556f8c2be4933a37270c07b64138d":{
-      "scriptId":"u26"},
+      "scriptId":"u24"},
     "590bc93c2e134160b348cfa72af1a5af":{
-      "scriptId":"u27"},
+      "scriptId":"u25"},
     "0e6935c5cde842989a2d8a7de460beff":{
-      "scriptId":"u28"},
+      "scriptId":"u26"},
     "e3c9689f16ff49769301f8739fd96e4a":{
-      "scriptId":"u29"},
+      "scriptId":"u27"},
     "3b06c926d22f4f08961f826bbe368126":{
-      "scriptId":"u30"},
+      "scriptId":"u28"},
     "07ab6054e3c147d399d37d3e25403c54":{
-      "scriptId":"u31"},
+      "scriptId":"u29"},
     "a2df6fc87ec847948e82a38f70d12231":{
-      "scriptId":"u32"},
+      "scriptId":"u30"},
     "3dd6c623f2384ff49fb4e23eef08f5f3":{
-      "scriptId":"u33"},
+      "scriptId":"u31"},
     "28492fd7fae0479c9a26c2ebccd09887":{
-      "scriptId":"u34"},
+      "scriptId":"u32"},
     "ae4bed1469714b148a1488351fe65687":{
-      "scriptId":"u35"},
+      "scriptId":"u33"},
     "0ff97d60cf534009b45523f3f5723a47":{
-      "scriptId":"u36"},
+      "scriptId":"u34"},
     "1bd05dae192e4557b467040c26b39fda":{
-      "scriptId":"u37"},
+      "scriptId":"u35"},
     "17386397f70f4dc7a6e7feef45009c39":{
+      "scriptId":"u36"},
+    "8f9ce98116084e6c83434b92f37ad334":{
+      "scriptId":"u37"},
+    "8f365463686e4d6c87521dfbfbe104aa":{
       "scriptId":"u38"}}});

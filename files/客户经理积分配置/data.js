@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户经理积分配置.html",
-  "generationDate":new Date(1661416136245.56),
+  "generationDate":new Date(1661479213588.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1624,7 +1624,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u19.png"}},
+                "normal~":"images/看板企业管理/u28.png"}},
 {
               "id":"76492bc1789747b0b8e2b1dd88d89f0d",
               "label":"",
@@ -1657,7 +1657,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u35.png"}},
+                "normal~":"images/看板企业管理/u100.png"}},
 {
               "id":"b7888841c2494da5b7843a634592f595",
               "label":"",
@@ -1690,7 +1690,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u19.png"}},
+                "normal~":"images/看板企业管理/u28.png"}},
 {
               "id":"c02e90229b4342c7a0c76b47cb700446",
               "label":"",
@@ -1723,7 +1723,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u35.png"}},
+                "normal~":"images/看板企业管理/u100.png"}},
 {
               "id":"b82f9e88f22648b5b334f0aa19c84448",
               "label":"",
@@ -1756,7 +1756,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u19.png"}},
+                "normal~":"images/看板企业管理/u28.png"}},
 {
               "id":"ef7bea1d6158475fa7311a62bffe9fcf",
               "label":"",
@@ -1789,7 +1789,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u19.png"}},
+                "normal~":"images/看板企业管理/u28.png"}},
 {
               "id":"563ee7e0022546c8b142543917984d67",
               "label":"",
@@ -1822,7 +1822,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u19.png"}},
+                "normal~":"images/看板企业管理/u28.png"}},
 {
               "id":"cfaf2b0bb9914eb687aa06f9fda37e12",
               "label":"",
@@ -2218,7 +2218,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u35.png"}},
+                "normal~":"images/看板企业管理/u100.png"}},
 {
               "id":"37c221e31b3f47bd9295f5beb1d6cbcc",
               "label":"",
@@ -2482,7 +2482,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u19.png"}},
+                "normal~":"images/看板企业管理/u28.png"}},
 {
               "id":"d47f7792e11147bd81dacfa8413f2a85",
               "label":"",
@@ -2746,7 +2746,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u19.png"}},
+                "normal~":"images/看板企业管理/u28.png"}},
 {
               "id":"3006583f34674bb5b9ca25c407f0c08f",
               "label":"",
@@ -3010,7 +3010,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u19.png"}},
+                "normal~":"images/看板企业管理/u28.png"}},
 {
               "id":"cb7f43186fde4c5daf833072112b1bf4",
               "label":"",

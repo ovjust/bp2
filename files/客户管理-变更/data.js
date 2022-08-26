@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户管理-变更.html",
-  "generationDate":new Date(1661416128324.45),
+  "generationDate":new Date(1661479204548.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -160,6 +160,39 @@
               "adaptiveStyles":{
 }}],
           "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b6ff475602d848a8811283a0a0aa756b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":740,
+              "y":248},
+            "size":{
+              "width":200,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"58dbe663797f4a8aa4c5eac49dadcc41",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":740,
+                  "y":248},
+                "size":{
+                  "width":200,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
             "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
@@ -179,4 +212,8 @@
     "4587f7818e0e4c6395769a0faab92647":{
       "scriptId":"u6"},
     "49b6253d37434060998c32ad10259597":{
-      "scriptId":"u7"}}});
+      "scriptId":"u7"},
+    "b6ff475602d848a8811283a0a0aa756b":{
+      "scriptId":"u8"},
+    "58dbe663797f4a8aa4c5eac49dadcc41":{
+      "scriptId":"u9"}}});

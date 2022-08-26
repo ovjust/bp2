@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"专业公司客户名称管理.html",
-  "generationDate":new Date(1661416128641.11),
+  "generationDate":new Date(1661479205086.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2652,7 +2652,7 @@
               "y":394},
             "size":{
               "width":445,
-              "height":144}},
+              "height":176}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -2668,7 +2668,7 @@
                   "y":394},
                 "size":{
                   "width":445,
-                  "height":144}},
+                  "height":176}},
               "adaptiveStyles":{
 }}],
           "images":{

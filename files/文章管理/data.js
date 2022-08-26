@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章管理.html",
-  "generationDate":new Date(1661416133492.6),
+  "generationDate":new Date(1661479212197.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -230,7 +230,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u9.png"}},
+                "normal~":"images/看板企业管理/u16.png"}},
 {
               "id":"a4024332b9bd47248c4f9e38de61f73c",
               "label":"",
@@ -263,7 +263,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u25.png"}},
+                "normal~":"images/看板企业管理/u88.png"}},
 {
               "id":"6eeac3850be74af5bd42ace98709d32b",
               "label":"",
@@ -296,7 +296,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u25.png"}},
+                "normal~":"images/看板企业管理/u88.png"}},
 {
               "id":"978c3a8a54d44fbdbcca480cefb4c4e2",
               "label":"",
@@ -329,7 +329,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u57.png"}},
+                "normal~":"images/看板企业管理/u160.png"}},
 {
               "id":"58bae2b351264fbe80b960f2f5d3a5d9",
               "label":"",
@@ -626,7 +626,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u19.png"}},
+                "normal~":"images/看板企业管理/u28.png"}},
 {
               "id":"f91d67b0154a4d638e78b652a41dd655",
               "label":"",
@@ -659,7 +659,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u35.png"}},
+                "normal~":"images/看板企业管理/u100.png"}},
 {
               "id":"3ee67ee02bc74656b64d51654ca8884b",
               "label":"",
@@ -692,7 +692,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u35.png"}},
+                "normal~":"images/看板企业管理/u100.png"}},
 {
               "id":"3a281df8cf2245f0b772441fe1298320",
               "label":"",
@@ -725,7 +725,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u67.png"}},
+                "normal~":"images/看板企业管理/u172.png"}},
 {
               "id":"7e839768e5d041709889ed5c2577cc59",
               "label":"",
@@ -758,7 +758,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u21.png"}},
+                "normal~":"images/看板企业管理/u30.png"}},
 {
               "id":"37614c2fcc704ec48634351ab3db5729",
               "label":"",
@@ -791,7 +791,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u37.png"}},
+                "normal~":"images/看板企业管理/u102.png"}},
 {
               "id":"099effa2cc5348ce85d5f465608f9d11",
               "label":"",
@@ -824,7 +824,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u37.png"}},
+                "normal~":"images/看板企业管理/u102.png"}},
 {
               "id":"35ed3da7ca7e43cd8bd741909cca9616",
               "label":"",
@@ -857,7 +857,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u69.png"}},
+                "normal~":"images/看板企业管理/u174.png"}},
 {
               "id":"eaf62c42c8c041509fb01c649232aaf2",
               "label":"",
@@ -1162,7 +1162,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u17.png"}},
+                "normal~":"images/看板企业风险上报/u46.png"}},
 {
               "id":"3e471831e8534af288894171f5661915",
               "label":"",
@@ -1195,7 +1195,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/看板企业风险上报/u118.png"}},
 {
               "id":"cc513b8a2cf546cd867f4c3549bac7fe",
               "label":"",
@@ -1228,7 +1228,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/看板企业风险上报/u118.png"}},
 {
               "id":"2ea26301a86b4096b86164f6fb3eb2d0",
               "label":"",
@@ -1261,7 +1261,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u65.png"}}]},
+                "normal~":"images/看板企业风险上报/u226.png"}}]},
 {
           "id":"a8aa1723f3b242158d0f748101787a78",
           "label":"",

@@ -129,25 +129,25 @@
             "type":"Wireframe",
             "url":"内部业务数据管理-仅查看.html"},
 {
-            "pageName":"集团融资预算管理",
+            "pageName":"集团融资预算管理-仅查看",
             "type":"Wireframe",
-            "url":"集团融资预算管理.html"},
+            "url":"集团融资预算管理-仅查看.html"},
 {
-            "pageName":"外部融资余额管理",
+            "pageName":"外部融资余额管理-仅查看",
             "type":"Wireframe",
-            "url":"外部融资余额管理.html"},
+            "url":"外部融资余额管理-仅查看.html"},
 {
-            "pageName":"历史融资管理",
+            "pageName":"历史融资管理-仅查看",
             "type":"Wireframe",
-            "url":"历史融资管理.html"},
+            "url":"历史融资管理-仅查看.html"},
 {
-            "pageName":"融资计划管理",
+            "pageName":"融资计划管理-仅查看",
             "type":"Wireframe",
-            "url":"融资计划管理.html"},
+            "url":"融资计划管理-仅查看.html"},
 {
-            "pageName":"风险评估管理",
+            "pageName":"风险评估管理-仅查看",
             "type":"Wireframe",
-            "url":"风险评估管理.html"},
+            "url":"风险评估管理-仅查看.html"},
 {
             "pageName":"流程审批功能",
             "type":"Wireframe",
@@ -177,34 +177,6 @@
             "type":"Wireframe",
             "url":"贷款余额分布统计.html"}]},
 {
-        "pageName":"知识库",
-        "type":"Wireframe",
-        "url":"知识库.html",
-        "children":[{
-            "pageName":"文章管理",
-            "type":"Wireframe",
-            "url":"文章管理.html"},
-{
-            "pageName":"订阅管理",
-            "type":"Wireframe",
-            "url":"订阅管理.html"}]},
-{
-        "pageName":"工作汇报",
-        "type":"Wireframe",
-        "url":"工作汇报.html",
-        "children":[{
-            "pageName":"工作汇报管理",
-            "type":"Wireframe",
-            "url":"工作汇报管理.html",
-            "children":[{
-                "pageName":"部门经理",
-                "type":"Wireframe",
-                "url":"部门经理.html"}]},
-{
-            "pageName":"工作汇报期间设置",
-            "type":"Wireframe",
-            "url":"工作汇报期间设置.html"}]},
-{
         "pageName":"风险看板",
         "type":"Wireframe",
         "url":"风险看板.html",
@@ -233,6 +205,38 @@
                 "type":"Wireframe",
                 "url":"司法舆情详情查看_1.html"}]}]},
 {
+        "pageName":"知识库",
+        "type":"Wireframe",
+        "url":"知识库.html",
+        "children":[{
+            "pageName":"文章分类管理",
+            "type":"Wireframe",
+            "url":"文章分类管理.html"},
+{
+            "pageName":"文章管理",
+            "type":"Wireframe",
+            "url":"文章管理.html"},
+{
+            "pageName":"订阅管理",
+            "type":"Wireframe",
+            "url":"订阅管理.html"}]},
+{
+        "pageName":"工作汇报",
+        "type":"Wireframe",
+        "url":"工作汇报.html",
+        "children":[{
+            "pageName":"工作汇报管理",
+            "type":"Wireframe",
+            "url":"工作汇报管理.html",
+            "children":[{
+                "pageName":"部门经理",
+                "type":"Wireframe",
+                "url":"部门经理.html"}]},
+{
+            "pageName":"工作汇报期间设置",
+            "type":"Wireframe",
+            "url":"工作汇报期间设置.html"}]},
+{
         "pageName":"积分管理",
         "type":"Wireframe",
         "url":"积分管理.html",
@@ -241,9 +245,9 @@
             "type":"Wireframe",
             "url":"客户经理积分配置.html"},
 {
-            "pageName":"积分记录",
+            "pageName":"积分记录管理",
             "type":"Wireframe",
-            "url":"积分记录.html"},
+            "url":"积分记录管理.html"},
 {
             "pageName":"积分统计",
             "type":"Wireframe",

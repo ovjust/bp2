@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额走势图.html",
-  "generationDate":new Date(1661416133074.59),
+  "generationDate":new Date(1661479210238.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1292,8 +1292,8 @@
               "x":870,
               "y":160},
             "size":{
-              "width":220,
-              "height":16}},
+              "width":290,
+              "height":32}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1308,8 +1308,8 @@
                   "x":870,
                   "y":160},
                 "size":{
-                  "width":220,
-                  "height":16}},
+                  "width":290,
+                  "height":32}},
               "adaptiveStyles":{
 }}],
           "images":{

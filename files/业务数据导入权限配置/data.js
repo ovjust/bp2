@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"业务数据导入权限配置.html",
-  "generationDate":new Date(1661416128931.84),
+  "generationDate":new Date(1661479205512.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -3947,7 +3947,7 @@
               "x":395,
               "y":648},
             "size":{
-              "width":106,
+              "width":133,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -3967,7 +3967,7 @@
                   "x":395,
                   "y":648},
                 "size":{
-                  "width":106,
+                  "width":133,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -3981,8 +3981,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":507,
-              "y":649},
+              "x":520,
+              "y":645},
             "size":{
               "width":120,
               "height":22}},
@@ -3999,7 +3999,7 @@
               "x":750,
               "y":640},
             "size":{
-              "width":206,
+              "width":233,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -4015,7 +4015,7 @@
                   "x":750,
                   "y":640},
                 "size":{
-                  "width":206,
+                  "width":233,
                   "height":16}},
               "adaptiveStyles":{
 }}],

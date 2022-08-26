@@ -98,3 +98,24 @@
   width:200px;
   word-wrap:break-word;
 }
+#u8 {
+  position:absolute;
+  left:740px;
+  top:248px;
+  width:200px;
+  height:16px;
+}
+#u8_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:16px;
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  word-wrap:break-word;
+}

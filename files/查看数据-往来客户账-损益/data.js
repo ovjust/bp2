@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-往来客户账-损益.html",
-  "generationDate":new Date(1661416129849.67),
+  "generationDate":new Date(1661479206486.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

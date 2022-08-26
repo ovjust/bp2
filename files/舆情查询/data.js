@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"舆情查询.html",
-  "generationDate":new Date(1661416135814.41),
+  "generationDate":new Date(1661479212017.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -186,7 +186,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u17.png"}},
+                "normal~":"images/看板企业风险上报/u46.png"}},
 {
               "id":"48fd2b48789943afb36e186954c7910b",
               "label":"",
@@ -219,7 +219,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u17.png"}},
+                "normal~":"images/看板企业风险上报/u46.png"}},
 {
               "id":"e628bf22227645c1b91c7486e976761b",
               "label":"",
@@ -252,7 +252,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/看板企业风险上报/u118.png"}},
 {
               "id":"7ce4b4d6b92c474d966cd9c082692b0e",
               "label":"",
@@ -285,7 +285,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/看板企业风险上报/u118.png"}},
 {
               "id":"66091384b279416e88d56499c111e7da",
               "label":"",
@@ -318,7 +318,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/看板企业风险上报/u118.png"}},
 {
               "id":"5292775bdcb74a9bbdd1276d1d295a71",
               "label":"",
@@ -351,7 +351,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u65.png"}},
+                "normal~":"images/看板企业风险上报/u226.png"}},
 {
               "id":"8ebc026f6e694973984885c03b94a02c",
               "label":"",
@@ -994,7 +994,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/舆情查询/u33.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u25.png"}},
 {
               "id":"a1608fcabc7948f6bc46337a6bd6ff56",
               "label":"",
@@ -1035,7 +1035,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/舆情查询/u33.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u25.png"}},
 {
               "id":"535a5d11d1904e59a41ff929952df200",
               "label":"",
@@ -1076,7 +1076,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/舆情查询/u69.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u55.png"}},
 {
               "id":"39d04be586314b9bbba1c590ad867463",
               "label":"",
@@ -1117,7 +1117,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/舆情查询/u69.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u55.png"}},
 {
               "id":"b1fa694f388c41ef9bccf9022401bb31",
               "label":"",
@@ -1158,7 +1158,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/舆情查询/u69.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u55.png"}},
 {
               "id":"25b977027677433ea31e80f44ee9caa2",
               "label":"",
@@ -1199,7 +1199,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/舆情查询/u123.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u205.png"}},
 {
               "id":"e2215e14e0a0461fa36b456efa1f5919",
               "label":"",
@@ -2423,7 +2423,7 @@
               "x":586,
               "y":392},
             "size":{
-              "width":228,
+              "width":254,
               "height":64}},
           "adaptiveStyles":{
 },
@@ -2439,7 +2439,7 @@
                   "x":586,
                   "y":392},
                 "size":{
-                  "width":228,
+                  "width":254,
                   "height":64}},
               "adaptiveStyles":{
 }}],

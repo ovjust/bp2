@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业风险上报任务.html",
-  "generationDate":new Date(1661416135564.37),
+  "generationDate":new Date(1661479211815.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -186,7 +186,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u17.png"}},
+                "normal~":"images/看板企业风险上报/u46.png"}},
 {
               "id":"48fd2b48789943afb36e186954c7910b",
               "label":"",
@@ -252,7 +252,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/看板企业风险上报/u118.png"}},
 {
               "id":"7ce4b4d6b92c474d966cd9c082692b0e",
               "label":"",
@@ -285,7 +285,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/看板企业风险上报/u118.png"}},
 {
               "id":"66091384b279416e88d56499c111e7da",
               "label":"",
@@ -318,7 +318,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u33.png"}},
+                "normal~":"images/看板企业风险上报/u118.png"}},
 {
               "id":"5292775bdcb74a9bbdd1276d1d295a71",
               "label":"",
@@ -351,7 +351,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/文章管理/u65.png"}},
+                "normal~":"images/看板企业风险上报/u226.png"}},
 {
               "id":"8ebc026f6e694973984885c03b94a02c",
               "label":"",

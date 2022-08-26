@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"部门经理.html",
-  "generationDate":new Date(1661416134484.76),
+  "generationDate":new Date(1661479213148.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2416,7 +2416,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/历史融资管理/u41.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u73.png"}},
 {
               "id":"147201de27b3433aa62cf2771a0aee6c",
               "label":"",
@@ -2449,7 +2449,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/历史融资管理/u41.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u73.png"}},
 {
               "id":"bb8f8d1c039044689876b82b15cba9d3",
               "label":"",
@@ -2632,7 +2632,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/历史融资管理/u41.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u73.png"}},
 {
               "id":"9d568450e6bc44498c97d4cf37efd111",
               "label":"",
@@ -2708,7 +2708,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/历史融资管理/u41.png"}},
+                "normal~":"images/内部业务数据管理-仅查看/u73.png"}},
 {
               "id":"7a1f815bca784595910fc88f9e738031",
               "label":"",
