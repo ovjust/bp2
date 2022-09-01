@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"编辑模块顺序.html",
-  "generationDate":new Date(1661498367520.87),
+  "generationDate":new Date(1662070230101.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -185,7 +185,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u3.png"}},
+                "normal~":"images/添加模块/u5.png"}},
 {
               "id":"730076fc19ea48a881f27fe9c9d2858c",
               "label":"",
@@ -232,7 +232,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u3.png"}},
+                "normal~":"images/添加模块/u5.png"}},
 {
               "id":"5c346d7fc57043208c92c28338199771",
               "label":"",
@@ -279,7 +279,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u3.png"}},
+                "normal~":"images/添加模块/u5.png"}},
 {
               "id":"ddd492b8abd94caabf59d90a4f7bd8e7",
               "label":"",
@@ -316,7 +316,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u13.png"}},
+                "normal~":"images/编辑模块顺序/u13.png"}},
 {
               "id":"01b69e4a46584a0aa9118910e387d5ac",
               "label":"",
@@ -363,7 +363,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u15.png"}}]}]}},
+                "normal~":"images/编辑模块顺序/u15.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{

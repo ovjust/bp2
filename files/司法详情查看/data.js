@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"司法详情查看.html",
-  "generationDate":new Date(1661498368937.73),
+  "generationDate":new Date(1662070232433),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"9536786a572d4d8b83236946836c13c1",
+    "packageId":"cb7196b9371c48bf8ed111bdf8b6b1bf",
     "type":"Axure:Page",
     "name":"司法详情查看",
     "notes":{
@@ -30,22 +30,22 @@
 },
     "diagram":{
       "objects":[{
-          "id":"325af05ffd6049fc9ec9050c9478d990",
+          "id":"3f1d18edef124c718b4e6f865b17b48e",
           "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
+          "type":"imageBox",
+          "styleType":"imageBox",
           "visible":true,
           "style":{
             "location":{
-              "x":100,
-              "y":175.999984741211},
+              "x":50,
+              "y":28},
             "size":{
-              "width":520,
-              "height":344}},
+              "width":970,
+              "height":452}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"5406cf2c76c547c8889eb84a8787e8a3",
+              "id":"412d15b2fb624385ac825e42055009a4",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -53,130 +53,19 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":100,
-                  "y":175.999984741211},
+                  "x":50,
+                  "y":28},
                 "size":{
-                  "width":520,
-                  "height":344}},
+                  "width":970,
+                  "height":452}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"fcc9dba091834075bd8a6c876dbe01d4",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"h1",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":136,
-              "y":62},
-            "size":{
-              "width":154,
-              "height":38}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"87b3ba08e6654a3db2eab3a10550e6b2",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":136,
-                  "y":62},
-                "size":{
-                  "width":154,
-                  "height":38}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"7ee863f88fb54525bed6dae767e60588",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":417,
-              "y":120},
-            "size":{
-              "width":62,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"77643ff1e4104d3cad9ba3f3f95cbc75",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":417,
-                  "y":120},
-                "size":{
-                  "width":62,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
-          "id":"2dcf8823a40e43f4b2f38eb3f838fb96",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":580,
-              "y":54},
-            "size":{
-              "width":200,
-              "height":32}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"313cb5ef4d71415d8312301190d34b69",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":580,
-                  "y":54},
-                "size":{
-                  "width":200,
-                  "height":32}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"images/司法详情查看/u0.png"}}]}},
   "masters":{
 },
   "objectPaths":{
-    "325af05ffd6049fc9ec9050c9478d990":{
+    "3f1d18edef124c718b4e6f865b17b48e":{
       "scriptId":"u0"},
-    "5406cf2c76c547c8889eb84a8787e8a3":{
-      "scriptId":"u1"},
-    "fcc9dba091834075bd8a6c876dbe01d4":{
-      "scriptId":"u2"},
-    "87b3ba08e6654a3db2eab3a10550e6b2":{
-      "scriptId":"u3"},
-    "7ee863f88fb54525bed6dae767e60588":{
-      "scriptId":"u4"},
-    "77643ff1e4104d3cad9ba3f3f95cbc75":{
-      "scriptId":"u5"},
-    "2dcf8823a40e43f4b2f38eb3f838fb96":{
-      "scriptId":"u6"},
-    "313cb5ef4d71415d8312301190d34b69":{
-      "scriptId":"u7"}}});
+    "412d15b2fb624385ac825e42055009a4":{
+      "scriptId":"u1"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"舆情查询.html",
-  "generationDate":new Date(1661498375592.23),
+  "generationDate":new Date(1661502327382.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2411,7 +2411,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
+            "normal~":"images/客户管理-业务数据展示/u606.png"}},
 {
           "id":"7e78be9c1530448c9abb3a3520b97b7b",
           "label":"",
@@ -2423,8 +2423,8 @@
               "x":586,
               "y":392},
             "size":{
-              "width":254,
-              "height":64}},
+              "width":272,
+              "height":80}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -2439,8 +2439,8 @@
                   "x":586,
                   "y":392},
                 "size":{
-                  "width":254,
-                  "height":64}},
+                  "width":272,
+                  "height":80}},
               "adaptiveStyles":{
 }}],
           "images":{

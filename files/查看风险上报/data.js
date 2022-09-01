@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看风险上报.html",
-  "generationDate":new Date(1661498374570.47),
+  "generationDate":new Date(1662070245826.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -70,8 +70,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":317,
-              "y":184},
+              "x":436.999969482422,
+              "y":202},
             "size":{
               "width":353,
               "height":48}},
@@ -86,8 +86,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":317,
-                  "y":184},
+                  "x":436.999969482422,
+                  "y":202},
                 "size":{
                   "width":353,
                   "height":48}},
@@ -127,7 +127,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
+            "normal~":"images/客户管理-业务数据展示/u575.png"}},
 {
           "id":"69629e3599054cbcb30918a431c03592",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"oa对接.html",
-  "generationDate":new Date(1661498377883.02),
+  "generationDate":new Date(1662070255497.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -296,7 +296,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u3.png"}},
+                "normal~":"images/添加模块/u5.png"}},
 {
               "id":"ae5f6c4159b9403d855a350b27d47f1f",
               "label":"",
@@ -333,7 +333,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u3.png"}},
+                "normal~":"images/添加模块/u5.png"}},
 {
               "id":"64da8bc53b384d3aaf3b6db76c6401d4",
               "label":"",
@@ -481,7 +481,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u3.png"}},
+                "normal~":"images/添加模块/u5.png"}},
 {
               "id":"c5f29837ab5d4f4a9f34cc5e0228ed26",
               "label":"",
@@ -592,7 +592,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u3.png"}},
+                "normal~":"images/添加模块/u5.png"}},
 {
               "id":"f1fa4a4d8d674d719e8204ee13bf3acb",
               "label":"",
@@ -629,7 +629,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u13.png"}},
+                "normal~":"images/编辑模块顺序/u13.png"}},
 {
               "id":"e1886bee485e4aa99ae5a87c450b5e8b",
               "label":"",
@@ -666,7 +666,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u13.png"}},
+                "normal~":"images/编辑模块顺序/u13.png"}},
 {
               "id":"ab6b41e070f54bb2bceb02848985d8f2",
               "label":"",
@@ -703,7 +703,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u15.png"}}]}]}},
+                "normal~":"images/编辑模块顺序/u15.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{

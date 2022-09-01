@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额走势图.html",
-  "generationDate":new Date(1661498373952.34),
+  "generationDate":new Date(1662070244326.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -38,10 +38,10 @@
           "style":{
             "location":{
               "x":59,
-              "y":154},
+              "y":140},
             "size":{
               "width":831,
-              "height":425}},
+              "height":439}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -54,10 +54,10 @@
               "style":{
                 "location":{
                   "x":59,
-                  "y":154},
+                  "y":140},
                 "size":{
                   "width":831,
-                  "height":425}},
+                  "height":439}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -226,7 +226,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":970,
+              "x":850,
               "y":90},
             "size":{
               "width":60,
@@ -241,11 +241,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":75,
-              "y":170},
+              "x":70,
+              "y":160},
             "size":{
-              "width":700,
-              "height":80}},
+              "width":800,
+              "height":100}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -274,7 +274,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"84c6d73fad7f4550b52fba08c57d4250",
               "label":"",
@@ -307,7 +307,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"04ff3eb7a41f4f32b25246c8330b4038",
               "label":"",
@@ -340,7 +340,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"220a56d26a474a308dd0afc8bcfb8d15",
               "label":"",
@@ -373,7 +373,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u60.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"e211a00a36bf4a78982097f1476217bb",
               "label":"",
@@ -382,7 +382,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":100,
+                  "x":200,
                   "y":0},
                 "size":{
                   "width":100,
@@ -398,7 +398,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":100,
+                      "x":200,
                       "y":0},
                     "size":{
                       "width":100,
@@ -406,7 +406,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"48ebfe7018184e28bca40d8488d2fc4b",
               "label":"",
@@ -415,7 +415,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":100,
+                  "x":200,
                   "y":20},
                 "size":{
                   "width":100,
@@ -431,7 +431,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":100,
+                      "x":200,
                       "y":20},
                     "size":{
                       "width":100,
@@ -439,7 +439,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"6c5008f8063e4384ab053b19278974ff",
               "label":"",
@@ -448,7 +448,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":100,
+                  "x":200,
                   "y":40},
                 "size":{
                   "width":100,
@@ -464,7 +464,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":100,
+                      "x":200,
                       "y":40},
                     "size":{
                       "width":100,
@@ -472,7 +472,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"5044b972098d4a8eb3823df13cc6e01b",
               "label":"",
@@ -481,7 +481,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":100,
+                  "x":200,
                   "y":60},
                 "size":{
                   "width":100,
@@ -497,7 +497,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":100,
+                      "x":200,
                       "y":60},
                     "size":{
                       "width":100,
@@ -505,7 +505,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u60.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"8150970b034b41a184d1830c4e94cde4",
               "label":"",
@@ -514,7 +514,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":200,
+                  "x":300,
                   "y":0},
                 "size":{
                   "width":100,
@@ -530,7 +530,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":200,
+                      "x":300,
                       "y":0},
                     "size":{
                       "width":100,
@@ -538,7 +538,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"af94a258c664495b91e6335bb151fc96",
               "label":"",
@@ -547,7 +547,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":200,
+                  "x":300,
                   "y":20},
                 "size":{
                   "width":100,
@@ -563,7 +563,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":200,
+                      "x":300,
                       "y":20},
                     "size":{
                       "width":100,
@@ -571,7 +571,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"d1324c8f189e4fa5a4e20e39519c2d9e",
               "label":"",
@@ -580,7 +580,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":200,
+                  "x":300,
                   "y":40},
                 "size":{
                   "width":100,
@@ -596,7 +596,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":200,
+                      "x":300,
                       "y":40},
                     "size":{
                       "width":100,
@@ -604,7 +604,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"5ceb5860b5c74b6b88511d5172028c9e",
               "label":"",
@@ -613,7 +613,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":200,
+                  "x":300,
                   "y":60},
                 "size":{
                   "width":100,
@@ -629,7 +629,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":200,
+                      "x":300,
                       "y":60},
                     "size":{
                       "width":100,
@@ -637,7 +637,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u60.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"38a1bfcfe929403abcff518101b7965d",
               "label":"",
@@ -646,7 +646,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":300,
+                  "x":400,
                   "y":0},
                 "size":{
                   "width":100,
@@ -662,7 +662,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":300,
+                      "x":400,
                       "y":0},
                     "size":{
                       "width":100,
@@ -670,7 +670,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"1e9983dabe7a4a61ac664de3549a231e",
               "label":"",
@@ -679,7 +679,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":300,
+                  "x":400,
                   "y":20},
                 "size":{
                   "width":100,
@@ -695,7 +695,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":300,
+                      "x":400,
                       "y":20},
                     "size":{
                       "width":100,
@@ -703,7 +703,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"1a6028808aa147fd94ee8eff5dd844b5",
               "label":"",
@@ -712,7 +712,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":300,
+                  "x":400,
                   "y":40},
                 "size":{
                   "width":100,
@@ -728,7 +728,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":300,
+                      "x":400,
                       "y":40},
                     "size":{
                       "width":100,
@@ -736,7 +736,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"1a32f802a30c4e0e8c1a24485b7ebc81",
               "label":"",
@@ -745,7 +745,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":300,
+                  "x":400,
                   "y":60},
                 "size":{
                   "width":100,
@@ -761,7 +761,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":300,
+                      "x":400,
                       "y":60},
                     "size":{
                       "width":100,
@@ -769,7 +769,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u60.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"a5958beac8e84c93899513d971979d73",
               "label":"",
@@ -778,7 +778,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":400,
+                  "x":500,
                   "y":0},
                 "size":{
                   "width":100,
@@ -794,7 +794,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":400,
+                      "x":500,
                       "y":0},
                     "size":{
                       "width":100,
@@ -802,7 +802,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"aac0dfdc19d34f4d9758c84f9def3037",
               "label":"",
@@ -811,7 +811,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":400,
+                  "x":500,
                   "y":20},
                 "size":{
                   "width":100,
@@ -827,7 +827,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":400,
+                      "x":500,
                       "y":20},
                     "size":{
                       "width":100,
@@ -835,7 +835,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"cf42c808ac794b26ac27da58f8223c14",
               "label":"",
@@ -844,7 +844,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":400,
+                  "x":500,
                   "y":40},
                 "size":{
                   "width":100,
@@ -860,7 +860,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":400,
+                      "x":500,
                       "y":40},
                     "size":{
                       "width":100,
@@ -868,7 +868,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"36f7aee779c6474a81e188b1595208f8",
               "label":"",
@@ -877,7 +877,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":400,
+                  "x":500,
                   "y":60},
                 "size":{
                   "width":100,
@@ -893,7 +893,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":400,
+                      "x":500,
                       "y":60},
                     "size":{
                       "width":100,
@@ -901,7 +901,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u60.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"4ee624d9da97429ea31515b06aa205ff",
               "label":"",
@@ -910,7 +910,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":500,
+                  "x":600,
                   "y":0},
                 "size":{
                   "width":100,
@@ -926,7 +926,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":500,
+                      "x":600,
                       "y":0},
                     "size":{
                       "width":100,
@@ -934,7 +934,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"8e44dd39b0af43fa8a1ab0843e4e85d0",
               "label":"",
@@ -943,7 +943,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":500,
+                  "x":600,
                   "y":20},
                 "size":{
                   "width":100,
@@ -959,7 +959,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":500,
+                      "x":600,
                       "y":20},
                     "size":{
                       "width":100,
@@ -967,7 +967,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"47df554429784b10b0206f640860d0bb",
               "label":"",
@@ -976,7 +976,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":500,
+                  "x":600,
                   "y":40},
                 "size":{
                   "width":100,
@@ -992,7 +992,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":500,
+                      "x":600,
                       "y":40},
                     "size":{
                       "width":100,
@@ -1000,7 +1000,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u30.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"ed3c003c66564ba8b95be70b96f975d3",
               "label":"",
@@ -1009,7 +1009,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":500,
+                  "x":600,
                   "y":60},
                 "size":{
                   "width":100,
@@ -1025,7 +1025,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":500,
+                      "x":600,
                       "y":60},
                     "size":{
                       "width":100,
@@ -1033,7 +1033,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u60.png"}},
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
 {
               "id":"7302ef7548924df48840ac08ac13aaf0",
               "label":"",
@@ -1042,7 +1042,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":600,
+                  "x":700,
                   "y":0},
                 "size":{
                   "width":100,
@@ -1058,7 +1058,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":600,
+                      "x":700,
                       "y":0},
                     "size":{
                       "width":100,
@@ -1066,7 +1066,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u38.png"}},
+                "normal~":"images/客户管理-业务数据展示/u40.png"}},
 {
               "id":"5041dadb60514e07b116cada80cb7113",
               "label":"",
@@ -1075,7 +1075,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":600,
+                  "x":700,
                   "y":20},
                 "size":{
                   "width":100,
@@ -1091,7 +1091,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":600,
+                      "x":700,
                       "y":20},
                     "size":{
                       "width":100,
@@ -1099,7 +1099,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u38.png"}},
+                "normal~":"images/客户管理-业务数据展示/u40.png"}},
 {
               "id":"8b725647089c4467a780bcafa2722a53",
               "label":"",
@@ -1108,7 +1108,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":600,
+                  "x":700,
                   "y":40},
                 "size":{
                   "width":100,
@@ -1124,7 +1124,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":600,
+                      "x":700,
                       "y":40},
                     "size":{
                       "width":100,
@@ -1132,7 +1132,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u38.png"}},
+                "normal~":"images/客户管理-业务数据展示/u40.png"}},
 {
               "id":"70679814c7334a84bd349b5c2cd7b557",
               "label":"",
@@ -1141,7 +1141,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":600,
+                  "x":700,
                   "y":60},
                 "size":{
                   "width":100,
@@ -1157,7 +1157,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":600,
+                      "x":700,
                       "y":60},
                     "size":{
                       "width":100,
@@ -1165,7 +1165,403 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u68.png"}}]},
+                "normal~":"images/客户管理-业务数据展示/u40.png"}},
+{
+              "id":"14bce73e5af549d3b2eda7c2ce94b613",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":80},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2e632e64538948b88c9af53aff2c4163",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":80},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u62.png"}},
+{
+              "id":"6e32d7c4439a4dc3b70aabc09a3f40bf",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":200,
+                  "y":80},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"85fcf3f764f44c429f6941a6e2780756",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":200,
+                      "y":80},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u62.png"}},
+{
+              "id":"116dc79f4386475ba8c918b24f0cab94",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":300,
+                  "y":80},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"eb82667634f24ed893c98e68a0129ef6",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":300,
+                      "y":80},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u62.png"}},
+{
+              "id":"04fa5a8a82a14e3eaf71a8efebf16417",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":400,
+                  "y":80},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0e63c2c027b54c76934c46c8c89f52f5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":400,
+                      "y":80},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u62.png"}},
+{
+              "id":"6113f6029a024eb08ffd7ddaa99345c9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":500,
+                  "y":80},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"64bbb697488e43bea66e710fc2e46cfe",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":500,
+                      "y":80},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u62.png"}},
+{
+              "id":"d811eddffdab48bcb233d451a936dc70",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":600,
+                  "y":80},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a48521bbff2c4b08a59a12a285ac748a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":600,
+                      "y":80},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u62.png"}},
+{
+              "id":"b0f9eb0bf014423aae8d5cfdef182353",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":700,
+                  "y":80},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e64ccba1666842cdb9c71fc3bb747b7e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":700,
+                      "y":80},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u70.png"}},
+{
+              "id":"499cef5890d0475fba76b8a7882ae5ff",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":100,
+                  "y":0},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f199e4fdf2414eb19ce3d77d0a2678ac",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":100,
+                      "y":0},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
+{
+              "id":"f2c901cb42d04b4e967a275591098d83",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":100,
+                  "y":20},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a7245fe187f94864a7f57d46d08c77bc",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":100,
+                      "y":20},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
+{
+              "id":"012aeaaadb2449e38d501bbe1c974189",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":100,
+                  "y":40},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d4971eea950f40948ef5fb4dc8b096d5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":100,
+                      "y":40},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
+{
+              "id":"cd98ed7528ed4adba627e1f69a0fd1dc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":100,
+                  "y":60},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9bece105f0264d6fba06eb7c3bfeec63",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":100,
+                      "y":60},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u32.png"}},
+{
+              "id":"540f5cf430b645f8bcd86c891cb8b20b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":100,
+                  "y":80},
+                "size":{
+                  "width":100,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2da11f423cdd45f0a29f50441a8c5f27",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":100,
+                      "y":80},
+                    "size":{
+                      "width":100,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/客户管理-业务数据展示/u62.png"}}]},
 {
           "id":"9222f26e824a4a31bca3b5377346ff73",
           "label":"",
@@ -1198,7 +1594,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额走势图/u69.png"}},
+            "normal~":"images/贷款余额走势图/u93.png"}},
 {
           "id":"47e812e4a7c04c188d661d245e07099c",
           "label":"",
@@ -1231,7 +1627,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额走势图/u71.png"}},
+            "normal~":"images/贷款余额走势图/u95.png"}},
 {
           "id":"fec8214114404227aa334cf19b3feafc",
           "label":"",
@@ -1358,7 +1754,7 @@
               "x":70,
               "y":125},
             "size":{
-              "width":300,
+              "width":200,
               "height":30}},
           "adaptiveStyles":{
 },
@@ -1400,7 +1796,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u13.png"}},
+                "normal~":"images/编辑模块顺序/u13.png"}},
 {
               "id":"a70b67a1e43a44d79f3f48a3694d725c",
               "label":"",
@@ -1445,44 +1841,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u13.png"}},
-{
-              "id":"5a39775efe0843bb97a664bcb1755ba5",
-              "label":"",
-              "type":"tableCell",
-              "styleType":"tableCell",
-              "visible":true,
-              "style":{
-                "horizontalAlignment":"center",
-                "verticalAlignment":"middle",
-                "location":{
-                  "x":200,
-                  "y":0},
-                "size":{
-                  "width":100,
-                  "height":30}},
-              "adaptiveStyles":{
-},
-              "objects":[{
-                  "id":"e5f567bda173420b88b45d98bc4f6184",
-                  "label":"",
-                  "isContained":true,
-                  "type":"richTextPanel",
-                  "styleType":"paragraph",
-                  "visible":true,
-                  "style":{
-                    "horizontalAlignment":"center",
-                    "verticalAlignment":"middle",
-                    "location":{
-                      "x":200,
-                      "y":0},
-                    "size":{
-                      "width":100,
-                      "height":30}},
-                  "adaptiveStyles":{
-}}],
-              "images":{
-                "normal~":"images/添加模块/u15.png"}}]},
+                "normal~":"images/编辑模块顺序/u15.png"}}]},
 {
           "id":"2c43ad793d3f41fcae606c0d72dd1259",
           "label":"",
@@ -1532,149 +1891,193 @@
       "scriptId":"u13"},
     "084909015cea4a2ab1c070bcc4429744":{
       "scriptId":"u14"},
-    "e211a00a36bf4a78982097f1476217bb":{
+    "499cef5890d0475fba76b8a7882ae5ff":{
       "scriptId":"u15"},
-    "8707c4cb1c3a43fb8aba26ba850ff7d3":{
+    "f199e4fdf2414eb19ce3d77d0a2678ac":{
       "scriptId":"u16"},
-    "8150970b034b41a184d1830c4e94cde4":{
+    "e211a00a36bf4a78982097f1476217bb":{
       "scriptId":"u17"},
-    "912d53f2f70a45b8b06be9a026eafeb7":{
+    "8707c4cb1c3a43fb8aba26ba850ff7d3":{
       "scriptId":"u18"},
-    "38a1bfcfe929403abcff518101b7965d":{
+    "8150970b034b41a184d1830c4e94cde4":{
       "scriptId":"u19"},
-    "e1a82d057c7b471797da28ae20854f00":{
+    "912d53f2f70a45b8b06be9a026eafeb7":{
       "scriptId":"u20"},
-    "a5958beac8e84c93899513d971979d73":{
+    "38a1bfcfe929403abcff518101b7965d":{
       "scriptId":"u21"},
-    "348ac94f5a434b5084ccd3de2275cac2":{
+    "e1a82d057c7b471797da28ae20854f00":{
       "scriptId":"u22"},
-    "4ee624d9da97429ea31515b06aa205ff":{
+    "a5958beac8e84c93899513d971979d73":{
       "scriptId":"u23"},
-    "e16a2e4eb2da4522a2e3bf330e5353d2":{
+    "348ac94f5a434b5084ccd3de2275cac2":{
       "scriptId":"u24"},
-    "7302ef7548924df48840ac08ac13aaf0":{
+    "4ee624d9da97429ea31515b06aa205ff":{
       "scriptId":"u25"},
-    "0803326674c94f79b04cf5fe8e1bb615":{
+    "e16a2e4eb2da4522a2e3bf330e5353d2":{
       "scriptId":"u26"},
-    "84c6d73fad7f4550b52fba08c57d4250":{
+    "7302ef7548924df48840ac08ac13aaf0":{
       "scriptId":"u27"},
-    "0fecff91f0c140cf8e1ad49e3f2f5516":{
+    "0803326674c94f79b04cf5fe8e1bb615":{
       "scriptId":"u28"},
-    "48ebfe7018184e28bca40d8488d2fc4b":{
+    "84c6d73fad7f4550b52fba08c57d4250":{
       "scriptId":"u29"},
-    "8aff4b3854ab48eba5bc6e061e26ac4b":{
+    "0fecff91f0c140cf8e1ad49e3f2f5516":{
       "scriptId":"u30"},
-    "af94a258c664495b91e6335bb151fc96":{
+    "f2c901cb42d04b4e967a275591098d83":{
       "scriptId":"u31"},
-    "339957505e9548f4b52e508cadd93c77":{
+    "a7245fe187f94864a7f57d46d08c77bc":{
       "scriptId":"u32"},
-    "1e9983dabe7a4a61ac664de3549a231e":{
+    "48ebfe7018184e28bca40d8488d2fc4b":{
       "scriptId":"u33"},
-    "24560237791e466da9b2bd40f9b1aca4":{
+    "8aff4b3854ab48eba5bc6e061e26ac4b":{
       "scriptId":"u34"},
-    "aac0dfdc19d34f4d9758c84f9def3037":{
+    "af94a258c664495b91e6335bb151fc96":{
       "scriptId":"u35"},
-    "6e8ea3b4dfc248279c33338905f21be2":{
+    "339957505e9548f4b52e508cadd93c77":{
       "scriptId":"u36"},
-    "8e44dd39b0af43fa8a1ab0843e4e85d0":{
+    "1e9983dabe7a4a61ac664de3549a231e":{
       "scriptId":"u37"},
-    "e5a3942ccbea414b8e785777a49b6c91":{
+    "24560237791e466da9b2bd40f9b1aca4":{
       "scriptId":"u38"},
-    "5041dadb60514e07b116cada80cb7113":{
+    "aac0dfdc19d34f4d9758c84f9def3037":{
       "scriptId":"u39"},
-    "fc216596826f4c6a8146532272564f34":{
+    "6e8ea3b4dfc248279c33338905f21be2":{
       "scriptId":"u40"},
-    "04ff3eb7a41f4f32b25246c8330b4038":{
+    "8e44dd39b0af43fa8a1ab0843e4e85d0":{
       "scriptId":"u41"},
-    "8648ab256666485e94cf9d9d4c4897a3":{
+    "e5a3942ccbea414b8e785777a49b6c91":{
       "scriptId":"u42"},
-    "6c5008f8063e4384ab053b19278974ff":{
+    "5041dadb60514e07b116cada80cb7113":{
       "scriptId":"u43"},
-    "edaa6311d5834e39bd977a2cb2014c11":{
+    "fc216596826f4c6a8146532272564f34":{
       "scriptId":"u44"},
-    "d1324c8f189e4fa5a4e20e39519c2d9e":{
+    "04ff3eb7a41f4f32b25246c8330b4038":{
       "scriptId":"u45"},
-    "60ac5f1ec2c8420b9ee71d2a5b4fd282":{
+    "8648ab256666485e94cf9d9d4c4897a3":{
       "scriptId":"u46"},
-    "1a6028808aa147fd94ee8eff5dd844b5":{
+    "012aeaaadb2449e38d501bbe1c974189":{
       "scriptId":"u47"},
-    "6cec20e6b1e544bb853eaca5cef152cd":{
+    "d4971eea950f40948ef5fb4dc8b096d5":{
       "scriptId":"u48"},
-    "cf42c808ac794b26ac27da58f8223c14":{
+    "6c5008f8063e4384ab053b19278974ff":{
       "scriptId":"u49"},
-    "a07a876175f14b28a8ec6098548ecfcc":{
+    "edaa6311d5834e39bd977a2cb2014c11":{
       "scriptId":"u50"},
-    "47df554429784b10b0206f640860d0bb":{
+    "d1324c8f189e4fa5a4e20e39519c2d9e":{
       "scriptId":"u51"},
-    "278c803d736f4bb2975efe08b83a9bd0":{
+    "60ac5f1ec2c8420b9ee71d2a5b4fd282":{
       "scriptId":"u52"},
-    "8b725647089c4467a780bcafa2722a53":{
+    "1a6028808aa147fd94ee8eff5dd844b5":{
       "scriptId":"u53"},
-    "5c57862e22a94434b2341a736498fd61":{
+    "6cec20e6b1e544bb853eaca5cef152cd":{
       "scriptId":"u54"},
-    "220a56d26a474a308dd0afc8bcfb8d15":{
+    "cf42c808ac794b26ac27da58f8223c14":{
       "scriptId":"u55"},
-    "aef91fa8e51d4c28936e3ac7770dae9c":{
+    "a07a876175f14b28a8ec6098548ecfcc":{
       "scriptId":"u56"},
-    "5044b972098d4a8eb3823df13cc6e01b":{
+    "47df554429784b10b0206f640860d0bb":{
       "scriptId":"u57"},
-    "74ac59a68d80449a80f0a6f9ccc06abf":{
+    "278c803d736f4bb2975efe08b83a9bd0":{
       "scriptId":"u58"},
-    "5ceb5860b5c74b6b88511d5172028c9e":{
+    "8b725647089c4467a780bcafa2722a53":{
       "scriptId":"u59"},
-    "a19aaf2d9cca400ebc9ede557502a7fd":{
+    "5c57862e22a94434b2341a736498fd61":{
       "scriptId":"u60"},
-    "1a32f802a30c4e0e8c1a24485b7ebc81":{
+    "220a56d26a474a308dd0afc8bcfb8d15":{
       "scriptId":"u61"},
-    "1fc0efa33c984909858a00ae2fc8d18c":{
+    "aef91fa8e51d4c28936e3ac7770dae9c":{
       "scriptId":"u62"},
-    "36f7aee779c6474a81e188b1595208f8":{
+    "cd98ed7528ed4adba627e1f69a0fd1dc":{
       "scriptId":"u63"},
-    "b35eb1cebb77405eb173699157de7f9e":{
+    "9bece105f0264d6fba06eb7c3bfeec63":{
       "scriptId":"u64"},
-    "ed3c003c66564ba8b95be70b96f975d3":{
+    "5044b972098d4a8eb3823df13cc6e01b":{
       "scriptId":"u65"},
-    "10b85acb997d4bf9a13cc2fceb7fe6fd":{
+    "74ac59a68d80449a80f0a6f9ccc06abf":{
       "scriptId":"u66"},
-    "70679814c7334a84bd349b5c2cd7b557":{
+    "5ceb5860b5c74b6b88511d5172028c9e":{
       "scriptId":"u67"},
-    "3e32f4ee09704cd5ad1e48c530612945":{
+    "a19aaf2d9cca400ebc9ede557502a7fd":{
       "scriptId":"u68"},
-    "9222f26e824a4a31bca3b5377346ff73":{
+    "1a32f802a30c4e0e8c1a24485b7ebc81":{
       "scriptId":"u69"},
-    "9cb32e9ceef1418cb4d7816f80475481":{
+    "1fc0efa33c984909858a00ae2fc8d18c":{
       "scriptId":"u70"},
-    "47e812e4a7c04c188d661d245e07099c":{
+    "36f7aee779c6474a81e188b1595208f8":{
       "scriptId":"u71"},
-    "c7f04cd8b713463f919b76b7a6327d3b":{
+    "b35eb1cebb77405eb173699157de7f9e":{
       "scriptId":"u72"},
-    "fec8214114404227aa334cf19b3feafc":{
+    "ed3c003c66564ba8b95be70b96f975d3":{
       "scriptId":"u73"},
-    "70bf561119cf424bbe4d45ecb4ddb761":{
+    "10b85acb997d4bf9a13cc2fceb7fe6fd":{
       "scriptId":"u74"},
-    "068e7f16ac6e406f958a0a5343c02f90":{
+    "70679814c7334a84bd349b5c2cd7b557":{
       "scriptId":"u75"},
-    "3f3f18b305164eca9e5b6694860b4fda":{
+    "3e32f4ee09704cd5ad1e48c530612945":{
       "scriptId":"u76"},
-    "72c965651e034c0ca2bf9dcc7c0a4ae9":{
+    "14bce73e5af549d3b2eda7c2ce94b613":{
       "scriptId":"u77"},
-    "aa3288d1dc4746749ddc6d909cdf2495":{
+    "2e632e64538948b88c9af53aff2c4163":{
       "scriptId":"u78"},
-    "8c2602c5f62d447db491d03c96816d5f":{
+    "540f5cf430b645f8bcd86c891cb8b20b":{
       "scriptId":"u79"},
-    "9bd744e888ca4c8dbe12c13dc9078125":{
+    "2da11f423cdd45f0a29f50441a8c5f27":{
       "scriptId":"u80"},
-    "66d9488a406c46d98de75f338c19eba6":{
+    "6e32d7c4439a4dc3b70aabc09a3f40bf":{
       "scriptId":"u81"},
-    "6e7340af184c49ba8b6b94191a3de8b6":{
+    "85fcf3f764f44c429f6941a6e2780756":{
       "scriptId":"u82"},
-    "a70b67a1e43a44d79f3f48a3694d725c":{
+    "116dc79f4386475ba8c918b24f0cab94":{
       "scriptId":"u83"},
-    "67f6b051e40e4e199e10b3853f19a5b4":{
+    "eb82667634f24ed893c98e68a0129ef6":{
       "scriptId":"u84"},
-    "5a39775efe0843bb97a664bcb1755ba5":{
+    "04fa5a8a82a14e3eaf71a8efebf16417":{
       "scriptId":"u85"},
-    "e5f567bda173420b88b45d98bc4f6184":{
+    "0e63c2c027b54c76934c46c8c89f52f5":{
       "scriptId":"u86"},
+    "6113f6029a024eb08ffd7ddaa99345c9":{
+      "scriptId":"u87"},
+    "64bbb697488e43bea66e710fc2e46cfe":{
+      "scriptId":"u88"},
+    "d811eddffdab48bcb233d451a936dc70":{
+      "scriptId":"u89"},
+    "a48521bbff2c4b08a59a12a285ac748a":{
+      "scriptId":"u90"},
+    "b0f9eb0bf014423aae8d5cfdef182353":{
+      "scriptId":"u91"},
+    "e64ccba1666842cdb9c71fc3bb747b7e":{
+      "scriptId":"u92"},
+    "9222f26e824a4a31bca3b5377346ff73":{
+      "scriptId":"u93"},
+    "9cb32e9ceef1418cb4d7816f80475481":{
+      "scriptId":"u94"},
+    "47e812e4a7c04c188d661d245e07099c":{
+      "scriptId":"u95"},
+    "c7f04cd8b713463f919b76b7a6327d3b":{
+      "scriptId":"u96"},
+    "fec8214114404227aa334cf19b3feafc":{
+      "scriptId":"u97"},
+    "70bf561119cf424bbe4d45ecb4ddb761":{
+      "scriptId":"u98"},
+    "068e7f16ac6e406f958a0a5343c02f90":{
+      "scriptId":"u99"},
+    "3f3f18b305164eca9e5b6694860b4fda":{
+      "scriptId":"u100"},
+    "72c965651e034c0ca2bf9dcc7c0a4ae9":{
+      "scriptId":"u101"},
+    "aa3288d1dc4746749ddc6d909cdf2495":{
+      "scriptId":"u102"},
+    "8c2602c5f62d447db491d03c96816d5f":{
+      "scriptId":"u103"},
+    "9bd744e888ca4c8dbe12c13dc9078125":{
+      "scriptId":"u104"},
+    "66d9488a406c46d98de75f338c19eba6":{
+      "scriptId":"u105"},
+    "6e7340af184c49ba8b6b94191a3de8b6":{
+      "scriptId":"u106"},
+    "a70b67a1e43a44d79f3f48a3694d725c":{
+      "scriptId":"u107"},
+    "67f6b051e40e4e199e10b3853f19a5b4":{
+      "scriptId":"u108"},
     "2c43ad793d3f41fcae606c0d72dd1259":{
-      "scriptId":"u87"}}});
+      "scriptId":"u109"}}});

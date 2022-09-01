@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额分布统计.html",
-  "generationDate":new Date(1661498374157.07),
+  "generationDate":new Date(1662070244728.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -282,53 +282,11 @@
           "adaptiveStyles":{
 }},
 {
-          "id":"9cc3fe9ded3d431592cdf96aa055bf24",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "underline":true,
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF0000FF,
-              "opacity":1},
-            "location":{
-              "x":185,
-              "y":473},
-            "size":{
-              "width":80,
-              "height":16}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"5a9d0a9a52ac434383118f571f52b18f",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "underline":true,
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF0000FF,
-                  "opacity":1},
-                "location":{
-                  "x":185,
-                  "y":473},
-                "size":{
-                  "width":80,
-                  "height":16}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
-{
           "id":"fec8214114404227aa334cf19b3feafc",
           "label":"",
           "type":"comboBox",
           "styleType":"comboBox",
+          "disabled":true,
           "visible":true,
           "style":{
             "location":{
@@ -404,7 +362,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额分布统计/u20.png"}},
+            "normal~":"images/贷款余额分布统计/u18.png"}},
 {
           "id":"a098d15fe3c34c268614c9e617f06616",
           "label":"",
@@ -437,7 +395,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额分布统计/u22.png"}},
+            "normal~":"images/贷款余额分布统计/u20.png"}},
 {
           "id":"718194434ba440b7a454fbb01fe69b99",
           "label":"",
@@ -470,7 +428,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额分布统计/u24.png"}},
+            "normal~":"images/贷款余额分布统计/u22.png"}},
 {
           "id":"bd73998c2a384a29b5a32dd907e264a9",
           "label":"",
@@ -503,7 +461,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/贷款余额分布统计/u26.png"}},
+            "normal~":"images/贷款余额分布统计/u24.png"}},
 {
           "id":"66ae6548095d47f1a17eb2af035f9f47",
           "label":"",
@@ -557,7 +515,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u13.png"}},
+                "normal~":"images/编辑模块顺序/u13.png"}},
 {
               "id":"efda258e96e14f99bab0fa5c808e339e",
               "label":"",
@@ -602,7 +560,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u15.png"}}]},
+                "normal~":"images/编辑模块顺序/u15.png"}}]},
 {
           "id":"25d08ee1f20547749450e77003c5706a",
           "label":"",
@@ -656,7 +614,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u13.png"}},
+                "normal~":"images/编辑模块顺序/u13.png"}},
 {
               "id":"c7577c1445474d8e93ff12fd58506d88",
               "label":"",
@@ -701,7 +659,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/添加模块/u15.png"}}]},
+                "normal~":"images/编辑模块顺序/u15.png"}}]},
 {
           "id":"30f061234d474c7bb98d3bc2544d6d2c",
           "label":"",
@@ -768,53 +726,49 @@
       "scriptId":"u13"},
     "6665266d83c144ef8e68049b49f44499":{
       "scriptId":"u14"},
-    "9cc3fe9ded3d431592cdf96aa055bf24":{
-      "scriptId":"u15"},
-    "5a9d0a9a52ac434383118f571f52b18f":{
-      "scriptId":"u16"},
     "fec8214114404227aa334cf19b3feafc":{
-      "scriptId":"u17"},
+      "scriptId":"u15"},
     "70bf561119cf424bbe4d45ecb4ddb761":{
-      "scriptId":"u18"},
+      "scriptId":"u16"},
     "068e7f16ac6e406f958a0a5343c02f90":{
-      "scriptId":"u19"},
+      "scriptId":"u17"},
     "7e3ac14af3a64a91b25e7ceab4a314ef":{
-      "scriptId":"u20"},
+      "scriptId":"u18"},
     "7da7a92c924a47668af5f3cdd76981c3":{
-      "scriptId":"u21"},
+      "scriptId":"u19"},
     "a098d15fe3c34c268614c9e617f06616":{
-      "scriptId":"u22"},
+      "scriptId":"u20"},
     "39e1f35fa5c44d8f9486b84589ba7443":{
-      "scriptId":"u23"},
+      "scriptId":"u21"},
     "718194434ba440b7a454fbb01fe69b99":{
-      "scriptId":"u24"},
+      "scriptId":"u22"},
     "f89ef61049dc460792b54d05713a5d97":{
-      "scriptId":"u25"},
+      "scriptId":"u23"},
     "bd73998c2a384a29b5a32dd907e264a9":{
-      "scriptId":"u26"},
+      "scriptId":"u24"},
     "1fb0942ded1f4e8298df78c36acfaef1":{
-      "scriptId":"u27"},
+      "scriptId":"u25"},
     "66ae6548095d47f1a17eb2af035f9f47":{
-      "scriptId":"u28"},
+      "scriptId":"u26"},
     "89e965dae9c84a39ab0c3c6456380995":{
-      "scriptId":"u29"},
+      "scriptId":"u27"},
     "bb6a403db42842e6a268758fd082fab7":{
-      "scriptId":"u30"},
+      "scriptId":"u28"},
     "efda258e96e14f99bab0fa5c808e339e":{
-      "scriptId":"u31"},
+      "scriptId":"u29"},
     "85e3ca4f319d46aa9bbe16debe418696":{
-      "scriptId":"u32"},
+      "scriptId":"u30"},
     "25d08ee1f20547749450e77003c5706a":{
-      "scriptId":"u33"},
+      "scriptId":"u31"},
     "f44b1c914ace4a35b0b248562af0896b":{
-      "scriptId":"u34"},
+      "scriptId":"u32"},
     "c15f824292384a208afbf3bb2459f4ea":{
-      "scriptId":"u35"},
+      "scriptId":"u33"},
     "c7577c1445474d8e93ff12fd58506d88":{
-      "scriptId":"u36"},
+      "scriptId":"u34"},
     "0ff362d9e0e34238ac85fcf1d0d7528c":{
-      "scriptId":"u37"},
+      "scriptId":"u35"},
     "30f061234d474c7bb98d3bc2544d6d2c":{
-      "scriptId":"u38"},
+      "scriptId":"u36"},
     "01161e8f26c54fc0ac00ccf34f9c3324":{
-      "scriptId":"u39"}}});
+      "scriptId":"u37"}}});

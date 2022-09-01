@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"oa人员信息同步服务-delete.html",
+  "generationDate":new Date(1662070248735.87),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5d7d41edd4a544528eed7c2cf5a2015a",
+    "type":"Axure:Page",
+    "name":"OA人员信息同步服务-delete",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f10fc310a6ac44e2bef1a177f63573a9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":54},
+            "size":{
+              "width":194,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a3e99d38a9394296af0f16fdddb2ad78",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":54},
+                "size":{
+                  "width":194,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f10fc310a6ac44e2bef1a177f63573a9":{
+      "scriptId":"u0"},
+    "a3e99d38a9394296af0f16fdddb2ad78":{
+      "scriptId":"u1"}}});

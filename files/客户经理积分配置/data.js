@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户经理积分配置.html",
-  "generationDate":new Date(1661498377222.61),
+  "generationDate":new Date(1661502329135.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4462,7 +4462,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
+            "normal~":"images/客户管理-业务数据展示/u606.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

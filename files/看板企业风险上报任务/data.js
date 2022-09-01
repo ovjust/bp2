@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业风险上报任务.html",
-  "generationDate":new Date(1661498375348.21),
+  "generationDate":new Date(1661502327163.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2411,7 +2411,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
+            "normal~":"images/客户管理-业务数据展示/u606.png"}},
 {
           "id":"7e78be9c1530448c9abb3a3520b97b7b",
           "label":"",

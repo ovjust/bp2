@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"余额_收入详情.html",
-  "generationDate":new Date(1661498368808.71),
+  "generationDate":new Date(1662070231805.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -73,8 +73,8 @@
               "x":32,
               "y":97},
             "size":{
-              "width":735,
-              "height":93}},
+              "width":802,
+              "height":109}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -86,7 +86,7 @@
               "style":{
                 "size":{
                   "width":80,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -99,7 +99,7 @@
                   "style":{
                     "size":{
                       "width":80,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -113,7 +113,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":20},
+                  "y":36},
                 "size":{
                   "width":80,
                   "height":36}},
@@ -129,14 +129,14 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":20},
+                      "y":36},
                     "size":{
                       "width":80,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u25.png"}},
+                "normal~":"images/余额_收入详情/u3.png"}},
 {
               "id":"634cd73b950d4bc7bc0bdd9845de1c39",
               "label":"",
@@ -146,7 +146,7 @@
               "style":{
                 "location":{
                   "x":0,
-                  "y":56},
+                  "y":72},
                 "size":{
                   "width":80,
                   "height":37}},
@@ -162,14 +162,14 @@
                   "style":{
                     "location":{
                       "x":0,
-                      "y":56},
+                      "y":72},
                     "size":{
                       "width":80,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u47.png"}},
+                "normal~":"images/余额_收入详情/u51.png"}},
 {
               "id":"c024f04c9adf4d0ca0264dad81fe9d2e",
               "label":"",
@@ -182,7 +182,7 @@
                   "y":0},
                 "size":{
                   "width":80,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -198,7 +198,7 @@
                       "y":0},
                     "size":{
                       "width":80,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -212,7 +212,7 @@
               "style":{
                 "location":{
                   "x":80,
-                  "y":20},
+                  "y":36},
                 "size":{
                   "width":80,
                   "height":36}},
@@ -228,14 +228,14 @@
                   "style":{
                     "location":{
                       "x":80,
-                      "y":20},
+                      "y":36},
                     "size":{
                       "width":80,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u25.png"}},
+                "normal~":"images/余额_收入详情/u3.png"}},
 {
               "id":"0baaef8fa83642a380bcb070b622d174",
               "label":"",
@@ -245,7 +245,7 @@
               "style":{
                 "location":{
                   "x":80,
-                  "y":56},
+                  "y":72},
                 "size":{
                   "width":80,
                   "height":37}},
@@ -261,14 +261,14 @@
                   "style":{
                     "location":{
                       "x":80,
-                      "y":56},
+                      "y":72},
                     "size":{
                       "width":80,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u47.png"}},
+                "normal~":"images/余额_收入详情/u51.png"}},
 {
               "id":"1c3e479ff0014fa6894c35da398fa806",
               "label":"",
@@ -281,7 +281,7 @@
                   "y":0},
                 "size":{
                   "width":46,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -297,7 +297,7 @@
                       "y":0},
                     "size":{
                       "width":46,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -311,7 +311,7 @@
               "style":{
                 "location":{
                   "x":160,
-                  "y":20},
+                  "y":36},
                 "size":{
                   "width":46,
                   "height":36}},
@@ -327,14 +327,14 @@
                   "style":{
                     "location":{
                       "x":160,
-                      "y":20},
+                      "y":36},
                     "size":{
                       "width":46,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u29.png"}},
+                "normal~":"images/余额_收入详情/u7.png"}},
 {
               "id":"ed4e6e4a14e847779de41aed5f3e5284",
               "label":"",
@@ -344,7 +344,7 @@
               "style":{
                 "location":{
                   "x":160,
-                  "y":56},
+                  "y":72},
                 "size":{
                   "width":46,
                   "height":37}},
@@ -360,14 +360,14 @@
                   "style":{
                     "location":{
                       "x":160,
-                      "y":56},
+                      "y":72},
                     "size":{
                       "width":46,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u51.png"}},
+                "normal~":"images/余额_收入详情/u55.png"}},
 {
               "id":"522e2bec4b0f45fca07a48150d56d471",
               "label":"",
@@ -380,7 +380,7 @@
                   "y":0},
                 "size":{
                   "width":37,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -396,7 +396,7 @@
                       "y":0},
                     "size":{
                       "width":37,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -410,7 +410,7 @@
               "style":{
                 "location":{
                   "x":206,
-                  "y":20},
+                  "y":36},
                 "size":{
                   "width":37,
                   "height":36}},
@@ -426,14 +426,14 @@
                   "style":{
                     "location":{
                       "x":206,
-                      "y":20},
+                      "y":36},
                     "size":{
                       "width":37,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u31.png"}},
+                "normal~":"images/余额_收入详情/u9.png"}},
 {
               "id":"fd61660f138840a181e9a6eff7289353",
               "label":"",
@@ -443,7 +443,7 @@
               "style":{
                 "location":{
                   "x":206,
-                  "y":56},
+                  "y":72},
                 "size":{
                   "width":37,
                   "height":37}},
@@ -459,14 +459,14 @@
                   "style":{
                     "location":{
                       "x":206,
-                      "y":56},
+                      "y":72},
                     "size":{
                       "width":37,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u53.png"}},
+                "normal~":"images/余额_收入详情/u57.png"}},
 {
               "id":"83078c12d48d423aa86891c19bd9d56a",
               "label":"",
@@ -479,7 +479,7 @@
                   "y":0},
                 "size":{
                   "width":88,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -495,7 +495,7 @@
                       "y":0},
                     "size":{
                       "width":88,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -509,7 +509,7 @@
               "style":{
                 "location":{
                   "x":243,
-                  "y":20},
+                  "y":36},
                 "size":{
                   "width":88,
                   "height":36}},
@@ -525,14 +525,14 @@
                   "style":{
                     "location":{
                       "x":243,
-                      "y":20},
+                      "y":36},
                     "size":{
                       "width":88,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u33.png"}},
+                "normal~":"images/余额_收入详情/u11.png"}},
 {
               "id":"52e489dab60f4c09b7b48110c311bd98",
               "label":"",
@@ -542,7 +542,7 @@
               "style":{
                 "location":{
                   "x":243,
-                  "y":56},
+                  "y":72},
                 "size":{
                   "width":88,
                   "height":37}},
@@ -558,14 +558,14 @@
                   "style":{
                     "location":{
                       "x":243,
-                      "y":56},
+                      "y":72},
                     "size":{
                       "width":88,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u55.png"}},
+                "normal~":"images/余额_收入详情/u59.png"}},
 {
               "id":"3c04da74d5c540f7af2191cb41256271",
               "label":"",
@@ -578,7 +578,7 @@
                   "y":0},
                 "size":{
                   "width":85,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -594,7 +594,7 @@
                       "y":0},
                     "size":{
                       "width":85,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -608,7 +608,7 @@
               "style":{
                 "location":{
                   "x":331,
-                  "y":20},
+                  "y":36},
                 "size":{
                   "width":85,
                   "height":36}},
@@ -624,14 +624,14 @@
                   "style":{
                     "location":{
                       "x":331,
-                      "y":20},
+                      "y":36},
                     "size":{
                       "width":85,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u35.png"}},
+                "normal~":"images/余额_收入详情/u13.png"}},
 {
               "id":"4206401c890e4386880d8b34924d9a0b",
               "label":"",
@@ -641,7 +641,7 @@
               "style":{
                 "location":{
                   "x":331,
-                  "y":56},
+                  "y":72},
                 "size":{
                   "width":85,
                   "height":37}},
@@ -657,14 +657,14 @@
                   "style":{
                     "location":{
                       "x":331,
-                      "y":56},
+                      "y":72},
                     "size":{
                       "width":85,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u57.png"}},
+                "normal~":"images/余额_收入详情/u61.png"}},
 {
               "id":"9e72625b88164812aa4d4d41566e9ff4",
               "label":"",
@@ -677,7 +677,7 @@
                   "y":0},
                 "size":{
                   "width":82,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -693,7 +693,7 @@
                       "y":0},
                     "size":{
                       "width":82,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -707,7 +707,7 @@
               "style":{
                 "location":{
                   "x":416,
-                  "y":20},
+                  "y":36},
                 "size":{
                   "width":82,
                   "height":36}},
@@ -723,14 +723,14 @@
                   "style":{
                     "location":{
                       "x":416,
-                      "y":20},
+                      "y":36},
                     "size":{
                       "width":82,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u37.png"}},
+                "normal~":"images/余额_收入详情/u15.png"}},
 {
               "id":"7320846bcdcf4400865ca29e8971e7c3",
               "label":"",
@@ -740,7 +740,7 @@
               "style":{
                 "location":{
                   "x":416,
-                  "y":56},
+                  "y":72},
                 "size":{
                   "width":82,
                   "height":37}},
@@ -756,14 +756,14 @@
                   "style":{
                     "location":{
                       "x":416,
-                      "y":56},
+                      "y":72},
                     "size":{
                       "width":82,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u59.png"}},
+                "normal~":"images/余额_收入详情/u63.png"}},
 {
               "id":"6d78948e792a41b195a206cde9174669",
               "label":"",
@@ -772,11 +772,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":540,
+                  "x":607,
                   "y":0},
                 "size":{
                   "width":46,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -788,11 +788,11 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":540,
+                      "x":607,
                       "y":0},
                     "size":{
                       "width":46,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
@@ -805,8 +805,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":540,
-                  "y":20},
+                  "x":607,
+                  "y":36},
                 "size":{
                   "width":46,
                   "height":36}},
@@ -821,15 +821,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":540,
-                      "y":20},
+                      "x":607,
+                      "y":36},
                     "size":{
                       "width":46,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u29.png"}},
+                "normal~":"images/余额_收入详情/u7.png"}},
 {
               "id":"1a73f376ccce43ad9b91d6e28920c2cc",
               "label":"",
@@ -838,8 +838,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":540,
-                  "y":56},
+                  "x":607,
+                  "y":72},
                 "size":{
                   "width":46,
                   "height":37}},
@@ -854,15 +854,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":540,
-                      "y":56},
+                      "x":607,
+                      "y":72},
                     "size":{
                       "width":46,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u51.png"}},
+                "normal~":"images/余额_收入详情/u55.png"}},
 {
               "id":"177e3315716f4066b0d92560e4701e81",
               "label":"",
@@ -871,11 +871,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":586,
+                  "x":653,
                   "y":0},
                 "size":{
                   "width":73,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -887,15 +887,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":586,
+                      "x":653,
                       "y":0},
                     "size":{
                       "width":73,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u21.png"}},
+                "normal~":"images/余额_收入详情/u23.png"}},
 {
               "id":"05435950953a428fb28b2ecd07ce5fbb",
               "label":"",
@@ -904,8 +904,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":586,
-                  "y":20},
+                  "x":653,
+                  "y":36},
                 "size":{
                   "width":73,
                   "height":36}},
@@ -920,15 +920,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":586,
-                      "y":20},
+                      "x":653,
+                      "y":36},
                     "size":{
                       "width":73,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u43.png"}},
+                "normal~":"images/余额_收入详情/u23.png"}},
 {
               "id":"c187ed24af7e489ab363da161aaf8e11",
               "label":"",
@@ -937,8 +937,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":586,
-                  "y":56},
+                  "x":653,
+                  "y":72},
                 "size":{
                   "width":73,
                   "height":37}},
@@ -953,15 +953,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":586,
-                      "y":56},
+                      "x":653,
+                      "y":72},
                     "size":{
                       "width":73,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u65.png"}},
+                "normal~":"images/余额_收入详情/u71.png"}},
 {
               "id":"13b647fc5a0c403bbbb2034b46517f8f",
               "label":"",
@@ -970,11 +970,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":659,
+                  "x":726,
                   "y":0},
                 "size":{
                   "width":76,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -986,15 +986,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":659,
+                      "x":726,
                       "y":0},
                     "size":{
                       "width":76,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u23.png"}},
+                "normal~":"images/余额_收入详情/u25.png"}},
 {
               "id":"d507059624514ef7b69a66100fe18b00",
               "label":"",
@@ -1003,8 +1003,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":659,
-                  "y":20},
+                  "x":726,
+                  "y":36},
                 "size":{
                   "width":76,
                   "height":36}},
@@ -1019,15 +1019,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":659,
-                      "y":20},
+                      "x":726,
+                      "y":36},
                     "size":{
                       "width":76,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u45.png"}},
+                "normal~":"images/余额_收入详情/u25.png"}},
 {
               "id":"30b20022a4314201a2af68448b15bb2a",
               "label":"",
@@ -1036,8 +1036,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":659,
-                  "y":56},
+                  "x":726,
+                  "y":72},
                 "size":{
                   "width":76,
                   "height":37}},
@@ -1052,15 +1052,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":659,
-                      "y":56},
+                      "x":726,
+                      "y":72},
                     "size":{
                       "width":76,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u67.png"}},
+                "normal~":"images/余额_收入详情/u73.png"}},
 {
               "id":"f05cccca6b514d4da22e17d31e12bacd",
               "label":"",
@@ -1069,11 +1069,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":498,
+                  "x":565,
                   "y":0},
                 "size":{
                   "width":42,
-                  "height":20}},
+                  "height":36}},
               "adaptiveStyles":{
 },
               "objects":[{
@@ -1085,15 +1085,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":498,
+                      "x":565,
                       "y":0},
                     "size":{
                       "width":42,
-                      "height":20}},
+                      "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u17.png"}},
+                "normal~":"images/余额_收入详情/u19.png"}},
 {
               "id":"2473c583b822493693addfef81e1975a",
               "label":"",
@@ -1102,8 +1102,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":498,
-                  "y":20},
+                  "x":565,
+                  "y":36},
                 "size":{
                   "width":42,
                   "height":36}},
@@ -1118,15 +1118,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":498,
-                      "y":20},
+                      "x":565,
+                      "y":36},
                     "size":{
                       "width":42,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u39.png"}},
+                "normal~":"images/余额_收入详情/u19.png"}},
 {
               "id":"bdfe2f8500004a979fb44dd8cfd940e6",
               "label":"",
@@ -1135,8 +1135,8 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":498,
-                  "y":56},
+                  "x":565,
+                  "y":72},
                 "size":{
                   "width":42,
                   "height":37}},
@@ -1151,15 +1151,114 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":498,
-                      "y":56},
+                      "x":565,
+                      "y":72},
                     "size":{
                       "width":42,
                       "height":37}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/余额_收入详情/u61.png"}}]},
+                "normal~":"images/余额_收入详情/u67.png"}},
+{
+              "id":"6093349167c744f9b9767b22730796bf",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":498,
+                  "y":0},
+                "size":{
+                  "width":67,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b1e30ed3d6ad4973a7d02ed72e5e1b09",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":498,
+                      "y":0},
+                    "size":{
+                      "width":67,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/余额_收入详情/u17.png"}},
+{
+              "id":"6aa8b7af159f4419bd53255404b986a7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":498,
+                  "y":36},
+                "size":{
+                  "width":67,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4edb183262fa4a8388ba30a9b646f5b5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":498,
+                      "y":36},
+                    "size":{
+                      "width":67,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/余额_收入详情/u17.png"}},
+{
+              "id":"a15417017e3140bcb474dc1817cdb759",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":498,
+                  "y":72},
+                "size":{
+                  "width":67,
+                  "height":37}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ad24ce692a7c48c69b1d8711635c6324",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":498,
+                      "y":72},
+                    "size":{
+                      "width":67,
+                      "height":37}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/余额_收入详情/u65.png"}}]},
 {
           "id":"c236311eea2c45bca407e4ef9899f23f",
           "label":"",
@@ -1225,7 +1324,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/余额_收入详情/u71.png"}},
+            "normal~":"images/余额_收入详情/u77.png"}},
 {
           "id":"d06b23db963642899d029d6fa4064e31",
           "label":"",
@@ -1258,7 +1357,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
+            "normal~":"images/客户管理-业务数据展示/u575.png"}},
 {
           "id":"cae5e35943cd40478ecfab772b383877",
           "label":"",
@@ -1267,8 +1366,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":807,
-              "y":213},
+              "x":720,
+              "y":268},
             "size":{
               "width":300,
               "height":32}},
@@ -1283,11 +1382,110 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":807,
-                  "y":213},
+                  "x":720,
+                  "y":268},
                 "size":{
                   "width":300,
                   "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ddfe780c76914c82a677047134225089",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":32,
+              "y":324},
+            "size":{
+              "width":148,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"12db9eda5eb942089faca00ff5c12fbd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":32,
+                  "y":324},
+                "size":{
+                  "width":148,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"dec66f677c0149268919c8a824eecd29",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":15,
+              "y":358},
+            "size":{
+              "width":955,
+              "height":92}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"71e740181eeb4b19af859c9c0f7a9786",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":15,
+                  "y":358},
+                "size":{
+                  "width":955,
+                  "height":92}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/余额_收入详情/u85.png"}},
+{
+          "id":"08c2f4711e1c4e51bd012df116c91da7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":32,
+              "y":470},
+            "size":{
+              "width":274,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d90be3c9c8724f08a5d93084a605eb54",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":32,
+                  "y":470},
+                "size":{
+                  "width":274,
+                  "height":16}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -1329,123 +1527,147 @@
       "scriptId":"u15"},
     "f5e3c33db3d1446f8274b6046e64d420":{
       "scriptId":"u16"},
-    "f05cccca6b514d4da22e17d31e12bacd":{
+    "6093349167c744f9b9767b22730796bf":{
       "scriptId":"u17"},
-    "4e0562977c0042a7ba9adef615002e31":{
+    "b1e30ed3d6ad4973a7d02ed72e5e1b09":{
       "scriptId":"u18"},
-    "6d78948e792a41b195a206cde9174669":{
+    "f05cccca6b514d4da22e17d31e12bacd":{
       "scriptId":"u19"},
-    "0af5146770014af8b0b36e9710dd48ed":{
+    "4e0562977c0042a7ba9adef615002e31":{
       "scriptId":"u20"},
-    "177e3315716f4066b0d92560e4701e81":{
+    "6d78948e792a41b195a206cde9174669":{
       "scriptId":"u21"},
-    "0813b28ad4754e92aa65e802975660aa":{
+    "0af5146770014af8b0b36e9710dd48ed":{
       "scriptId":"u22"},
-    "13b647fc5a0c403bbbb2034b46517f8f":{
+    "177e3315716f4066b0d92560e4701e81":{
       "scriptId":"u23"},
-    "a3516f8be0234c4080679aeeea2298bb":{
+    "0813b28ad4754e92aa65e802975660aa":{
       "scriptId":"u24"},
-    "4997e7e250d3479c808f3187c9a1a732":{
+    "13b647fc5a0c403bbbb2034b46517f8f":{
       "scriptId":"u25"},
-    "dbdb55e7abbe48d0a12ac22fa2ca3498":{
+    "a3516f8be0234c4080679aeeea2298bb":{
       "scriptId":"u26"},
-    "0e1f6511068548baabb534b90287ec59":{
+    "4997e7e250d3479c808f3187c9a1a732":{
       "scriptId":"u27"},
-    "bbb8055f782a4cfabb3dd03b96ffa7ca":{
+    "dbdb55e7abbe48d0a12ac22fa2ca3498":{
       "scriptId":"u28"},
-    "6c3713641688475fbc573c8fd73b44c3":{
+    "0e1f6511068548baabb534b90287ec59":{
       "scriptId":"u29"},
-    "b626df8bcf204ca1aa80d1ea5cd01466":{
+    "bbb8055f782a4cfabb3dd03b96ffa7ca":{
       "scriptId":"u30"},
-    "bde48feab40840478c13e54f20ec8f2c":{
+    "6c3713641688475fbc573c8fd73b44c3":{
       "scriptId":"u31"},
-    "a8eab607c3964de195221a6bbff1371b":{
+    "b626df8bcf204ca1aa80d1ea5cd01466":{
       "scriptId":"u32"},
-    "be9c2d8927b64927a44b992ee35ecccc":{
+    "bde48feab40840478c13e54f20ec8f2c":{
       "scriptId":"u33"},
-    "4982f6513e744ebf81bffdef53e8faf6":{
+    "a8eab607c3964de195221a6bbff1371b":{
       "scriptId":"u34"},
-    "f7eedd6769d2473dbd8b0b99780f7706":{
+    "be9c2d8927b64927a44b992ee35ecccc":{
       "scriptId":"u35"},
-    "5dc2eb8ef9ba4e4384e95c6add3d0cf8":{
+    "4982f6513e744ebf81bffdef53e8faf6":{
       "scriptId":"u36"},
-    "70f1f82007a34abba8c35c0b28eddf49":{
+    "f7eedd6769d2473dbd8b0b99780f7706":{
       "scriptId":"u37"},
-    "95ebc69eecbc4e6bbc76e455ff17b634":{
+    "5dc2eb8ef9ba4e4384e95c6add3d0cf8":{
       "scriptId":"u38"},
-    "2473c583b822493693addfef81e1975a":{
+    "70f1f82007a34abba8c35c0b28eddf49":{
       "scriptId":"u39"},
-    "1e5f4763241a4e018cdb23c15b2f1981":{
+    "95ebc69eecbc4e6bbc76e455ff17b634":{
       "scriptId":"u40"},
-    "e9bf8107046a4a6d8d62b91cf0aa87cf":{
+    "6aa8b7af159f4419bd53255404b986a7":{
       "scriptId":"u41"},
-    "fab12cd8618d43d7bc363cc83262ced2":{
+    "4edb183262fa4a8388ba30a9b646f5b5":{
       "scriptId":"u42"},
-    "05435950953a428fb28b2ecd07ce5fbb":{
+    "2473c583b822493693addfef81e1975a":{
       "scriptId":"u43"},
-    "e15fc2d9bdca467da2fa8230ff1aacb1":{
+    "1e5f4763241a4e018cdb23c15b2f1981":{
       "scriptId":"u44"},
-    "d507059624514ef7b69a66100fe18b00":{
+    "e9bf8107046a4a6d8d62b91cf0aa87cf":{
       "scriptId":"u45"},
-    "f8627af4dfb54f62b297531879b726c5":{
+    "fab12cd8618d43d7bc363cc83262ced2":{
       "scriptId":"u46"},
-    "634cd73b950d4bc7bc0bdd9845de1c39":{
+    "05435950953a428fb28b2ecd07ce5fbb":{
       "scriptId":"u47"},
-    "9c428be74342428ea1d625a6674be9c5":{
+    "e15fc2d9bdca467da2fa8230ff1aacb1":{
       "scriptId":"u48"},
-    "0baaef8fa83642a380bcb070b622d174":{
+    "d507059624514ef7b69a66100fe18b00":{
       "scriptId":"u49"},
-    "eb1cc031773f40bfa0827cf5644afd94":{
+    "f8627af4dfb54f62b297531879b726c5":{
       "scriptId":"u50"},
-    "ed4e6e4a14e847779de41aed5f3e5284":{
+    "634cd73b950d4bc7bc0bdd9845de1c39":{
       "scriptId":"u51"},
-    "8a680abf77024aaa891c6fd73b430c6e":{
+    "9c428be74342428ea1d625a6674be9c5":{
       "scriptId":"u52"},
-    "fd61660f138840a181e9a6eff7289353":{
+    "0baaef8fa83642a380bcb070b622d174":{
       "scriptId":"u53"},
-    "a0bc81c7ab0c4b8ab1b89114958410b2":{
+    "eb1cc031773f40bfa0827cf5644afd94":{
       "scriptId":"u54"},
-    "52e489dab60f4c09b7b48110c311bd98":{
+    "ed4e6e4a14e847779de41aed5f3e5284":{
       "scriptId":"u55"},
-    "d9f5bdec7cf64e72a449c685aaf7d83f":{
+    "8a680abf77024aaa891c6fd73b430c6e":{
       "scriptId":"u56"},
-    "4206401c890e4386880d8b34924d9a0b":{
+    "fd61660f138840a181e9a6eff7289353":{
       "scriptId":"u57"},
-    "00676fbeff824d769164fb55f9880ec9":{
+    "a0bc81c7ab0c4b8ab1b89114958410b2":{
       "scriptId":"u58"},
-    "7320846bcdcf4400865ca29e8971e7c3":{
+    "52e489dab60f4c09b7b48110c311bd98":{
       "scriptId":"u59"},
-    "00efb2d173de49f08a11a348f7196bfa":{
+    "d9f5bdec7cf64e72a449c685aaf7d83f":{
       "scriptId":"u60"},
-    "bdfe2f8500004a979fb44dd8cfd940e6":{
+    "4206401c890e4386880d8b34924d9a0b":{
       "scriptId":"u61"},
-    "43a0aa4024714cd2b13a1c7bb91eadcf":{
+    "00676fbeff824d769164fb55f9880ec9":{
       "scriptId":"u62"},
-    "1a73f376ccce43ad9b91d6e28920c2cc":{
+    "7320846bcdcf4400865ca29e8971e7c3":{
       "scriptId":"u63"},
-    "4a272fbd6dc6469eaf571abe1839544a":{
+    "00efb2d173de49f08a11a348f7196bfa":{
       "scriptId":"u64"},
-    "c187ed24af7e489ab363da161aaf8e11":{
+    "a15417017e3140bcb474dc1817cdb759":{
       "scriptId":"u65"},
-    "64d26f283d4446bd8ec64d6de0729191":{
+    "ad24ce692a7c48c69b1d8711635c6324":{
       "scriptId":"u66"},
-    "30b20022a4314201a2af68448b15bb2a":{
+    "bdfe2f8500004a979fb44dd8cfd940e6":{
       "scriptId":"u67"},
-    "81919e5d9ba94c7cb9a7ce5fadcbe45a":{
+    "43a0aa4024714cd2b13a1c7bb91eadcf":{
       "scriptId":"u68"},
-    "c236311eea2c45bca407e4ef9899f23f":{
+    "1a73f376ccce43ad9b91d6e28920c2cc":{
       "scriptId":"u69"},
-    "a1cd07f569974644be95c5435b086412":{
+    "4a272fbd6dc6469eaf571abe1839544a":{
       "scriptId":"u70"},
-    "fee154ee59c141da8066d94aa76b252f":{
+    "c187ed24af7e489ab363da161aaf8e11":{
       "scriptId":"u71"},
-    "067b0cc956194af7b2e56625fd79a88f":{
+    "64d26f283d4446bd8ec64d6de0729191":{
       "scriptId":"u72"},
-    "d06b23db963642899d029d6fa4064e31":{
+    "30b20022a4314201a2af68448b15bb2a":{
       "scriptId":"u73"},
-    "a057a61a117748a99988b8f99c9a8699":{
+    "81919e5d9ba94c7cb9a7ce5fadcbe45a":{
       "scriptId":"u74"},
-    "cae5e35943cd40478ecfab772b383877":{
+    "c236311eea2c45bca407e4ef9899f23f":{
       "scriptId":"u75"},
+    "a1cd07f569974644be95c5435b086412":{
+      "scriptId":"u76"},
+    "fee154ee59c141da8066d94aa76b252f":{
+      "scriptId":"u77"},
+    "067b0cc956194af7b2e56625fd79a88f":{
+      "scriptId":"u78"},
+    "d06b23db963642899d029d6fa4064e31":{
+      "scriptId":"u79"},
+    "a057a61a117748a99988b8f99c9a8699":{
+      "scriptId":"u80"},
+    "cae5e35943cd40478ecfab772b383877":{
+      "scriptId":"u81"},
     "76eafe132b344b53b6ab531e40e8291e":{
-      "scriptId":"u76"}}});
+      "scriptId":"u82"},
+    "ddfe780c76914c82a677047134225089":{
+      "scriptId":"u83"},
+    "12db9eda5eb942089faca00ff5c12fbd":{
+      "scriptId":"u84"},
+    "dec66f677c0149268919c8a824eecd29":{
+      "scriptId":"u85"},
+    "71e740181eeb4b19af859c9c0f7a9786":{
+      "scriptId":"u86"},
+    "08c2f4711e1c4e51bd012df116c91da7":{
+      "scriptId":"u87"},
+    "d90be3c9c8724f08a5d93084a605eb54":{
+      "scriptId":"u88"}}});

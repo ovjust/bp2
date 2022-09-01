@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"历史融资管理-仅查看.html",
-  "generationDate":new Date(1661498372670.77),
+  "generationDate":new Date(1661502324605.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2158,7 +2158,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u543.png"}},
+                "normal~":"images/客户管理-业务数据展示/u537.png"}},
 {
               "id":"c416dbd797f541d383949648c171fd3b",
               "label":"",
@@ -2389,7 +2389,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u543.png"}},
+                "normal~":"images/客户管理-业务数据展示/u537.png"}},
 {
               "id":"f2d912e6bb9149c4a76fc9d20c91df58",
               "label":"",
@@ -2620,7 +2620,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
+            "normal~":"images/客户管理-业务数据展示/u606.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

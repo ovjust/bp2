@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-租赁公司.html",
-  "generationDate":new Date(1661498370700.94),
+  "generationDate":new Date(1662070239383.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -323,8 +323,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":362,
-              "y":583},
+              "x":370,
+              "y":373},
             "size":{
               "width":508,
               "height":37}},
@@ -339,15 +339,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":362,
-                  "y":583},
+                  "x":370,
+                  "y":373},
                 "size":{
                   "width":508,
                   "height":37}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
+            "normal~":"images/客户管理-业务数据展示/u575.png"}},
 {
           "id":"9823c2fd75634c248a33ad460214f2de",
           "label":"",
@@ -413,7 +413,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看数据-租赁公司/u20.png"}}]}},
+            "normal~":"images/余额_收入详情/u85.png"}}]}},
   "masters":{
 },
   "objectPaths":{

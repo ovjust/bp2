@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"审批流程.html",
-  "generationDate":new Date(1661498373467.86),
+  "generationDate":new Date(1662070243540.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -40,8 +40,8 @@
               "x":68,
               "y":80},
             "size":{
-              "width":572,
-              "height":144}},
+              "width":675,
+              "height":224}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -56,8 +56,8 @@
                   "x":68,
                   "y":80},
                 "size":{
-                  "width":572,
-                  "height":144}},
+                  "width":675,
+                  "height":224}},
               "adaptiveStyles":{
 }}],
           "images":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-外部融资数据.html",
-  "generationDate":new Date(1661498371504.92),
+  "generationDate":new Date(1662070240541.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -325,8 +325,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":362,
-              "y":583},
+              "x":522,
+              "y":383},
             "size":{
               "width":508,
               "height":37}},
@@ -341,48 +341,15 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":362,
-                  "y":583},
+                  "x":522,
+                  "y":383},
                 "size":{
                   "width":508,
                   "height":37}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
-{
-          "id":"9823c2fd75634c248a33ad460214f2de",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"paragraph",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":1200,
-              "y":383},
-            "size":{
-              "width":166,
-              "height":48}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"1b22c27bd84342048b8ce606897181ad",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":1200,
-                  "y":383},
-                "size":{
-                  "width":166,
-                  "height":48}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"resources/images/transparent.gif"}},
+            "normal~":"images/客户管理-业务数据展示/u575.png"}},
 {
           "id":"be1097c044e74ad5a9247f9938d33bd5",
           "label":"",
@@ -424,7 +391,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"f4598f5e7d38438786845521e01a6469",
               "label":"",
@@ -457,7 +424,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"0ff27b0a7e194f5e870c2ccaeabe7966",
               "label":"",
@@ -490,7 +457,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"17b3650866ac4ccb8f03911a4f574e2e",
               "label":"",
@@ -523,7 +490,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"4cb805300da940cdb2bbde8983907773",
               "label":"",
@@ -556,7 +523,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"0f218a05bb034684abcf38908e393802",
               "label":"",
@@ -589,7 +556,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"b4731fce848a45bbbec0771661da8d7e",
               "label":"",
@@ -622,7 +589,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"13ec3b2fccbb4162bba01dcba138aaaa",
               "label":"",
@@ -655,7 +622,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"a00d5306371f4ef1a916c89fee895530",
               "label":"",
@@ -688,7 +655,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"e97b93cc4f874f858eb4ea020c5e444a",
               "label":"",
@@ -721,7 +688,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"f49629580a964dfaa2992c4006b3dc56",
               "label":"",
@@ -754,7 +721,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"e9718c7bdf9d430d86fe0558572e65a5",
               "label":"",
@@ -787,7 +754,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"1b390882eb2149068e1fef2bb72d3b90",
               "label":"",
@@ -820,7 +787,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"0b9c24d44f59458da1d5579e1365b5a7",
               "label":"",
@@ -853,7 +820,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"9d00c86c9c3d4c438e0d6107f49c0597",
               "label":"",
@@ -886,7 +853,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"8229b9b328874d909a5fa13c527049c5",
               "label":"",
@@ -919,7 +886,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"91d06abce29b4bb39de05bfa57285e72",
               "label":"",
@@ -952,7 +919,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"6402e2e673744ba39be83e11309d9688",
               "label":"",
@@ -985,7 +952,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"a380cd970ba942799350bd6c50c09359",
               "label":"",
@@ -1018,7 +985,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"b4c99eb4242845b88d040c48d28eea52",
               "label":"",
@@ -1051,7 +1018,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"e775c530527846d0a3b85277d0bf128e",
               "label":"",
@@ -1084,7 +1051,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"bc22ff38c6fb45e0bdb99ef3690ec132",
               "label":"",
@@ -1117,7 +1084,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"fc67e9742df444fc9897a944e6146171",
               "label":"",
@@ -1150,7 +1117,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u20.png"}},
+                "normal~":"images/客户管理-业务数据展示/u22.png"}},
 {
               "id":"9abd22a2085c4674b9034ea1b48ef7a5",
               "label":"",
@@ -1183,7 +1150,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u47.png"}},
+                "normal~":"images/查看数据-外部融资数据/u45.png"}},
 {
               "id":"cab5502b5ade4cb0bbc9c965ef609c6a",
               "label":"",
@@ -1216,7 +1183,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u28.png"}},
+                "normal~":"images/客户管理-业务数据展示/u30.png"}},
 {
               "id":"781d84609ec54b448676b27e9477ecb7",
               "label":"",
@@ -1249,7 +1216,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/查看数据-外部融资数据/u71.png"}}]}]}},
+                "normal~":"images/查看数据-外部融资数据/u69.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -1289,113 +1256,109 @@
       "scriptId":"u16"},
     "9d5ba9f3ec6445f69147aefeed62c8fd":{
       "scriptId":"u17"},
-    "9823c2fd75634c248a33ad460214f2de":{
-      "scriptId":"u18"},
-    "1b22c27bd84342048b8ce606897181ad":{
-      "scriptId":"u19"},
     "be1097c044e74ad5a9247f9938d33bd5":{
-      "scriptId":"u20"},
+      "scriptId":"u18"},
     "1940b0b3e1bd47e79f59a1d933c8ac71":{
-      "scriptId":"u21"},
+      "scriptId":"u19"},
     "79935c1be2ab44bea7ac59095add3735":{
-      "scriptId":"u22"},
+      "scriptId":"u20"},
     "0ff27b0a7e194f5e870c2ccaeabe7966":{
-      "scriptId":"u23"},
+      "scriptId":"u21"},
     "9c11a90ec64445d5abeeb6b38a4ad734":{
-      "scriptId":"u24"},
+      "scriptId":"u22"},
     "4cb805300da940cdb2bbde8983907773":{
-      "scriptId":"u25"},
+      "scriptId":"u23"},
     "d6917c8bf3474e86ab409acf92f4ad3f":{
-      "scriptId":"u26"},
+      "scriptId":"u24"},
     "b4731fce848a45bbbec0771661da8d7e":{
-      "scriptId":"u27"},
+      "scriptId":"u25"},
     "7853d8cf41dd4a42af1fd9d2ad1b9782":{
-      "scriptId":"u28"},
+      "scriptId":"u26"},
     "a00d5306371f4ef1a916c89fee895530":{
-      "scriptId":"u29"},
+      "scriptId":"u27"},
     "83a6ed19315c4ad497fd7d7691213f43":{
-      "scriptId":"u30"},
+      "scriptId":"u28"},
     "f49629580a964dfaa2992c4006b3dc56":{
-      "scriptId":"u31"},
+      "scriptId":"u29"},
     "4b335f223ab2448999f55c596a6ddaa2":{
-      "scriptId":"u32"},
+      "scriptId":"u30"},
     "1b390882eb2149068e1fef2bb72d3b90":{
-      "scriptId":"u33"},
+      "scriptId":"u31"},
     "9aeb1a2bf5d442119ec63ddfed701524":{
-      "scriptId":"u34"},
+      "scriptId":"u32"},
     "9d00c86c9c3d4c438e0d6107f49c0597":{
-      "scriptId":"u35"},
+      "scriptId":"u33"},
     "89c36efbae754b06bdf4a3a11b110dc4":{
-      "scriptId":"u36"},
+      "scriptId":"u34"},
     "91d06abce29b4bb39de05bfa57285e72":{
-      "scriptId":"u37"},
+      "scriptId":"u35"},
     "c3d06cf1d4954085bd7582a678f1412d":{
-      "scriptId":"u38"},
+      "scriptId":"u36"},
     "a380cd970ba942799350bd6c50c09359":{
-      "scriptId":"u39"},
+      "scriptId":"u37"},
     "2e2fd1c440054ca68497df2bd148d714":{
-      "scriptId":"u40"},
+      "scriptId":"u38"},
     "e775c530527846d0a3b85277d0bf128e":{
-      "scriptId":"u41"},
+      "scriptId":"u39"},
     "7e30302cf1f64f9f9eabb1f62bacf516":{
-      "scriptId":"u42"},
+      "scriptId":"u40"},
     "fc67e9742df444fc9897a944e6146171":{
-      "scriptId":"u43"},
+      "scriptId":"u41"},
     "04808b3ed0424ae58800d1b5ba037dd6":{
-      "scriptId":"u44"},
+      "scriptId":"u42"},
     "cab5502b5ade4cb0bbc9c965ef609c6a":{
-      "scriptId":"u45"},
+      "scriptId":"u43"},
     "c38207b307544e6aad599965e8d55ece":{
-      "scriptId":"u46"},
+      "scriptId":"u44"},
     "f4598f5e7d38438786845521e01a6469":{
-      "scriptId":"u47"},
+      "scriptId":"u45"},
     "880e3af6151640639cf12073fc6c4f59":{
-      "scriptId":"u48"},
+      "scriptId":"u46"},
     "17b3650866ac4ccb8f03911a4f574e2e":{
-      "scriptId":"u49"},
+      "scriptId":"u47"},
     "f20012396fe24c99a1e8e8f06b1dc853":{
-      "scriptId":"u50"},
+      "scriptId":"u48"},
     "0f218a05bb034684abcf38908e393802":{
-      "scriptId":"u51"},
+      "scriptId":"u49"},
     "83b9555b34844911b500180155421a9e":{
-      "scriptId":"u52"},
+      "scriptId":"u50"},
     "13ec3b2fccbb4162bba01dcba138aaaa":{
-      "scriptId":"u53"},
+      "scriptId":"u51"},
     "bab1495b7fd04ac3b54eb47da59a8207":{
-      "scriptId":"u54"},
+      "scriptId":"u52"},
     "e97b93cc4f874f858eb4ea020c5e444a":{
-      "scriptId":"u55"},
+      "scriptId":"u53"},
     "ead1e66809044b6ca063413452043422":{
-      "scriptId":"u56"},
+      "scriptId":"u54"},
     "e9718c7bdf9d430d86fe0558572e65a5":{
-      "scriptId":"u57"},
+      "scriptId":"u55"},
     "ea3600bb176b46189535ac76289fe616":{
-      "scriptId":"u58"},
+      "scriptId":"u56"},
     "0b9c24d44f59458da1d5579e1365b5a7":{
-      "scriptId":"u59"},
+      "scriptId":"u57"},
     "d62762f97ba347a691c0a60a4ffff257":{
-      "scriptId":"u60"},
+      "scriptId":"u58"},
     "8229b9b328874d909a5fa13c527049c5":{
-      "scriptId":"u61"},
+      "scriptId":"u59"},
     "177c3bfd467444178e32e2500e71fcdc":{
-      "scriptId":"u62"},
+      "scriptId":"u60"},
     "6402e2e673744ba39be83e11309d9688":{
-      "scriptId":"u63"},
+      "scriptId":"u61"},
     "20c4b1034ea44a9c923798d1d4857baa":{
-      "scriptId":"u64"},
+      "scriptId":"u62"},
     "b4c99eb4242845b88d040c48d28eea52":{
-      "scriptId":"u65"},
+      "scriptId":"u63"},
     "9a48f096a652407fb46508efeb6addef":{
-      "scriptId":"u66"},
+      "scriptId":"u64"},
     "bc22ff38c6fb45e0bdb99ef3690ec132":{
-      "scriptId":"u67"},
+      "scriptId":"u65"},
     "a492002691a64f1a84331864aa4c6432":{
-      "scriptId":"u68"},
+      "scriptId":"u66"},
     "9abd22a2085c4674b9034ea1b48ef7a5":{
-      "scriptId":"u69"},
+      "scriptId":"u67"},
     "60c0fbe98d6f4de6b3698721e5daae48":{
-      "scriptId":"u70"},
+      "scriptId":"u68"},
     "781d84609ec54b448676b27e9477ecb7":{
-      "scriptId":"u71"},
+      "scriptId":"u69"},
     "908b2c6bc6f64ed9bb4e0bc18faf3127":{
-      "scriptId":"u72"}}});
+      "scriptId":"u70"}}});

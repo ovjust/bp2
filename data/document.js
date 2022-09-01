@@ -45,9 +45,25 @@
                 "type":"Wireframe",
                 "url":"工商舆情信息.html",
                 "children":[{
+                    "pageName":"司法风险",
+                    "type":"Wireframe",
+                    "url":"司法风险.html",
+                    "children":[{
+                        "pageName":"司法详情查看",
+                        "type":"Wireframe",
+                        "url":"司法详情查看.html"}]},
+{
+                    "pageName":"新闻舆情",
+                    "type":"Wireframe",
+                    "url":"新闻舆情.html"}]},
+{
+                "pageName":"工商舆情信息-delete",
+                "type":"Wireframe",
+                "url":"工商舆情信息-delete.html",
+                "children":[{
                     "pageName":"司法详情查看",
                     "type":"Wireframe",
-                    "url":"司法详情查看.html"},
+                    "url":"司法详情查看_1.html"},
 {
                     "pageName":"舆情详情查看",
                     "type":"Wireframe",
@@ -55,7 +71,19 @@
 {
             "pageName":"客户管理-变更",
             "type":"Wireframe",
-            "url":"客户管理-变更.html"}]},
+            "url":"客户管理-变更.html"},
+{
+            "pageName":"客户工商基本信息同步服务",
+            "type":"Wireframe",
+            "url":"客户工商基本信息同步服务.html"}]},
+{
+        "pageName":"带货营销",
+        "type":"Wireframe",
+        "url":"带货营销.html",
+        "children":[{
+            "pageName":"带货营销-变更",
+            "type":"Wireframe",
+            "url":"带货营销-变更.html"}]},
 {
         "pageName":"业务数据",
         "type":"Wireframe",
@@ -65,6 +93,10 @@
             "type":"Wireframe",
             "url":"金融产品管理.html"},
 {
+            "pageName":"汇率维护",
+            "type":"Wireframe",
+            "url":"汇率维护.html"},
+{
             "pageName":"专业公司客户名称管理",
             "type":"Wireframe",
             "url":"专业公司客户名称管理.html"},
@@ -73,9 +105,9 @@
             "type":"Wireframe",
             "url":"业务数据导入权限配置.html"},
 {
-            "pageName":"业务数据导入",
+            "pageName":"业务数据导入管理",
             "type":"Wireframe",
-            "url":"业务数据导入.html",
+            "url":"业务数据导入管理.html",
             "children":[{
                 "pageName":"数据处理流程示意",
                 "type":"Wireframe",
@@ -149,17 +181,21 @@
             "type":"Wireframe",
             "url":"外部融资余额管理-仅查看.html"},
 {
-            "pageName":"历史融资管理-仅查看",
+            "pageName":"历史融资管理",
             "type":"Wireframe",
-            "url":"历史融资管理-仅查看.html"},
+            "url":"历史融资管理.html"},
 {
-            "pageName":"融资计划管理-仅查看",
+            "pageName":"融资计划管理",
             "type":"Wireframe",
-            "url":"融资计划管理-仅查看.html"},
+            "url":"融资计划管理.html"},
 {
-            "pageName":"风险评估管理-仅查看",
+            "pageName":"风险评估管理",
             "type":"Wireframe",
-            "url":"风险评估管理-仅查看.html"},
+            "url":"风险评估管理.html"},
+{
+            "pageName":"外部银行存款数据管理-仅查看",
+            "type":"Wireframe",
+            "url":"外部银行存款数据管理-仅查看.html"},
 {
             "pageName":"流程审批功能",
             "type":"Wireframe",
@@ -169,9 +205,9 @@
             "type":"Wireframe",
             "url":"审批流程.html"}]},
 {
-        "pageName":"报表-业务情况查询",
+        "pageName":"报表",
         "type":"Wireframe",
-        "url":"报表-业务情况查询.html",
+        "url":"报表.html",
         "children":[{
             "pageName":"贷款余额登记管理-delete",
             "type":"Wireframe",
@@ -179,11 +215,11 @@
 {
             "pageName":"贷款余额走势图",
             "type":"Wireframe",
-            "url":"贷款余额走势图.html",
-            "children":[{
-                "pageName":"贷款余额走势图-同比",
-                "type":"Wireframe",
-                "url":"贷款余额走势图-同比.html"}]},
+            "url":"贷款余额走势图.html"},
+{
+            "pageName":"贷款余额同比",
+            "type":"Wireframe",
+            "url":"贷款余额同比.html"},
 {
             "pageName":"贷款余额分布统计",
             "type":"Wireframe",
@@ -195,23 +231,31 @@
         "children":[{
             "pageName":"看板企业管理",
             "type":"Wireframe",
-            "url":"看板企业管理.html",
+            "url":"看板企业管理.html"},
+{
+            "pageName":"看板企业管理-delete",
+            "type":"Wireframe",
+            "url":"看板企业管理-delete.html",
             "children":[{
                 "pageName":"查看风险上报",
                 "type":"Wireframe",
                 "url":"查看风险上报.html"}]},
 {
-            "pageName":"看板企业风险上报",
+            "pageName":"看板企业风险上报任务查询--delete",
             "type":"Wireframe",
-            "url":"看板企业风险上报.html"},
+            "url":"看板企业风险上报任务查询--delete.html"},
 {
-            "pageName":"看板企业风险上报任务",
+            "pageName":"看板企业风险上报管理",
             "type":"Wireframe",
-            "url":"看板企业风险上报任务.html"},
+            "url":"看板企业风险上报管理.html"},
 {
-            "pageName":"舆情查询",
+            "pageName":"看板企业舆情同步服务",
             "type":"Wireframe",
-            "url":"舆情查询.html",
+            "url":"看板企业舆情同步服务.html"},
+{
+            "pageName":"看板企业舆情查询",
+            "type":"Wireframe",
+            "url":"看板企业舆情查询.html",
             "children":[{
                 "pageName":"舆情详情查看",
                 "type":"Wireframe",
@@ -221,17 +265,25 @@
         "type":"Wireframe",
         "url":"知识库.html",
         "children":[{
-            "pageName":"文章分类管理",
+            "pageName":"文章分类维护",
             "type":"Wireframe",
-            "url":"文章分类管理.html"},
+            "url":"文章分类维护.html"},
 {
             "pageName":"文章管理",
             "type":"Wireframe",
             "url":"文章管理.html"},
 {
-            "pageName":"订阅管理",
+            "pageName":"文章订阅管理",
             "type":"Wireframe",
-            "url":"订阅管理.html"}]},
+            "url":"文章订阅管理.html"},
+{
+            "pageName":"OA人员信息同步服务-delete",
+            "type":"Wireframe",
+            "url":"oa人员信息同步服务-delete.html"},
+{
+            "pageName":"OA人员信息查询-验证人员同步用-delete",
+            "type":"Wireframe",
+            "url":"oa人员信息查询-验证人员同步用-delete.html"}]},
 {
         "pageName":"工作汇报",
         "type":"Wireframe",
@@ -243,19 +295,31 @@
             "children":[{
                 "pageName":"部门经理",
                 "type":"Wireframe",
-                "url":"部门经理.html"}]},
+                "url":"部门经理.html"},
+{
+                "pageName":"拜访详情列表",
+                "type":"Wireframe",
+                "url":"拜访详情列表.html"},
+{
+                "pageName":"带货详情列表",
+                "type":"Wireframe",
+                "url":"带货详情列表.html"}]},
 {
             "pageName":"工作汇报期间设置",
             "type":"Wireframe",
-            "url":"工作汇报期间设置.html"}]},
+            "url":"工作汇报期间设置.html"},
+{
+            "pageName":"工作汇报期间设置-delete",
+            "type":"Wireframe",
+            "url":"工作汇报期间设置-delete.html"}]},
 {
         "pageName":"积分管理",
         "type":"Wireframe",
         "url":"积分管理.html",
         "children":[{
-            "pageName":"客户经理积分配置",
+            "pageName":"客户经理软件积分配置",
             "type":"Wireframe",
-            "url":"客户经理积分配置.html"},
+            "url":"客户经理软件积分配置.html"},
 {
             "pageName":"积分记录管理",
             "type":"Wireframe",
@@ -275,7 +339,11 @@
             "children":[{
                 "pageName":"统一认证登录",
                 "type":"Wireframe",
-                "url":"统一认证登录.html"}]}]},
+                "url":"统一认证登录.html"}]},
+{
+            "pageName":"发送OA通知",
+            "type":"Wireframe",
+            "url":"发送oa通知.html"}]},
 {
         "pageName":"功能风格",
         "type":"Wireframe",

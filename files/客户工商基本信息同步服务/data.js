@@ -1,0 +1,81 @@
+﻿$axure.loadCurrentPage({
+  "url":"客户工商基本信息同步服务.html",
+  "generationDate":new Date(1662070232811.86),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"a89bbcafe9ad4873a5ca3620d5c587cb",
+    "type":"Axure:Page",
+    "name":"客户工商基本信息同步服务",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9ece800c7f66495db81aed24158ed5b2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"11px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":388,
+              "y":300},
+            "size":{
+              "width":200,
+              "height":38}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fbcf831d97ef4d978fe3eb6e7d1f9a2f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"11px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":388,
+                  "y":300},
+                "size":{
+                  "width":200,
+                  "height":38}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "9ece800c7f66495db81aed24158ed5b2":{
+      "scriptId":"u0"},
+    "fbcf831d97ef4d978fe3eb6e7d1f9a2f":{
+      "scriptId":"u1"}}});

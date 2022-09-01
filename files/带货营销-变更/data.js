@@ -1,0 +1,168 @@
+﻿$axure.loadCurrentPage({
+  "url":"带货营销-变更.html",
+  "generationDate":new Date(1662070232854.38),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"d745ef7ee7c34caab73b7fe59cb56f05",
+    "type":"Axure:Page",
+    "name":"带货营销-变更",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8e7f7fb56a4142e0897b30e06c2c5182",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":19.9999847412109,
+              "y":26},
+            "size":{
+              "width":1140,
+              "height":674}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2e4232dc4438477aaf3df8bb4768b7fc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":19.9999847412109,
+                  "y":26},
+                "size":{
+                  "width":1140,
+                  "height":674}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/带货营销-变更/u0.png"}},
+{
+          "id":"78d815f47b274e1abc6537a1c1593a82",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"20px",
+            "location":{
+              "x":627,
+              "y":586},
+            "size":{
+              "width":123,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"17457e39f6604764acba7b903f285065",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"20px",
+                "location":{
+                  "x":627,
+                  "y":586},
+                "size":{
+                  "width":123,
+                  "height":50}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0758d80a5a0141cfb78175b23449a40d",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontSize":"20px",
+            "location":{
+              "x":750,
+              "y":581},
+            "size":{
+              "width":370,
+              "height":39}},
+          "adaptiveStyles":{
+},
+          "placeholderText":"产品多选"},
+{
+          "id":"b08431cca32a45febb5f1255384320f3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"20px",
+            "location":{
+              "x":520,
+              "y":720},
+            "size":{
+              "width":309,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d2d7201ca92d451194736ce2b08bff62",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"20px",
+                "location":{
+                  "x":520,
+                  "y":720},
+                "size":{
+                  "width":309,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "8e7f7fb56a4142e0897b30e06c2c5182":{
+      "scriptId":"u0"},
+    "2e4232dc4438477aaf3df8bb4768b7fc":{
+      "scriptId":"u1"},
+    "78d815f47b274e1abc6537a1c1593a82":{
+      "scriptId":"u2"},
+    "17457e39f6604764acba7b903f285065":{
+      "scriptId":"u3"},
+    "0758d80a5a0141cfb78175b23449a40d":{
+      "scriptId":"u4"},
+    "b08431cca32a45febb5f1255384320f3":{
+      "scriptId":"u5"},
+    "d2d7201ca92d451194736ce2b08bff62":{
+      "scriptId":"u6"}}});

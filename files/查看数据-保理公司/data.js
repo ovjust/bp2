@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-保理公司.html",
-  "generationDate":new Date(1661498370520.12),
+  "generationDate":new Date(1662070239136.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/业务数据导入/u201.png"}},
+            "normal~":"images/业务数据导入管理/u223.png"}},
 {
           "id":"848179f3481241fe9ae0aba57b52033c",
           "label":"",
@@ -347,7 +347,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
+            "normal~":"images/客户管理-业务数据展示/u575.png"}},
 {
           "id":"9823c2fd75634c248a33ad460214f2de",
           "label":"",

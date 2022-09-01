@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"风险评估管理-仅查看.html",
-  "generationDate":new Date(1661498373193.9),
+  "generationDate":new Date(1661502324976.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1879,7 +1879,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u543.png"}},
+                "normal~":"images/客户管理-业务数据展示/u537.png"}},
 {
               "id":"240e9ae1aa6e4f07b0a65d4068551772",
               "label":"",
@@ -2110,7 +2110,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u543.png"}},
+                "normal~":"images/客户管理-业务数据展示/u537.png"}},
 {
               "id":"c4ffd96af34f43db840ea77ae8bacbef",
               "label":"",
@@ -2341,7 +2341,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u614.png"}},
+            "normal~":"images/客户管理-业务数据展示/u606.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",
