@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"汇率维护.html",
-  "generationDate":new Date(1662070233324.71),
+  "generationDate":new Date(1662083781744.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

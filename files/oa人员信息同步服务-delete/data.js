@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"oa人员信息同步服务-delete.html",
-  "generationDate":new Date(1662070248735.87),
+  "generationDate":new Date(1662083791621.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

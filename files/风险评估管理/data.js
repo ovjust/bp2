@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"风险评估管理.html",
-  "generationDate":new Date(1662070242764.59),
+  "generationDate":new Date(1662083786876.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"文章管理.html",
-  "generationDate":new Date(1662070248250.6),
+  "generationDate":new Date(1662083791224.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1739,15 +1739,11 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF000000,
-              "opacity":1},
             "location":{
               "x":98,
               "y":458},
             "size":{
-              "width":54,
+              "width":60,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -1759,15 +1755,11 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000,
-                  "opacity":1},
                 "location":{
                   "x":98,
                   "y":458},
                 "size":{
-                  "width":54,
+                  "width":60,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -1780,15 +1772,11 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF000000,
-              "opacity":1},
             "location":{
               "x":104,
               "y":425},
             "size":{
-              "width":54,
+              "width":60,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -1800,15 +1788,11 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000,
-                  "opacity":1},
                 "location":{
                   "x":104,
                   "y":425},
                 "size":{
-                  "width":54,
+                  "width":60,
                   "height":16}},
               "adaptiveStyles":{
 }}],
@@ -1969,15 +1953,11 @@
           "styleType":"paragraph",
           "visible":true,
           "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF000000,
-              "opacity":1},
             "location":{
               "x":104,
               "y":500},
             "size":{
-              "width":28,
+              "width":33,
               "height":16}},
           "adaptiveStyles":{
 },
@@ -1989,15 +1969,11 @@
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "foreGroundFill":{
-                  "fillType":"solid",
-                  "color":0xFF000000,
-                  "opacity":1},
                 "location":{
                   "x":104,
                   "y":500},
                 "size":{
-                  "width":28,
+                  "width":33,
                   "height":16}},
               "adaptiveStyles":{
 }}],
