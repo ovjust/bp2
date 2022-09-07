@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"内部业务数据管理-仅查看.html",
-  "generationDate":new Date(1662083785603.57),
+  "generationDate":new Date(1662526083121.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1223,7 +1223,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u517.png"}},
+                "normal~":"images/客户管理-业务数据展示/u666.png"}},
 {
               "id":"c6922b73ec174f7a826444099f67063e",
               "label":"",
@@ -4234,7 +4234,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

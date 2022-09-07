@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"工作汇报期间设置.html",
-  "generationDate":new Date(1662083793137.53),
+  "generationDate":new Date(1662526088622.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1326,7 +1326,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报管理/u54.png"}},
+                "normal~":"images/客户经理/u23.png"}},
 {
               "id":"a3b4718aad244e68a5fdaf7bb483d463",
               "label":"",
@@ -1359,7 +1359,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报管理/u54.png"}},
+                "normal~":"images/客户经理/u23.png"}},
 {
               "id":"f126290b73c545a989f8337f3140d0bc",
               "label":"",
@@ -1392,7 +1392,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报管理/u54.png"}},
+                "normal~":"images/客户经理/u23.png"}},
 {
               "id":"b0efeb1f7f804fc1bb62ef47b0159966",
               "label":"",
@@ -1458,7 +1458,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

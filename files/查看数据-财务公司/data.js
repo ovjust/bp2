@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-财务公司.html",
-  "generationDate":new Date(1662083783648.2),
+  "generationDate":new Date(1662526081999.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -721,7 +721,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"9823c2fd75634c248a33ad460214f2de",
           "label":"",

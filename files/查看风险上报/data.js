@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看风险上报.html",
-  "generationDate":new Date(1662083789475.06),
+  "generationDate":new Date(1662526086184.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -127,7 +127,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"69629e3599054cbcb30918a431c03592",
           "label":"",

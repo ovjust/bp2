@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"余额_收入详情.html",
-  "generationDate":new Date(1662083780423.85),
+  "generationDate":new Date(1662526080346.59),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1357,7 +1357,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"cae5e35943cd40478ecfab772b383877",
           "label":"",

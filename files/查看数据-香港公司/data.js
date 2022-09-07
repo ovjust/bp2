@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-香港公司.html",
-  "generationDate":new Date(1662083783870.72),
+  "generationDate":new Date(1662526082112.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -347,7 +347,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"9823c2fd75634c248a33ad460214f2de",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-外部融资余额.html",
-  "generationDate":new Date(1662083784801.26),
+  "generationDate":new Date(1662526082542.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -349,7 +349,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"9823c2fd75634c248a33ad460214f2de",
           "label":"",

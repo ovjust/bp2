@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额分布统计.html",
-  "generationDate":new Date(1662083788508.12),
+  "generationDate":new Date(1662526085626.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -692,7 +692,59 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"resources/images/transparent.gif"}}]}},
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"abb5bddf10bb4510ba8eb625721ceb12",
+          "label":"",
+          "type":"verticalLine",
+          "styleType":"verticalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":580,
+              "y":159},
+            "size":{
+              "width":10,
+              "height":301}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/贷款余额分布统计/u38_line.png"}},
+{
+          "id":"6929eb04bea840818d7125c7266eab5c",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":580,
+              "y":280},
+            "size":{
+              "width":10,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"409d74e470754d7bbd24532c554f0e03",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":580,
+                  "y":280},
+                "size":{
+                  "width":10,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/贷款余额分布统计/u39.png"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -771,4 +823,10 @@
     "30f061234d474c7bb98d3bc2544d6d2c":{
       "scriptId":"u36"},
     "01161e8f26c54fc0ac00ccf34f9c3324":{
-      "scriptId":"u37"}}});
+      "scriptId":"u37"},
+    "abb5bddf10bb4510ba8eb625721ceb12":{
+      "scriptId":"u38"},
+    "6929eb04bea840818d7125c7266eab5c":{
+      "scriptId":"u39"},
+    "409d74e470754d7bbd24532c554f0e03":{
+      "scriptId":"u40"}}});

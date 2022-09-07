@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业风险上报管理.html",
-  "generationDate":new Date(1662083790437.53),
+  "generationDate":new Date(1662526086863.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1084,7 +1084,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u28.png"}},
+                "normal~":"images/看板企业管理-delete/u28.png"}},
 {
               "id":"099effa2cc5348ce85d5f465608f9d11",
               "label":"",
@@ -1117,7 +1117,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u76.png"}},
+                "normal~":"images/看板企业管理-delete/u76.png"}},
 {
               "id":"35ed3da7ca7e43cd8bd741909cca9616",
               "label":"",
@@ -1183,7 +1183,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u100.png"}},
+                "normal~":"images/看板企业管理-delete/u100.png"}},
 {
               "id":"6b6455cb923849349cbeac82201050b4",
               "label":"",
@@ -1216,7 +1216,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u100.png"}},
+                "normal~":"images/看板企业管理-delete/u100.png"}},
 {
               "id":"5e93e6d3bf1a48e092ddfe1e8201e7e4",
               "label":"",
@@ -1249,7 +1249,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u172.png"}},
+                "normal~":"images/看板企业管理-delete/u172.png"}},
 {
               "id":"20773267381140e68b30679349bb2090",
               "label":"",
@@ -3228,7 +3228,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u58.png"}},
+                "normal~":"images/看板企业管理-delete/u58.png"}},
 {
               "id":"b3082c552fbb4b62a8c2977f7cd803c1",
               "label":"",
@@ -4725,7 +4725,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业风险上报管理/u54.png"}},
+                "normal~":"images/客户经理/u23.png"}},
 {
               "id":"8a7c84b23d534d70bbb5346a0188aba9",
               "label":"",
@@ -4923,7 +4923,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

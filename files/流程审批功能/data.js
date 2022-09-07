@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"流程审批功能.html",
-  "generationDate":new Date(1662083787505.52),
+  "generationDate":new Date(1662526084881.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -810,7 +810,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"f874771714af40dd8d9acf3b6eab93d9",
           "label":"",
@@ -2208,7 +2208,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"28b9da0452c84729980bd3d8b88881da",
           "label":"",

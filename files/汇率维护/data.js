@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"汇率维护.html",
-  "generationDate":new Date(1662083781744.79),
+  "generationDate":new Date(1662526081029.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1030,7 +1030,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

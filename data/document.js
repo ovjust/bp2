@@ -17,9 +17,9 @@
         "type":"Wireframe",
         "url":"阅读说明.html"},
 {
-        "pageName":"首页",
+        "pageName":"首页-delete",
         "type":"Wireframe",
-        "url":"首页.html",
+        "url":"__-delete.html",
         "children":[{
             "pageName":"添加模块",
             "type":"Wireframe",
@@ -28,6 +28,22 @@
             "pageName":"编辑模块顺序",
             "type":"Wireframe",
             "url":"编辑模块顺序.html"}]},
+{
+        "pageName":"首页",
+        "type":"Wireframe",
+        "url":"首页.html",
+        "children":[{
+            "pageName":"客户经理",
+            "type":"Wireframe",
+            "url":"客户经理.html"},
+{
+            "pageName":"专业公司部门经理",
+            "type":"Wireframe",
+            "url":"专业公司部门经理.html"},
+{
+            "pageName":"市场服务部人员",
+            "type":"Wireframe",
+            "url":"市场服务部人员.html"}]},
 {
         "pageName":"客户管理",
         "type":"Wireframe",
@@ -229,13 +245,13 @@
         "type":"Wireframe",
         "url":"风险看板.html",
         "children":[{
-            "pageName":"看板企业管理",
+            "pageName":"看板企业管理-delete",
             "type":"Wireframe",
-            "url":"看板企业管理.html"},
+            "url":"看板企业管理-delete.html"},
 {
             "pageName":"看板企业管理-delete",
             "type":"Wireframe",
-            "url":"看板企业管理-delete.html",
+            "url":"看板企业管理-delete_1.html",
             "children":[{
                 "pageName":"查看风险上报",
                 "type":"Wireframe",
@@ -249,13 +265,13 @@
             "type":"Wireframe",
             "url":"看板企业风险上报管理.html"},
 {
-            "pageName":"看板企业舆情同步服务",
+            "pageName":"企业舆情同步服务",
             "type":"Wireframe",
-            "url":"看板企业舆情同步服务.html"},
+            "url":"企业舆情同步服务.html"},
 {
-            "pageName":"看板企业舆情查询",
+            "pageName":"企业舆情查询",
             "type":"Wireframe",
-            "url":"看板企业舆情查询.html",
+            "url":"企业舆情查询.html",
             "children":[{
                 "pageName":"舆情详情查看",
                 "type":"Wireframe",
@@ -293,9 +309,9 @@
             "type":"Wireframe",
             "url":"工作汇报管理.html",
             "children":[{
-                "pageName":"部门经理",
+                "pageName":"部门经理、专员",
                 "type":"Wireframe",
-                "url":"部门经理.html"},
+                "url":"部门经理、专员.html"},
 {
                 "pageName":"拜访详情列表",
                 "type":"Wireframe",
@@ -321,13 +337,13 @@
             "type":"Wireframe",
             "url":"客户经理软件积分配置.html"},
 {
-            "pageName":"积分记录管理",
+            "pageName":"客户经理积分记录管理",
             "type":"Wireframe",
-            "url":"积分记录管理.html"},
+            "url":"客户经理积分记录管理.html"},
 {
-            "pageName":"积分统计",
+            "pageName":"客户经理积分统计",
             "type":"Wireframe",
-            "url":"积分统计.html"}]},
+            "url":"客户经理积分统计.html"}]},
 {
         "pageName":"接口对接",
         "type":"Wireframe",

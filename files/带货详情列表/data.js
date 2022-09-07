@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"带货详情列表.html",
-  "generationDate":new Date(1662083792987.84),
+  "generationDate":new Date(1662526088503.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -968,7 +968,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}}]}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}}]}},
   "masters":{
 },
   "objectPaths":{

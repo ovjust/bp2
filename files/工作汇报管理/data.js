@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"工作汇报管理.html",
-  "generationDate":new Date(1662083792278.41),
+  "generationDate":new Date(1662526087965.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2225,7 +2225,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u525.png"}},
+                "normal~":"images/客户管理-业务数据展示/u674.png"}},
 {
               "id":"ad23462e535041cb8b2a4d44e139f891",
               "label":"",
@@ -3338,7 +3338,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":520,
+              "x":626,
               "y":89},
             "size":{
               "width":60,
@@ -3353,7 +3353,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":660,
+              "x":766,
               "y":89},
             "size":{
               "width":60,
@@ -3371,7 +3371,7 @@
               "x":48,
               "y":150},
             "size":{
-              "width":1062,
+              "width":999,
               "height":116}},
           "adaptiveStyles":{
 },
@@ -3401,7 +3401,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u16.png"}},
+                "normal~":"images/看板企业管理-delete/u16.png"}},
 {
               "id":"a4024332b9bd47248c4f9e38de61f73c",
               "label":"",
@@ -3434,7 +3434,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u88.png"}},
+                "normal~":"images/看板企业管理-delete/u88.png"}},
 {
               "id":"6eeac3850be74af5bd42ace98709d32b",
               "label":"",
@@ -3467,7 +3467,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u88.png"}},
+                "normal~":"images/看板企业管理-delete/u88.png"}},
 {
               "id":"978c3a8a54d44fbdbcca480cefb4c4e2",
               "label":"",
@@ -3500,7 +3500,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u88.png"}},
+                "normal~":"images/看板企业管理-delete/u88.png"}},
 {
               "id":"58bae2b351264fbe80b960f2f5d3a5d9",
               "label":"",
@@ -3641,7 +3641,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":774,
+                  "x":712,
                   "y":0},
                 "size":{
                   "width":64,
@@ -3657,7 +3657,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":774,
+                      "x":712,
                       "y":0},
                     "size":{
                       "width":64,
@@ -3674,7 +3674,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":774,
+                  "x":712,
                   "y":36},
                 "size":{
                   "width":64,
@@ -3690,7 +3690,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":774,
+                      "x":712,
                       "y":36},
                     "size":{
                       "width":64,
@@ -3707,7 +3707,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":774,
+                  "x":712,
                   "y":56},
                 "size":{
                   "width":64,
@@ -3723,7 +3723,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":774,
+                      "x":712,
                       "y":56},
                     "size":{
                       "width":64,
@@ -3740,7 +3740,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":774,
+                  "x":712,
                   "y":76},
                 "size":{
                   "width":64,
@@ -3756,7 +3756,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":774,
+                      "x":712,
                       "y":76},
                     "size":{
                       "width":64,
@@ -3773,7 +3773,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":838,
+                  "x":776,
                   "y":0},
                 "size":{
                   "width":58,
@@ -3789,7 +3789,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":838,
+                      "x":776,
                       "y":0},
                     "size":{
                       "width":58,
@@ -3797,7 +3797,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理-delete/u26.png"}},
+                "normal~":"images/看板企业管理-delete_1/u26.png"}},
 {
               "id":"37614c2fcc704ec48634351ab3db5729",
               "label":"",
@@ -3806,7 +3806,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":838,
+                  "x":776,
                   "y":36},
                 "size":{
                   "width":58,
@@ -3822,7 +3822,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":838,
+                      "x":776,
                       "y":36},
                     "size":{
                       "width":58,
@@ -3830,7 +3830,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理-delete/u86.png"}},
+                "normal~":"images/看板企业管理-delete_1/u86.png"}},
 {
               "id":"099effa2cc5348ce85d5f465608f9d11",
               "label":"",
@@ -3839,7 +3839,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":838,
+                  "x":776,
                   "y":56},
                 "size":{
                   "width":58,
@@ -3855,7 +3855,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":838,
+                      "x":776,
                       "y":56},
                     "size":{
                       "width":58,
@@ -3863,7 +3863,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理-delete/u86.png"}},
+                "normal~":"images/看板企业管理-delete_1/u86.png"}},
 {
               "id":"35ed3da7ca7e43cd8bd741909cca9616",
               "label":"",
@@ -3872,7 +3872,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":838,
+                  "x":776,
                   "y":76},
                 "size":{
                   "width":58,
@@ -3888,7 +3888,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":838,
+                      "x":776,
                       "y":76},
                     "size":{
                       "width":58,
@@ -3896,7 +3896,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理-delete/u86.png"}},
+                "normal~":"images/看板企业管理-delete_1/u86.png"}},
 {
               "id":"eaf62c42c8c041509fb01c649232aaf2",
               "label":"",
@@ -3905,10 +3905,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":896,
+                  "x":834,
                   "y":0},
                 "size":{
-                  "width":166,
+                  "width":165,
                   "height":36}},
               "adaptiveStyles":{
 },
@@ -3921,15 +3921,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":896,
+                      "x":834,
                       "y":0},
                     "size":{
-                      "width":166,
+                      "width":165,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u196.png"}},
+                "normal~":"images/看板企业管理-delete_1/u28.png"}},
 {
               "id":"20773267381140e68b30679349bb2090",
               "label":"",
@@ -3942,10 +3942,10 @@
                   "color":0xFF000099,
                   "opacity":1},
                 "location":{
-                  "x":896,
+                  "x":834,
                   "y":36},
                 "size":{
-                  "width":166,
+                  "width":165,
                   "height":20}},
               "adaptiveStyles":{
 },
@@ -3962,15 +3962,15 @@
                       "color":0xFF000099,
                       "opacity":1},
                     "location":{
-                      "x":896,
+                      "x":834,
                       "y":36},
                     "size":{
-                      "width":166,
+                      "width":165,
                       "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u216.png"}},
+                "normal~":"images/看板企业管理-delete_1/u88.png"}},
 {
               "id":"81cf65cb04954b638a6bcb88724204e1",
               "label":"",
@@ -3983,10 +3983,10 @@
                   "color":0xFF000099,
                   "opacity":1},
                 "location":{
-                  "x":896,
+                  "x":834,
                   "y":56},
                 "size":{
-                  "width":166,
+                  "width":165,
                   "height":20}},
               "adaptiveStyles":{
 },
@@ -4003,15 +4003,15 @@
                       "color":0xFF000099,
                       "opacity":1},
                     "location":{
-                      "x":896,
+                      "x":834,
                       "y":56},
                     "size":{
-                      "width":166,
+                      "width":165,
                       "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u216.png"}},
+                "normal~":"images/看板企业管理-delete_1/u88.png"}},
 {
               "id":"f7df7ee4553a4526a70ea01bc7407799",
               "label":"",
@@ -4020,10 +4020,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":896,
+                  "x":834,
                   "y":76},
                 "size":{
-                  "width":166,
+                  "width":165,
                   "height":20}},
               "adaptiveStyles":{
 },
@@ -4036,15 +4036,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":896,
+                      "x":834,
                       "y":76},
                     "size":{
-                      "width":166,
+                      "width":165,
                       "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u216.png"}},
+                "normal~":"images/看板企业管理-delete_1/u88.png"}},
 {
               "id":"880c9406ebbe493e9b1d243bca51deb6",
               "label":"",
@@ -4242,7 +4242,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
+                "normal~":"images/工作汇报管理/u200.png"}},
 {
               "id":"ddc66b6e559d44a3b551c8ec55301de3",
               "label":"",
@@ -4275,7 +4275,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
+                "normal~":"images/工作汇报管理/u200.png"}},
 {
               "id":"4e199b5ed4334a2385726a809f17b535",
               "label":"",
@@ -4308,7 +4308,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
+                "normal~":"images/工作汇报管理/u200.png"}},
 {
               "id":"c4ab7a7898184d52a26dbffbc4400c4d",
               "label":"",
@@ -4341,7 +4341,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理/u160.png"}},
+                "normal~":"images/看板企业管理-delete/u160.png"}},
 {
               "id":"53d8da4ae50e4524bc584602e97a5341",
               "label":"",
@@ -4407,7 +4407,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u262.png"}},
+                "normal~":"images/工作汇报管理/u254.png"}},
 {
               "id":"b94735cc28f44922aab35b9c49035baf",
               "label":"",
@@ -4449,7 +4449,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":774,
+                  "x":712,
                   "y":96},
                 "size":{
                   "width":64,
@@ -4465,7 +4465,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":774,
+                      "x":712,
                       "y":96},
                     "size":{
                       "width":64,
@@ -4482,7 +4482,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":838,
+                  "x":776,
                   "y":96},
                 "size":{
                   "width":58,
@@ -4498,7 +4498,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":838,
+                      "x":776,
                       "y":96},
                     "size":{
                       "width":58,
@@ -4506,7 +4506,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/看板企业管理-delete/u146.png"}},
+                "normal~":"images/看板企业管理-delete_1/u146.png"}},
 {
               "id":"7215a0260977438db0336fda8b0d32ff",
               "label":"",
@@ -4515,10 +4515,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":896,
+                  "x":834,
                   "y":96},
                 "size":{
-                  "width":166,
+                  "width":165,
                   "height":20}},
               "adaptiveStyles":{
 },
@@ -4531,180 +4531,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":896,
+                      "x":834,
                       "y":96},
                     "size":{
-                      "width":166,
+                      "width":165,
                       "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u276.png"}},
-{
-              "id":"45f5e9619e434fbfbf9a83fe9cb03570",
-              "label":"",
-              "type":"tableCell",
-              "styleType":"tableCell",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":456,
-                  "y":0},
-                "size":{
-                  "width":106,
-                  "height":36}},
-              "adaptiveStyles":{
-},
-              "objects":[{
-                  "id":"1e329184a4fc41039614defbfd868e6f",
-                  "label":"",
-                  "isContained":true,
-                  "type":"richTextPanel",
-                  "styleType":"paragraph",
-                  "visible":true,
-                  "style":{
-                    "location":{
-                      "x":456,
-                      "y":0},
-                    "size":{
-                      "width":106,
-                      "height":36}},
-                  "adaptiveStyles":{
-}}],
-              "images":{
-                "normal~":"images/工作汇报管理/u182.png"}},
-{
-              "id":"ceb65941f0744c82a9479f1e5217a3c5",
-              "label":"",
-              "type":"tableCell",
-              "styleType":"tableCell",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":456,
-                  "y":36},
-                "size":{
-                  "width":106,
-                  "height":20}},
-              "adaptiveStyles":{
-},
-              "objects":[{
-                  "id":"7b802f7c8ebf43a3a8edd12ccf76d42a",
-                  "label":"",
-                  "isContained":true,
-                  "type":"richTextPanel",
-                  "styleType":"paragraph",
-                  "visible":true,
-                  "style":{
-                    "location":{
-                      "x":456,
-                      "y":36},
-                    "size":{
-                      "width":106,
-                      "height":20}},
-                  "adaptiveStyles":{
-}}],
-              "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
-{
-              "id":"1544e4f9a2c84222b087ed7f87de2dc9",
-              "label":"",
-              "type":"tableCell",
-              "styleType":"tableCell",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":456,
-                  "y":56},
-                "size":{
-                  "width":106,
-                  "height":20}},
-              "adaptiveStyles":{
-},
-              "objects":[{
-                  "id":"2cb2920a053e4a9b8d1a1361667ec983",
-                  "label":"",
-                  "isContained":true,
-                  "type":"richTextPanel",
-                  "styleType":"paragraph",
-                  "visible":true,
-                  "style":{
-                    "location":{
-                      "x":456,
-                      "y":56},
-                    "size":{
-                      "width":106,
-                      "height":20}},
-                  "adaptiveStyles":{
-}}],
-              "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
-{
-              "id":"87f2096d98614590a08767d06a7f61fe",
-              "label":"",
-              "type":"tableCell",
-              "styleType":"tableCell",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":456,
-                  "y":76},
-                "size":{
-                  "width":106,
-                  "height":20}},
-              "adaptiveStyles":{
-},
-              "objects":[{
-                  "id":"a204728690ac4db1a949f5abb1760899",
-                  "label":"",
-                  "isContained":true,
-                  "type":"richTextPanel",
-                  "styleType":"paragraph",
-                  "visible":true,
-                  "style":{
-                    "location":{
-                      "x":456,
-                      "y":76},
-                    "size":{
-                      "width":106,
-                      "height":20}},
-                  "adaptiveStyles":{
-}}],
-              "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
-{
-              "id":"3b2942a4bf894129a37e5fcab47bbfe7",
-              "label":"",
-              "type":"tableCell",
-              "styleType":"tableCell",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":456,
-                  "y":96},
-                "size":{
-                  "width":106,
-                  "height":20}},
-              "adaptiveStyles":{
-},
-              "objects":[{
-                  "id":"7e1cf98336004c31b76eff9301a520b4",
-                  "label":"",
-                  "isContained":true,
-                  "type":"richTextPanel",
-                  "styleType":"paragraph",
-                  "visible":true,
-                  "style":{
-                    "location":{
-                      "x":456,
-                      "y":96},
-                    "size":{
-                      "width":106,
-                      "height":20}},
-                  "adaptiveStyles":{
-}}],
-              "images":{
-                "normal~":"images/工作汇报管理/u262.png"}},
+                "normal~":"images/看板企业管理-delete_1/u148.png"}},
 {
               "id":"a97b01a7ed5241acb1cc70815eb973a9",
               "label":"",
@@ -4713,10 +4548,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":562,
+                  "x":456,
                   "y":0},
                 "size":{
-                  "width":106,
+                  "width":150,
                   "height":36}},
               "adaptiveStyles":{
 },
@@ -4729,15 +4564,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":562,
+                      "x":456,
                       "y":0},
                     "size":{
-                      "width":106,
+                      "width":150,
                       "height":36}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u182.png"}},
+                "normal~":"images/工作汇报管理/u186.png"}},
 {
               "id":"e0422c8a56834a37a53c46bc63b3013e",
               "label":"",
@@ -4746,10 +4581,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":562,
+                  "x":456,
                   "y":36},
                 "size":{
-                  "width":106,
+                  "width":150,
                   "height":20}},
               "adaptiveStyles":{
 },
@@ -4762,15 +4597,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":562,
+                      "x":456,
                       "y":36},
                     "size":{
-                      "width":106,
+                      "width":150,
                       "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
+                "normal~":"images/工作汇报管理/u204.png"}},
 {
               "id":"dcc0df9695b64cba8eda23626c5602ca",
               "label":"",
@@ -4779,10 +4614,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":562,
+                  "x":456,
                   "y":56},
                 "size":{
-                  "width":106,
+                  "width":150,
                   "height":20}},
               "adaptiveStyles":{
 },
@@ -4795,15 +4630,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":562,
+                      "x":456,
                       "y":56},
                     "size":{
-                      "width":106,
+                      "width":150,
                       "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
+                "normal~":"images/工作汇报管理/u204.png"}},
 {
               "id":"0b579d446c94490583a1d6c77da95d0e",
               "label":"",
@@ -4812,10 +4647,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":562,
+                  "x":456,
                   "y":76},
                 "size":{
-                  "width":106,
+                  "width":150,
                   "height":20}},
               "adaptiveStyles":{
 },
@@ -4828,15 +4663,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":562,
+                      "x":456,
                       "y":76},
                     "size":{
-                      "width":106,
+                      "width":150,
                       "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
+                "normal~":"images/工作汇报管理/u204.png"}},
 {
               "id":"c9beaaf50a3c427a8848c059a2e9774c",
               "label":"",
@@ -4845,10 +4680,10 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":562,
+                  "x":456,
                   "y":96},
                 "size":{
-                  "width":106,
+                  "width":150,
                   "height":20}},
               "adaptiveStyles":{
 },
@@ -4861,15 +4696,15 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":562,
+                      "x":456,
                       "y":96},
                     "size":{
-                      "width":106,
+                      "width":150,
                       "height":20}},
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u262.png"}},
+                "normal~":"images/工作汇报管理/u258.png"}},
 {
               "id":"81f74185d9b94986aebef7ef1ea0f731",
               "label":"",
@@ -4878,7 +4713,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":668,
+                  "x":606,
                   "y":0},
                 "size":{
                   "width":106,
@@ -4894,7 +4729,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":668,
+                      "x":606,
                       "y":0},
                     "size":{
                       "width":106,
@@ -4911,7 +4746,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":668,
+                  "x":606,
                   "y":36},
                 "size":{
                   "width":106,
@@ -4927,7 +4762,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":668,
+                      "x":606,
                       "y":36},
                     "size":{
                       "width":106,
@@ -4935,7 +4770,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
+                "normal~":"images/工作汇报管理/u200.png"}},
 {
               "id":"cca9c780c47e4b288762abb0cdb2f078",
               "label":"",
@@ -4944,7 +4779,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":668,
+                  "x":606,
                   "y":56},
                 "size":{
                   "width":106,
@@ -4960,7 +4795,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":668,
+                      "x":606,
                       "y":56},
                     "size":{
                       "width":106,
@@ -4968,7 +4803,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
+                "normal~":"images/工作汇报管理/u200.png"}},
 {
               "id":"98497804435047cf9d1a44cbbc24f565",
               "label":"",
@@ -4977,7 +4812,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":668,
+                  "x":606,
                   "y":76},
                 "size":{
                   "width":106,
@@ -4993,7 +4828,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":668,
+                      "x":606,
                       "y":76},
                     "size":{
                       "width":106,
@@ -5001,7 +4836,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u202.png"}},
+                "normal~":"images/工作汇报管理/u200.png"}},
 {
               "id":"efea5cf26d9540b9b55d7d37bdc8c5c6",
               "label":"",
@@ -5010,7 +4845,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":668,
+                  "x":606,
                   "y":96},
                 "size":{
                   "width":106,
@@ -5026,7 +4861,7 @@
                   "visible":true,
                   "style":{
                     "location":{
-                      "x":668,
+                      "x":606,
                       "y":96},
                     "size":{
                       "width":106,
@@ -5034,7 +4869,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u262.png"}}]},
+                "normal~":"images/工作汇报管理/u254.png"}}]},
 {
           "id":"a8aa1723f3b242158d0f748101787a78",
           "label":"",
@@ -5067,7 +4902,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",
@@ -5132,7 +4967,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":590,
+              "x":696,
               "y":89},
             "size":{
               "width":60,
@@ -5219,8 +5054,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":186,
-              "y":92},
+              "x":163,
+              "y":95},
             "size":{
               "width":120,
               "height":22}},
@@ -5241,7 +5076,7 @@
               "height":25}},
           "adaptiveStyles":{
 },
-          "placeholderText":"请输入客户经理姓名"},
+          "placeholderText":"请输入用户姓名"},
 {
           "id":"7d77a6afdcf4461c91dbffe359944112",
           "label":"",
@@ -5504,7 +5339,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":330,
+              "x":456,
               "y":89},
             "size":{
               "width":170,
@@ -5634,7 +5469,1697 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-变更/u16.png"}}]}},
+            "normal~":"images/客户管理-变更/u16.png"}},
+{
+          "id":"c08abf725d374f3c8a312ca7b0329716",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":310,
+              "y":93.5},
+            "size":{
+              "width":120,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"51d6052a694841e89878e6bc04e3a68b",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1360,
+              "y":214},
+            "size":{
+              "width":1062,
+              "height":116}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"93f0d7da36a9414a8763ab3c4e0605f9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":103,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"cad84a2250234e35b56a2af7e67b40ca",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":103,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete/u16.png"}},
+{
+              "id":"f86359e7e08944cc801ce75406dcdfaf",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":36},
+                "size":{
+                  "width":103,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a7f0fc2eaaf84b31bac998708c6cf1df",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":36},
+                    "size":{
+                      "width":103,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete/u88.png"}},
+{
+              "id":"18b948a8773f4df68617f5c67b4f39d3",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":56},
+                "size":{
+                  "width":103,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"1ab23d1362554bb38a6ee2318767b79e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":56},
+                    "size":{
+                      "width":103,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete/u88.png"}},
+{
+              "id":"a23d3934fc0f41d99bc7dde496deae81",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":76},
+                "size":{
+                  "width":103,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9831a8060634454089ca2add270c4e24",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":76},
+                    "size":{
+                      "width":103,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete/u88.png"}},
+{
+              "id":"d980b9017a444104aaf1d2acbaff0b94",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":305,
+                  "y":0},
+                "size":{
+                  "width":151,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"161a6c2167a84047bb0aee9f1b721e5c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":305,
+                      "y":0},
+                    "size":{
+                      "width":151,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/文章管理/u13.png"}},
+{
+              "id":"91ee045e18bf403bb6e5b68a2f9636c4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":305,
+                  "y":36},
+                "size":{
+                  "width":151,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"313f14887b664c81ac659359ad876804",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":305,
+                      "y":36},
+                    "size":{
+                      "width":151,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/文章管理/u35.png"}},
+{
+              "id":"b51f19e22f5448838cd2f9d409defa36",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":305,
+                  "y":56},
+                "size":{
+                  "width":151,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6d674da6ed774493b645225b917a32b9",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":305,
+                      "y":56},
+                    "size":{
+                      "width":151,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/文章管理/u35.png"}},
+{
+              "id":"3831ceeafbc341abacabf0eb2ec470ee",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":305,
+                  "y":76},
+                "size":{
+                  "width":151,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a2034b0f27bf42438d62ccb55a2d9379",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":305,
+                      "y":76},
+                    "size":{
+                      "width":151,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/文章管理/u35.png"}},
+{
+              "id":"1817edbde2ee4480bcd2de7e4d627d4f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":774,
+                  "y":0},
+                "size":{
+                  "width":64,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"26825ba81f1f40b895cf2be71509dfee",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":774,
+                      "y":0},
+                    "size":{
+                      "width":64,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报管理/u78.png"}},
+{
+              "id":"bc6ade0d6d34463789217d54273db135",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":774,
+                  "y":36},
+                "size":{
+                  "width":64,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"45e94940bacc4719b1602d014252f7b1",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":774,
+                      "y":36},
+                    "size":{
+                      "width":64,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报管理/u192.png"}},
+{
+              "id":"318eb4044fad4d52a2d764336cf99e17",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":774,
+                  "y":56},
+                "size":{
+                  "width":64,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"887cbcef2a584e078b9e3b050e8bb0b8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":774,
+                      "y":56},
+                    "size":{
+                      "width":64,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报管理/u192.png"}},
+{
+              "id":"d0e94046911a49fcb2b6adc7bdbea7e6",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":774,
+                  "y":76},
+                "size":{
+                  "width":64,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6a6753d7b0b641e7bbb933a533a75829",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":774,
+                      "y":76},
+                    "size":{
+                      "width":64,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报管理/u192.png"}},
+{
+              "id":"75e46f69f334420d9aa4d6438c646735",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":838,
+                  "y":0},
+                "size":{
+                  "width":58,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"8cda7f5bd0404684aee13f848820bfef",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":838,
+                      "y":0},
+                    "size":{
+                      "width":58,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete_1/u26.png"}},
+{
+              "id":"a74fb5b666d24121a0d65cbfd9646f58",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":838,
+                  "y":36},
+                "size":{
+                  "width":58,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"bb42c8cb46564ecd81982471715aba74",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":838,
+                      "y":36},
+                    "size":{
+                      "width":58,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete_1/u86.png"}},
+{
+              "id":"d5d30f62763044a4a430fcc162d2fdd5",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":838,
+                  "y":56},
+                "size":{
+                  "width":58,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f1c14cd37b5a41dbacac15f62c2e0f11",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":838,
+                      "y":56},
+                    "size":{
+                      "width":58,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete_1/u86.png"}},
+{
+              "id":"679d720c136e436fb27f724ed9a408fa",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":838,
+                  "y":76},
+                "size":{
+                  "width":58,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"8235b4e40dc24b01a3d1480e7f250401",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":838,
+                      "y":76},
+                    "size":{
+                      "width":58,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete_1/u86.png"}},
+{
+              "id":"3bd2fde462c144159408a139cb355f97",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":896,
+                  "y":0},
+                "size":{
+                  "width":166,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6bad091a7a404edab4b354f0cddcd790",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":896,
+                      "y":0},
+                    "size":{
+                      "width":166,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u321.png"}},
+{
+              "id":"3eb3db3b9faf4957bcf7e2f6b76a552a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000099,
+                  "opacity":1},
+                "location":{
+                  "x":896,
+                  "y":36},
+                "size":{
+                  "width":166,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"06849435d01e44b19f4881a704687e78",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000099,
+                      "opacity":1},
+                    "location":{
+                      "x":896,
+                      "y":36},
+                    "size":{
+                      "width":166,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u341.png"}},
+{
+              "id":"bcd6299ff2e6474bbf048237146f004f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000099,
+                  "opacity":1},
+                "location":{
+                  "x":896,
+                  "y":56},
+                "size":{
+                  "width":166,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"249b6ee9d6904185ac995fec550ffd17",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF000099,
+                      "opacity":1},
+                    "location":{
+                      "x":896,
+                      "y":56},
+                    "size":{
+                      "width":166,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u341.png"}},
+{
+              "id":"324abe33f35443699d49487c6e4d5b1d",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":896,
+                  "y":76},
+                "size":{
+                  "width":166,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"1519683130924abfa5a30238259eb168",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":896,
+                      "y":76},
+                    "size":{
+                      "width":166,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u341.png"}},
+{
+              "id":"117e8a7b9eaf46c8af899ff4a0e1a980",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":103,
+                  "y":0},
+                "size":{
+                  "width":96,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"cafcbbaa49cb46e9842d3414c587112e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":103,
+                      "y":0},
+                    "size":{
+                      "width":96,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u25.png"}},
+{
+              "id":"29523548f66b431dac4e5d9a3d2e97a5",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":103,
+                  "y":36},
+                "size":{
+                  "width":96,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5ca18c7c1e714654a9c5523eb37d8187",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":103,
+                      "y":36},
+                    "size":{
+                      "width":96,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u61.png"}},
+{
+              "id":"8dd74de941954de78b274b6d4897eadf",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":103,
+                  "y":56},
+                "size":{
+                  "width":96,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"def36f28dd414fc892dff122991b4363",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":103,
+                      "y":56},
+                    "size":{
+                      "width":96,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u61.png"}},
+{
+              "id":"ad17c5708e6948c79bc38b022679fb92",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":103,
+                  "y":76},
+                "size":{
+                  "width":96,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"1047ffdd9b1d4904b48ecaf7cbd4b6e8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":103,
+                      "y":76},
+                    "size":{
+                      "width":96,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u61.png"}},
+{
+              "id":"047091c60438493f8ec7c1eb3a91bd4b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":199,
+                  "y":0},
+                "size":{
+                  "width":106,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"552b10dc7d1349ba928b957fd1b611b0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":199,
+                      "y":0},
+                    "size":{
+                      "width":106,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u182.png"}},
+{
+              "id":"2286ea72d86f4c37b5d72930d049c9c5",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":199,
+                  "y":36},
+                "size":{
+                  "width":106,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"60cfb8f6e3c44ddc8d76d451ac37e730",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":199,
+                      "y":36},
+                    "size":{
+                      "width":106,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u200.png"}},
+{
+              "id":"850026a860e6459693b7811f5b04d951",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":199,
+                  "y":56},
+                "size":{
+                  "width":106,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"eb344524ca3d48a99d274ef71b517f72",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":199,
+                      "y":56},
+                    "size":{
+                      "width":106,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u200.png"}},
+{
+              "id":"12b55db514d84af0ac5d9174f94e810c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":199,
+                  "y":76},
+                "size":{
+                  "width":106,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2a2caf0b5b384f6cbfd323be65dc8ec5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":199,
+                      "y":76},
+                    "size":{
+                      "width":106,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u200.png"}},
+{
+              "id":"27dcf04686ad483abac18a25021585fe",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":0,
+                  "y":96},
+                "size":{
+                  "width":103,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"04a4ae0b0dfa4780a4117cf42431a135",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":96},
+                    "size":{
+                      "width":103,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete/u160.png"}},
+{
+              "id":"c75b53f1b99e48feb1817c69e3d3edcd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":103,
+                  "y":96},
+                "size":{
+                  "width":96,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"07512ad6da4144ca9baf55bba9ed8391",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":103,
+                      "y":96},
+                    "size":{
+                      "width":96,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u115.png"}},
+{
+              "id":"ae785971dffb4f54b6a690d987742317",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":199,
+                  "y":96},
+                "size":{
+                  "width":106,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5f430a3443884954b6380ce8f0f1a216",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":199,
+                      "y":96},
+                    "size":{
+                      "width":106,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u254.png"}},
+{
+              "id":"9cf6b11bb89840089546a41e29d1e5f5",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":305,
+                  "y":96},
+                "size":{
+                  "width":151,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0a7d185f0c164edab496cfdf6a8e74dd",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":305,
+                      "y":96},
+                    "size":{
+                      "width":151,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/文章管理/u79.png"}},
+{
+              "id":"8b4d4bedeff9419190596bf08e89fe37",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":774,
+                  "y":96},
+                "size":{
+                  "width":64,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"019f3a8e558847b694c4e617acd7b5dd",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":774,
+                      "y":96},
+                    "size":{
+                      "width":64,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报管理/u268.png"}},
+{
+              "id":"db331cc90fd64c019696305c5cbd4fcc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":838,
+                  "y":96},
+                "size":{
+                  "width":58,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5c28bda7a9604dd282525a914b6ff725",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":838,
+                      "y":96},
+                    "size":{
+                      "width":58,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业管理-delete_1/u146.png"}},
+{
+              "id":"89c3ea303bba41f3a9e303130864a7dc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":896,
+                  "y":96},
+                "size":{
+                  "width":166,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"53259410d43b4e908ddfc8831a37a5ef",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":896,
+                      "y":96},
+                    "size":{
+                      "width":166,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u401.png"}},
+{
+              "id":"956be52688b14fd988e80f336eb16e04",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":456,
+                  "y":0},
+                "size":{
+                  "width":62,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f7c3389d538d423987eb36c367906493",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":456,
+                      "y":0},
+                    "size":{
+                      "width":62,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u29.png"}},
+{
+              "id":"b06816b8ce5540ef87626e37fa6fb1e0",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":456,
+                  "y":36},
+                "size":{
+                  "width":62,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ab27ee97081a46d8b1cc7c2179965f3b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":456,
+                      "y":36},
+                    "size":{
+                      "width":62,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u65.png"}},
+{
+              "id":"a8aa3e6f52f642509db0dd73317ff53f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":456,
+                  "y":56},
+                "size":{
+                  "width":62,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c501da26a9594f19adf5d1a737ac80b8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":456,
+                      "y":56},
+                    "size":{
+                      "width":62,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u65.png"}},
+{
+              "id":"f756467859be45ef96ab30ccf1c5e0a8",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":456,
+                  "y":76},
+                "size":{
+                  "width":62,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e9b227637a45406aabf42b9fd2c8cbcc",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":456,
+                      "y":76},
+                    "size":{
+                      "width":62,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u65.png"}},
+{
+              "id":"e9a4f8721fdf4826b29f22a00f4a62d1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":456,
+                  "y":96},
+                "size":{
+                  "width":62,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9a6f820f7e4c4262bdec1d714e56cc84",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":456,
+                      "y":96},
+                    "size":{
+                      "width":62,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/看板企业风险上报任务查询--delete/u119.png"}},
+{
+              "id":"f5cf596928564781846e86edcb2f7360",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":518,
+                  "y":0},
+                "size":{
+                  "width":150,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"731b1b4a4c9f4cd3adfecd2cd6a5001c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":518,
+                      "y":0},
+                    "size":{
+                      "width":150,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u186.png"}},
+{
+              "id":"f87c90400086439287081e574236470a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":518,
+                  "y":36},
+                "size":{
+                  "width":150,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"84bcb4d555d0496084e111ab59c4b01f",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":518,
+                      "y":36},
+                    "size":{
+                      "width":150,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u204.png"}},
+{
+              "id":"9d88e9fdda6e4b9d9e94d78a926780ea",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":518,
+                  "y":56},
+                "size":{
+                  "width":150,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"08ffaaac44e342f3a5fec903091b861c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":518,
+                      "y":56},
+                    "size":{
+                      "width":150,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u204.png"}},
+{
+              "id":"38ccaa17b4da4f56aa37e4de00046175",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":518,
+                  "y":76},
+                "size":{
+                  "width":150,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ef32e9c00f904872b61831ef74d44bf2",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":518,
+                      "y":76},
+                    "size":{
+                      "width":150,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u204.png"}},
+{
+              "id":"cadfa411befc472caf3eee703a6b3d3c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":518,
+                  "y":96},
+                "size":{
+                  "width":150,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d134c1ebf8f44733b7696c4710fca545",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":518,
+                      "y":96},
+                    "size":{
+                      "width":150,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u258.png"}},
+{
+              "id":"4f78d1f7e6d648d5a0cd4e8bc37b5dd2",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":668,
+                  "y":0},
+                "size":{
+                  "width":106,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"218cc97bc54f497b8dca8dbdb464435d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":668,
+                      "y":0},
+                    "size":{
+                      "width":106,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u182.png"}},
+{
+              "id":"053c4f86db0b4b5aa7ae26ca7ad23e09",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":668,
+                  "y":36},
+                "size":{
+                  "width":106,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b4eb86a4399c4c5291d9ce3af75e41a3",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":668,
+                      "y":36},
+                    "size":{
+                      "width":106,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u200.png"}},
+{
+              "id":"7baf9a05210a4790baa40fbeb3555e83",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":668,
+                  "y":56},
+                "size":{
+                  "width":106,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9b784362537e4363a73ded2380fcf9f6",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":668,
+                      "y":56},
+                    "size":{
+                      "width":106,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u200.png"}},
+{
+              "id":"fbae04fde4e34ad8b3e822b771da82bd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":668,
+                  "y":76},
+                "size":{
+                  "width":106,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"611e2ee98c06455497c4ffbc746e7f3a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":668,
+                      "y":76},
+                    "size":{
+                      "width":106,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u200.png"}},
+{
+              "id":"562412e8b80f4fa68d49f224f0f9a602",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":668,
+                  "y":96},
+                "size":{
+                  "width":106,
+                  "height":20}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e11bc9ae2d0e4ff1bd2e483e9a7dde4e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":668,
+                      "y":96},
+                    "size":{
+                      "width":106,
+                      "height":20}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/工作汇报管理/u254.png"}}]}]}},
   "masters":{
 },
   "objectPaths":{
@@ -6010,253 +7535,437 @@
       "scriptId":"u184"},
     "ae43f79d5186477abb085a92b49d5225":{
       "scriptId":"u185"},
-    "45f5e9619e434fbfbf9a83fe9cb03570":{
-      "scriptId":"u186"},
-    "1e329184a4fc41039614defbfd868e6f":{
-      "scriptId":"u187"},
     "a97b01a7ed5241acb1cc70815eb973a9":{
-      "scriptId":"u188"},
+      "scriptId":"u186"},
     "42f145c933074fe1a6a3794c177e9666":{
-      "scriptId":"u189"},
+      "scriptId":"u187"},
     "81f74185d9b94986aebef7ef1ea0f731":{
-      "scriptId":"u190"},
+      "scriptId":"u188"},
     "6ceae1f41c824b8cabda880504000fef":{
-      "scriptId":"u191"},
+      "scriptId":"u189"},
     "142ef0867a0f4ba7b8c7ade95ac64375":{
-      "scriptId":"u192"},
+      "scriptId":"u190"},
     "c3345bdd57854054b7e8df5e77d17db5":{
-      "scriptId":"u193"},
+      "scriptId":"u191"},
     "7e839768e5d041709889ed5c2577cc59":{
-      "scriptId":"u194"},
+      "scriptId":"u192"},
     "12e434d394ae4828b1f5cc7988481026":{
-      "scriptId":"u195"},
+      "scriptId":"u193"},
     "eaf62c42c8c041509fb01c649232aaf2":{
-      "scriptId":"u196"},
+      "scriptId":"u194"},
     "50bf6e3f9f904f33b705b9d37062b018":{
-      "scriptId":"u197"},
+      "scriptId":"u195"},
     "a4024332b9bd47248c4f9e38de61f73c":{
-      "scriptId":"u198"},
+      "scriptId":"u196"},
     "7f7b4df9522547f991b0eaf398c207d1":{
-      "scriptId":"u199"},
+      "scriptId":"u197"},
     "e038953e38374e67bf1b1f4e02915c09":{
-      "scriptId":"u200"},
+      "scriptId":"u198"},
     "ea7816a7c44b4eda80380aa19e53814e":{
-      "scriptId":"u201"},
+      "scriptId":"u199"},
     "5a22feefdfd14b5aaa042e1613bd6e65":{
-      "scriptId":"u202"},
+      "scriptId":"u200"},
     "2bbf11666d8a470f813ec4c7ef9c90d8":{
-      "scriptId":"u203"},
+      "scriptId":"u201"},
     "96e890df29df4c84b62c15ce260153f7":{
-      "scriptId":"u204"},
+      "scriptId":"u202"},
     "dde045c7f1c94b46aa947797204eb7dc":{
-      "scriptId":"u205"},
-    "ceb65941f0744c82a9479f1e5217a3c5":{
-      "scriptId":"u206"},
-    "7b802f7c8ebf43a3a8edd12ccf76d42a":{
-      "scriptId":"u207"},
+      "scriptId":"u203"},
     "e0422c8a56834a37a53c46bc63b3013e":{
-      "scriptId":"u208"},
+      "scriptId":"u204"},
     "7d5d17645cbe4ce599b5d157b51d8061":{
-      "scriptId":"u209"},
+      "scriptId":"u205"},
     "ad455992c3f84d379629785be09db970":{
-      "scriptId":"u210"},
+      "scriptId":"u206"},
     "136b57493aaa4258869580f67445e0d6":{
-      "scriptId":"u211"},
+      "scriptId":"u207"},
     "f91d67b0154a4d638e78b652a41dd655":{
-      "scriptId":"u212"},
+      "scriptId":"u208"},
     "4f29c63fa9e84b9bb5081f29313dae5c":{
-      "scriptId":"u213"},
+      "scriptId":"u209"},
     "37614c2fcc704ec48634351ab3db5729":{
-      "scriptId":"u214"},
+      "scriptId":"u210"},
     "2e65be4cc39e4964adbc94ec8bd747fd":{
-      "scriptId":"u215"},
+      "scriptId":"u211"},
     "20773267381140e68b30679349bb2090":{
-      "scriptId":"u216"},
+      "scriptId":"u212"},
     "0de98a55a97f4ac9bf22f89c1c5b7dbd":{
-      "scriptId":"u217"},
+      "scriptId":"u213"},
     "6eeac3850be74af5bd42ace98709d32b":{
-      "scriptId":"u218"},
+      "scriptId":"u214"},
     "0e923acf6e4e49458211ce4054782cc3":{
-      "scriptId":"u219"},
+      "scriptId":"u215"},
     "be0c739cdb624fe1a7ce5c623765e7b9":{
-      "scriptId":"u220"},
+      "scriptId":"u216"},
     "5190b1ebb1464df5b19fdf35aa57e601":{
-      "scriptId":"u221"},
+      "scriptId":"u217"},
     "ddc66b6e559d44a3b551c8ec55301de3":{
-      "scriptId":"u222"},
+      "scriptId":"u218"},
     "d33936cce0c947e8a3ad3cabb1a16dd7":{
-      "scriptId":"u223"},
+      "scriptId":"u219"},
     "48fd2b48789943afb36e186954c7910b":{
-      "scriptId":"u224"},
+      "scriptId":"u220"},
     "d8210f5f179b48729ca57dd7a4d53ca1":{
-      "scriptId":"u225"},
-    "1544e4f9a2c84222b087ed7f87de2dc9":{
-      "scriptId":"u226"},
-    "2cb2920a053e4a9b8d1a1361667ec983":{
-      "scriptId":"u227"},
+      "scriptId":"u221"},
     "dcc0df9695b64cba8eda23626c5602ca":{
-      "scriptId":"u228"},
+      "scriptId":"u222"},
     "3f45e2b4d6ae4c8caacef4e859cf299f":{
-      "scriptId":"u229"},
+      "scriptId":"u223"},
     "cca9c780c47e4b288762abb0cdb2f078":{
-      "scriptId":"u230"},
+      "scriptId":"u224"},
     "102a68efbbeb4ae59b77be18bd862d5b":{
-      "scriptId":"u231"},
+      "scriptId":"u225"},
     "3ee67ee02bc74656b64d51654ca8884b":{
-      "scriptId":"u232"},
+      "scriptId":"u226"},
     "3a0c573022404d0d8d939845a7439638":{
-      "scriptId":"u233"},
+      "scriptId":"u227"},
     "099effa2cc5348ce85d5f465608f9d11":{
-      "scriptId":"u234"},
+      "scriptId":"u228"},
     "b204b31bd4ec40909d3da5e6358b2ade":{
-      "scriptId":"u235"},
+      "scriptId":"u229"},
     "81cf65cb04954b638a6bcb88724204e1":{
-      "scriptId":"u236"},
+      "scriptId":"u230"},
     "5a62f36419414cbe8e6b3c817d3cb74b":{
-      "scriptId":"u237"},
+      "scriptId":"u231"},
     "978c3a8a54d44fbdbcca480cefb4c4e2":{
-      "scriptId":"u238"},
+      "scriptId":"u232"},
     "7ddbf61c9e2b44ccbfc92cc48cfefc9b":{
-      "scriptId":"u239"},
+      "scriptId":"u233"},
     "1c0a55d91bc34343bd005b75803eabeb":{
-      "scriptId":"u240"},
+      "scriptId":"u234"},
     "353eddf1261d4acb898258d51d55af16":{
-      "scriptId":"u241"},
+      "scriptId":"u235"},
     "4e199b5ed4334a2385726a809f17b535":{
-      "scriptId":"u242"},
+      "scriptId":"u236"},
     "8b810a91c27240f8b5a2851fbf1df6d5":{
-      "scriptId":"u243"},
+      "scriptId":"u237"},
     "e628bf22227645c1b91c7486e976761b":{
-      "scriptId":"u244"},
+      "scriptId":"u238"},
     "abf5eef607d146409b4a608460109fcb":{
-      "scriptId":"u245"},
-    "87f2096d98614590a08767d06a7f61fe":{
-      "scriptId":"u246"},
-    "a204728690ac4db1a949f5abb1760899":{
-      "scriptId":"u247"},
+      "scriptId":"u239"},
     "0b579d446c94490583a1d6c77da95d0e":{
-      "scriptId":"u248"},
+      "scriptId":"u240"},
     "c467935ecd384011b81fc58a77a53796":{
-      "scriptId":"u249"},
+      "scriptId":"u241"},
     "98497804435047cf9d1a44cbbc24f565":{
-      "scriptId":"u250"},
+      "scriptId":"u242"},
     "a5bcc40037544ce49f0055a3b9f7d873":{
-      "scriptId":"u251"},
+      "scriptId":"u243"},
     "3a281df8cf2245f0b772441fe1298320":{
-      "scriptId":"u252"},
+      "scriptId":"u244"},
     "22e0d4094f9f4c0fbf74b3f09edfbdb0":{
-      "scriptId":"u253"},
+      "scriptId":"u245"},
     "35ed3da7ca7e43cd8bd741909cca9616":{
-      "scriptId":"u254"},
+      "scriptId":"u246"},
     "6f4748cfd23c4a8d87f15d4db59cf86c":{
-      "scriptId":"u255"},
+      "scriptId":"u247"},
     "f7df7ee4553a4526a70ea01bc7407799":{
-      "scriptId":"u256"},
+      "scriptId":"u248"},
     "77a149ee63fd492b85000a8d152a7df3":{
-      "scriptId":"u257"},
+      "scriptId":"u249"},
     "c4ab7a7898184d52a26dbffbc4400c4d":{
-      "scriptId":"u258"},
+      "scriptId":"u250"},
     "547e3472a01f4d77b9fefe8de63a2ce2":{
-      "scriptId":"u259"},
+      "scriptId":"u251"},
     "53d8da4ae50e4524bc584602e97a5341":{
-      "scriptId":"u260"},
+      "scriptId":"u252"},
     "91f5c4fe098c4be494421b7a1f7638f1":{
-      "scriptId":"u261"},
+      "scriptId":"u253"},
     "e5958d8e8dd94b168f4d76b65ac965bb":{
-      "scriptId":"u262"},
+      "scriptId":"u254"},
     "1de24a556fab4f1ba51914aa26efc269":{
-      "scriptId":"u263"},
+      "scriptId":"u255"},
     "b94735cc28f44922aab35b9c49035baf":{
-      "scriptId":"u264"},
+      "scriptId":"u256"},
     "c8350cf34b0245fcb8dec0cd3afe1044":{
-      "scriptId":"u265"},
-    "3b2942a4bf894129a37e5fcab47bbfe7":{
-      "scriptId":"u266"},
-    "7e1cf98336004c31b76eff9301a520b4":{
-      "scriptId":"u267"},
+      "scriptId":"u257"},
     "c9beaaf50a3c427a8848c059a2e9774c":{
-      "scriptId":"u268"},
+      "scriptId":"u258"},
     "72e5822dd0414e79907347b195a9eba0":{
-      "scriptId":"u269"},
+      "scriptId":"u259"},
     "efea5cf26d9540b9b55d7d37bdc8c5c6":{
-      "scriptId":"u270"},
+      "scriptId":"u260"},
     "d9aeeb51cf7a4340ae0e420fda5f6670":{
-      "scriptId":"u271"},
+      "scriptId":"u261"},
     "b9da6f4281ce41ab8a9943966bdbd449":{
-      "scriptId":"u272"},
+      "scriptId":"u262"},
     "027faf24fd6d4620b29922e16e1be2d9":{
-      "scriptId":"u273"},
+      "scriptId":"u263"},
     "e5cd3c0a79524307a8418d8ee7656b30":{
-      "scriptId":"u274"},
+      "scriptId":"u264"},
     "2f35614f09d24d529fa3ab9e2b7e8e75":{
-      "scriptId":"u275"},
+      "scriptId":"u265"},
     "7215a0260977438db0336fda8b0d32ff":{
-      "scriptId":"u276"},
+      "scriptId":"u266"},
     "059d89335ca74181b3710b56f9f2ba5a":{
-      "scriptId":"u277"},
+      "scriptId":"u267"},
     "a8aa1723f3b242158d0f748101787a78":{
-      "scriptId":"u278"},
+      "scriptId":"u268"},
     "8df78616ff844d6e919846ef20ea4fed":{
-      "scriptId":"u279"},
+      "scriptId":"u269"},
     "fef5ba7cd2404fda8f2ef97dbe55a5e6":{
-      "scriptId":"u280"},
+      "scriptId":"u270"},
     "8db59e9005164d96808628e943c0efe0":{
-      "scriptId":"u281"},
+      "scriptId":"u271"},
     "92da21720a494f688d10be077154a327":{
-      "scriptId":"u282"},
+      "scriptId":"u272"},
     "56fc86d32ccc464fa7d0284a5b6cde1e":{
-      "scriptId":"u283"},
+      "scriptId":"u273"},
     "be907d098c2b4159929bf9338176fda5":{
-      "scriptId":"u284"},
+      "scriptId":"u274"},
     "7ed7fa6ff25d45fe9b51a3ada2fc01df":{
-      "scriptId":"u285"},
+      "scriptId":"u275"},
     "aaa6652102bb4a808462100f73e283da":{
-      "scriptId":"u286"},
+      "scriptId":"u276"},
     "5d39747913cc43f899369f8ff97859a7":{
-      "scriptId":"u287"},
+      "scriptId":"u277"},
     "7d77a6afdcf4461c91dbffe359944112":{
-      "scriptId":"u288"},
+      "scriptId":"u278"},
     "1cbf436f8ba3432bbeb1e905e49042a1":{
-      "scriptId":"u289"},
+      "scriptId":"u279"},
     "cd99c3c8d0bd4cc79ef26fc50b2cfb9c":{
-      "scriptId":"u290"},
+      "scriptId":"u280"},
     "f2c5cd8f62684237b6c4b9857eef20ee":{
-      "scriptId":"u291"},
+      "scriptId":"u281"},
     "cd12dc19331e457bbcd6ddf2674ba403":{
-      "scriptId":"u292"},
+      "scriptId":"u282"},
     "8ed9aa2595b3411696b52e9cc93bc28e":{
-      "scriptId":"u293"},
+      "scriptId":"u283"},
     "1c08f982e7bb49038018201ffc513113":{
-      "scriptId":"u294"},
+      "scriptId":"u284"},
     "3732e9e42ee241aeb476a47aa150cf80":{
-      "scriptId":"u295"},
+      "scriptId":"u285"},
     "5d7201a601d040b2914ab92760640c43":{
-      "scriptId":"u296"},
+      "scriptId":"u286"},
     "9b92cde20f494300af8849cedd618fa4":{
-      "scriptId":"u297"},
+      "scriptId":"u287"},
     "afb620e3d7244b0b927c67049bcf955d":{
-      "scriptId":"u298"},
+      "scriptId":"u288"},
     "a59740975f704b96b081c7d07a334591":{
-      "scriptId":"u299"},
+      "scriptId":"u289"},
     "54da29001a664750af17e3fc78f5d565":{
-      "scriptId":"u300"},
+      "scriptId":"u290"},
     "2b73083e5beb495e8e0bb11ad84b1ab5":{
-      "scriptId":"u301"},
+      "scriptId":"u291"},
     "46c5a2227be34b30aa03f833b434c8fe":{
-      "scriptId":"u302"},
+      "scriptId":"u292"},
     "a9f16077004c4734a221bde8a5ca1d5c":{
-      "scriptId":"u303"},
+      "scriptId":"u293"},
     "8e0a16b8f5024ac7839e198b07f57f31":{
-      "scriptId":"u304"},
+      "scriptId":"u294"},
     "f30bf14123f24a1481350e2fd662614a":{
-      "scriptId":"u305"},
+      "scriptId":"u295"},
     "9e604f3838ba4bb2b82311a5eeb75d53":{
-      "scriptId":"u306"},
+      "scriptId":"u296"},
     "ea69ab93c2ac4dbeb50e684f61e90403":{
-      "scriptId":"u307"},
+      "scriptId":"u297"},
     "0381ec6e6e5e49028bbda318ba569f2a":{
-      "scriptId":"u308"},
+      "scriptId":"u298"},
     "2eadcf5107b246e8a3a8b1102136e5e0":{
-      "scriptId":"u309"},
+      "scriptId":"u299"},
     "556fff6662484db1b030b52534010ab9":{
-      "scriptId":"u310"}}});
+      "scriptId":"u300"},
+    "c08abf725d374f3c8a312ca7b0329716":{
+      "scriptId":"u301"},
+    "51d6052a694841e89878e6bc04e3a68b":{
+      "scriptId":"u302"},
+    "93f0d7da36a9414a8763ab3c4e0605f9":{
+      "scriptId":"u303"},
+    "cad84a2250234e35b56a2af7e67b40ca":{
+      "scriptId":"u304"},
+    "117e8a7b9eaf46c8af899ff4a0e1a980":{
+      "scriptId":"u305"},
+    "cafcbbaa49cb46e9842d3414c587112e":{
+      "scriptId":"u306"},
+    "047091c60438493f8ec7c1eb3a91bd4b":{
+      "scriptId":"u307"},
+    "552b10dc7d1349ba928b957fd1b611b0":{
+      "scriptId":"u308"},
+    "d980b9017a444104aaf1d2acbaff0b94":{
+      "scriptId":"u309"},
+    "161a6c2167a84047bb0aee9f1b721e5c":{
+      "scriptId":"u310"},
+    "956be52688b14fd988e80f336eb16e04":{
+      "scriptId":"u311"},
+    "f7c3389d538d423987eb36c367906493":{
+      "scriptId":"u312"},
+    "f5cf596928564781846e86edcb2f7360":{
+      "scriptId":"u313"},
+    "731b1b4a4c9f4cd3adfecd2cd6a5001c":{
+      "scriptId":"u314"},
+    "4f78d1f7e6d648d5a0cd4e8bc37b5dd2":{
+      "scriptId":"u315"},
+    "218cc97bc54f497b8dca8dbdb464435d":{
+      "scriptId":"u316"},
+    "1817edbde2ee4480bcd2de7e4d627d4f":{
+      "scriptId":"u317"},
+    "26825ba81f1f40b895cf2be71509dfee":{
+      "scriptId":"u318"},
+    "75e46f69f334420d9aa4d6438c646735":{
+      "scriptId":"u319"},
+    "8cda7f5bd0404684aee13f848820bfef":{
+      "scriptId":"u320"},
+    "3bd2fde462c144159408a139cb355f97":{
+      "scriptId":"u321"},
+    "6bad091a7a404edab4b354f0cddcd790":{
+      "scriptId":"u322"},
+    "f86359e7e08944cc801ce75406dcdfaf":{
+      "scriptId":"u323"},
+    "a7f0fc2eaaf84b31bac998708c6cf1df":{
+      "scriptId":"u324"},
+    "29523548f66b431dac4e5d9a3d2e97a5":{
+      "scriptId":"u325"},
+    "5ca18c7c1e714654a9c5523eb37d8187":{
+      "scriptId":"u326"},
+    "2286ea72d86f4c37b5d72930d049c9c5":{
+      "scriptId":"u327"},
+    "60cfb8f6e3c44ddc8d76d451ac37e730":{
+      "scriptId":"u328"},
+    "91ee045e18bf403bb6e5b68a2f9636c4":{
+      "scriptId":"u329"},
+    "313f14887b664c81ac659359ad876804":{
+      "scriptId":"u330"},
+    "b06816b8ce5540ef87626e37fa6fb1e0":{
+      "scriptId":"u331"},
+    "ab27ee97081a46d8b1cc7c2179965f3b":{
+      "scriptId":"u332"},
+    "f87c90400086439287081e574236470a":{
+      "scriptId":"u333"},
+    "84bcb4d555d0496084e111ab59c4b01f":{
+      "scriptId":"u334"},
+    "053c4f86db0b4b5aa7ae26ca7ad23e09":{
+      "scriptId":"u335"},
+    "b4eb86a4399c4c5291d9ce3af75e41a3":{
+      "scriptId":"u336"},
+    "bc6ade0d6d34463789217d54273db135":{
+      "scriptId":"u337"},
+    "45e94940bacc4719b1602d014252f7b1":{
+      "scriptId":"u338"},
+    "a74fb5b666d24121a0d65cbfd9646f58":{
+      "scriptId":"u339"},
+    "bb42c8cb46564ecd81982471715aba74":{
+      "scriptId":"u340"},
+    "3eb3db3b9faf4957bcf7e2f6b76a552a":{
+      "scriptId":"u341"},
+    "06849435d01e44b19f4881a704687e78":{
+      "scriptId":"u342"},
+    "18b948a8773f4df68617f5c67b4f39d3":{
+      "scriptId":"u343"},
+    "1ab23d1362554bb38a6ee2318767b79e":{
+      "scriptId":"u344"},
+    "8dd74de941954de78b274b6d4897eadf":{
+      "scriptId":"u345"},
+    "def36f28dd414fc892dff122991b4363":{
+      "scriptId":"u346"},
+    "850026a860e6459693b7811f5b04d951":{
+      "scriptId":"u347"},
+    "eb344524ca3d48a99d274ef71b517f72":{
+      "scriptId":"u348"},
+    "b51f19e22f5448838cd2f9d409defa36":{
+      "scriptId":"u349"},
+    "6d674da6ed774493b645225b917a32b9":{
+      "scriptId":"u350"},
+    "a8aa3e6f52f642509db0dd73317ff53f":{
+      "scriptId":"u351"},
+    "c501da26a9594f19adf5d1a737ac80b8":{
+      "scriptId":"u352"},
+    "9d88e9fdda6e4b9d9e94d78a926780ea":{
+      "scriptId":"u353"},
+    "08ffaaac44e342f3a5fec903091b861c":{
+      "scriptId":"u354"},
+    "7baf9a05210a4790baa40fbeb3555e83":{
+      "scriptId":"u355"},
+    "9b784362537e4363a73ded2380fcf9f6":{
+      "scriptId":"u356"},
+    "318eb4044fad4d52a2d764336cf99e17":{
+      "scriptId":"u357"},
+    "887cbcef2a584e078b9e3b050e8bb0b8":{
+      "scriptId":"u358"},
+    "d5d30f62763044a4a430fcc162d2fdd5":{
+      "scriptId":"u359"},
+    "f1c14cd37b5a41dbacac15f62c2e0f11":{
+      "scriptId":"u360"},
+    "bcd6299ff2e6474bbf048237146f004f":{
+      "scriptId":"u361"},
+    "249b6ee9d6904185ac995fec550ffd17":{
+      "scriptId":"u362"},
+    "a23d3934fc0f41d99bc7dde496deae81":{
+      "scriptId":"u363"},
+    "9831a8060634454089ca2add270c4e24":{
+      "scriptId":"u364"},
+    "ad17c5708e6948c79bc38b022679fb92":{
+      "scriptId":"u365"},
+    "1047ffdd9b1d4904b48ecaf7cbd4b6e8":{
+      "scriptId":"u366"},
+    "12b55db514d84af0ac5d9174f94e810c":{
+      "scriptId":"u367"},
+    "2a2caf0b5b384f6cbfd323be65dc8ec5":{
+      "scriptId":"u368"},
+    "3831ceeafbc341abacabf0eb2ec470ee":{
+      "scriptId":"u369"},
+    "a2034b0f27bf42438d62ccb55a2d9379":{
+      "scriptId":"u370"},
+    "f756467859be45ef96ab30ccf1c5e0a8":{
+      "scriptId":"u371"},
+    "e9b227637a45406aabf42b9fd2c8cbcc":{
+      "scriptId":"u372"},
+    "38ccaa17b4da4f56aa37e4de00046175":{
+      "scriptId":"u373"},
+    "ef32e9c00f904872b61831ef74d44bf2":{
+      "scriptId":"u374"},
+    "fbae04fde4e34ad8b3e822b771da82bd":{
+      "scriptId":"u375"},
+    "611e2ee98c06455497c4ffbc746e7f3a":{
+      "scriptId":"u376"},
+    "d0e94046911a49fcb2b6adc7bdbea7e6":{
+      "scriptId":"u377"},
+    "6a6753d7b0b641e7bbb933a533a75829":{
+      "scriptId":"u378"},
+    "679d720c136e436fb27f724ed9a408fa":{
+      "scriptId":"u379"},
+    "8235b4e40dc24b01a3d1480e7f250401":{
+      "scriptId":"u380"},
+    "324abe33f35443699d49487c6e4d5b1d":{
+      "scriptId":"u381"},
+    "1519683130924abfa5a30238259eb168":{
+      "scriptId":"u382"},
+    "27dcf04686ad483abac18a25021585fe":{
+      "scriptId":"u383"},
+    "04a4ae0b0dfa4780a4117cf42431a135":{
+      "scriptId":"u384"},
+    "c75b53f1b99e48feb1817c69e3d3edcd":{
+      "scriptId":"u385"},
+    "07512ad6da4144ca9baf55bba9ed8391":{
+      "scriptId":"u386"},
+    "ae785971dffb4f54b6a690d987742317":{
+      "scriptId":"u387"},
+    "5f430a3443884954b6380ce8f0f1a216":{
+      "scriptId":"u388"},
+    "9cf6b11bb89840089546a41e29d1e5f5":{
+      "scriptId":"u389"},
+    "0a7d185f0c164edab496cfdf6a8e74dd":{
+      "scriptId":"u390"},
+    "e9a4f8721fdf4826b29f22a00f4a62d1":{
+      "scriptId":"u391"},
+    "9a6f820f7e4c4262bdec1d714e56cc84":{
+      "scriptId":"u392"},
+    "cadfa411befc472caf3eee703a6b3d3c":{
+      "scriptId":"u393"},
+    "d134c1ebf8f44733b7696c4710fca545":{
+      "scriptId":"u394"},
+    "562412e8b80f4fa68d49f224f0f9a602":{
+      "scriptId":"u395"},
+    "e11bc9ae2d0e4ff1bd2e483e9a7dde4e":{
+      "scriptId":"u396"},
+    "8b4d4bedeff9419190596bf08e89fe37":{
+      "scriptId":"u397"},
+    "019f3a8e558847b694c4e617acd7b5dd":{
+      "scriptId":"u398"},
+    "db331cc90fd64c019696305c5cbd4fcc":{
+      "scriptId":"u399"},
+    "5c28bda7a9604dd282525a914b6ff725":{
+      "scriptId":"u400"},
+    "89c3ea303bba41f3a9e303130864a7dc":{
+      "scriptId":"u401"},
+    "53259410d43b4e908ddfc8831a37a5ef":{
+      "scriptId":"u402"}}});

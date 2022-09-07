@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"oa人员信息查询-验证人员同步用-delete.html",
-  "generationDate":new Date(1662083791704.08),
+  "generationDate":new Date(1662526087528.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -824,7 +824,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"6ed68e8737b74f38881fe174e9ea00de",
           "label":"",

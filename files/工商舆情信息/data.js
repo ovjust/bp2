@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"工商舆情信息.html",
-  "generationDate":new Date(1662083780573.88),
+  "generationDate":new Date(1662526080422.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -156,7 +156,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工商舆情信息/u5.png"}}]},
+                "normal~":"images/客户管理-业务数据展示/u521.png"}}]},
 {
           "id":"2647cea652f44b9e9129fd99352b619d",
           "label":"",
@@ -436,7 +436,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"155dc12d61a940408e03371536446613",
           "label":"",
@@ -469,7 +469,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"7515c1a592e6433b9384a6992eb54cc3",
           "label":"",

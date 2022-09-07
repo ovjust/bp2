@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"业务数据导入管理.html",
-  "generationDate":new Date(1662083783239.8),
+  "generationDate":new Date(1662526081798.35),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4690,7 +4690,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"188510f8d3be4d6f82077828cd6aea16",
           "label":"",
@@ -4723,7 +4723,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"9fd84ab0cd5747ffaffba9fd8713c6eb",
           "label":"",

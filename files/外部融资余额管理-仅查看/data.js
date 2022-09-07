@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"外部融资余额管理-仅查看.html",
-  "generationDate":new Date(1662083786132.9),
+  "generationDate":new Date(1662526083587.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -673,7 +673,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u596.png"}},
+                "normal~":"images/客户管理-业务数据展示/u580.png"}},
 {
               "id":"66091384b279416e88d56499c111e7da",
               "label":"",
@@ -1927,7 +1927,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户管理-业务数据展示/u525.png"}},
+                "normal~":"images/客户管理-业务数据展示/u674.png"}},
 {
               "id":"20773267381140e68b30679349bb2090",
               "label":"",
@@ -2859,7 +2859,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"fef5ba7cd2404fda8f2ef97dbe55a5e6",
           "label":"",

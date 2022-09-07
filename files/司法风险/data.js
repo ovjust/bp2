@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"司法风险.html",
-  "generationDate":new Date(1662083780957.27),
+  "generationDate":new Date(1662526080641.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -513,7 +513,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"6205d07a628e4661acd81b8610bdd0a9",
           "label":"",
@@ -579,7 +579,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"9251eee6870c4afeb0ebcd2a5ac4f5e3",
           "label":"",
@@ -645,7 +645,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"e8ea507001d44f0889d916c93c512fba",
           "label":"",
@@ -711,7 +711,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"e8f7fc14ff59477496a274b57ba128b3",
           "label":"",
@@ -777,7 +777,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户管理-业务数据展示/u575.png"}},
+            "normal~":"images/客户管理-业务数据展示/u559.png"}},
 {
           "id":"97864f7240bb41efb5b227ce0fd95973",
           "label":"",
