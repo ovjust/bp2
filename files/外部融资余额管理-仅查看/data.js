@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"外部融资余额管理-仅查看.html",
-  "generationDate":new Date(1662609048522.14),
+  "generationDate":new Date(1662616248968.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

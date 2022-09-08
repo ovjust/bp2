@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"工商舆情信息-delete.html",
-  "generationDate":new Date(1662609046688.59),
+  "generationDate":new Date(1662616247039.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
