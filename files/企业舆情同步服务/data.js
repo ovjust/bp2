@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"企业舆情同步服务.html",
-  "generationDate":new Date(1662608852982.38),
+  "generationDate":new Date(1662609050235.63),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

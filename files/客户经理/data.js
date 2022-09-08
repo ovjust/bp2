@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户经理.html",
-  "generationDate":new Date(1662608848060.54),
+  "generationDate":new Date(1662609045561.05),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1863,7 +1863,40 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/客户经理/u57.png"}}]}},
+            "normal~":"images/客户经理/u57.png"}},
+{
+          "id":"6cef1e9755e9416bb006832c9d0d7bd2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":900,
+              "y":170},
+            "size":{
+              "width":162,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ef88c597324544f6a3ea4c37e9b7f844",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":900,
+                  "y":170},
+                "size":{
+                  "width":162,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2066,4 +2099,8 @@
     "54a49591cc5644be855e0e84f1ad61f6":{
       "scriptId":"u98"},
     "f33fdc1247aa4a67998a71f4ad96aae4":{
-      "scriptId":"u99"}}});
+      "scriptId":"u99"},
+    "6cef1e9755e9416bb006832c9d0d7bd2":{
+      "scriptId":"u100"},
+    "ef88c597324544f6a3ea4c37e9b7f844":{
+      "scriptId":"u101"}}});
