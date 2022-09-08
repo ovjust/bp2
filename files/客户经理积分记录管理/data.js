@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户经理积分记录管理.html",
-  "generationDate":new Date(1662526089677.92),
+  "generationDate":new Date(1662608854580.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

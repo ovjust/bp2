@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"__-delete.html",
-  "generationDate":new Date(1662526078942.51),
+  "generationDate":new Date(1662608847847.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

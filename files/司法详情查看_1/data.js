@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"司法详情查看_1.html",
-  "generationDate":new Date(1662526080773.5),
+  "generationDate":new Date(1662608849250.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"市场服务部人员.html",
-  "generationDate":new Date(1662526079357.12),
+  "generationDate":new Date(1662608848192.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -882,7 +882,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理/u45.png"}},
+                "normal~":"images/专业公司部门经理/u47.png"}},
 {
               "id":"81c39b212eb1485e9f05714a3cf9e54d",
               "label":"",
@@ -919,7 +919,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理/u47.png"}},
+                "normal~":"images/专业公司部门经理/u49.png"}},
 {
               "id":"e05f7596622243ac92233f9db26f4e28",
               "label":"",
@@ -956,7 +956,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理/u49.png"}},
+                "normal~":"images/专业公司部门经理/u51.png"}},
 {
               "id":"a2514da05b6847c6a7a094cd0f519464",
               "label":"",
@@ -993,7 +993,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理/u51.png"}}]},
+                "normal~":"images/专业公司部门经理/u53.png"}}]},
 {
           "id":"205208a8dd25436cb2f04df21fa4c4d6",
           "label":"",

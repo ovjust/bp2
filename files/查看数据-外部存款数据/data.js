@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-外部存款数据.html",
-  "generationDate":new Date(1662526082734.98),
+  "generationDate":new Date(1662608850832.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

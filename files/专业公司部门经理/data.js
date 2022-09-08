@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"专业公司部门经理.html",
-  "generationDate":new Date(1662526079258.66),
+  "generationDate":new Date(1662608848124.38),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -915,7 +915,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理/u45.png"}},
+                "normal~":"images/专业公司部门经理/u47.png"}},
 {
               "id":"5e9e3bf19b304ec6960c2efde3b90909",
               "label":"",
@@ -952,7 +952,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理/u47.png"}},
+                "normal~":"images/专业公司部门经理/u49.png"}},
 {
               "id":"3cb5f5a729c941769008603e1d6c5e07",
               "label":"",
@@ -989,7 +989,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理/u49.png"}},
+                "normal~":"images/专业公司部门经理/u51.png"}},
 {
               "id":"453709159da74b1da9602bde9aa5be9b",
               "label":"",
@@ -1026,7 +1026,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/客户经理/u51.png"}}]},
+                "normal~":"images/专业公司部门经理/u53.png"}}]},
 {
           "id":"7ca07fe0f1f04361b2fc8af5c22e4a08",
           "label":"",
