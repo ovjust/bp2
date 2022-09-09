@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-集团融资预算.html",
-  "generationDate":new Date(1662692039387.79),
+  "generationDate":new Date(1662695334573.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看数据-香港公司/u0.png"}},
+            "normal~":"images/查看数据-外部银行存款数据/u0.png"}},
 {
           "id":"848179f3481241fe9ae0aba57b52033c",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业风险上报任务查询--delete.html",
-  "generationDate":new Date(1662692041538.67),
+  "generationDate":new Date(1662695336702.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

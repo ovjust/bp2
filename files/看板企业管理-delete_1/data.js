@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业管理-delete_1.html",
-  "generationDate":new Date(1662692041409.04),
+  "generationDate":new Date(1662695336558.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -244,7 +244,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u44.png"}},
+                "normal~":"images/业务数据导入权限配置/u46.png"}},
 {
               "id":"48fd2b48789943afb36e186954c7910b",
               "label":"",
@@ -310,7 +310,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u204.png"}},
+                "normal~":"images/业务数据导入权限配置/u222.png"}},
 {
               "id":"7ce4b4d6b92c474d966cd9c082692b0e",
               "label":"",
@@ -343,7 +343,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u204.png"}},
+                "normal~":"images/业务数据导入权限配置/u222.png"}},
 {
               "id":"66091384b279416e88d56499c111e7da",
               "label":"",
@@ -376,7 +376,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u204.png"}},
+                "normal~":"images/业务数据导入权限配置/u222.png"}},
 {
               "id":"5292775bdcb74a9bbdd1276d1d295a71",
               "label":"",
@@ -409,7 +409,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u324.png"}},
+                "normal~":"images/业务数据导入权限配置/u354.png"}},
 {
               "id":"8ebc026f6e694973984885c03b94a02c",
               "label":"",
@@ -2232,7 +2232,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u44.png"}},
+                "normal~":"images/业务数据导入权限配置/u46.png"}},
 {
               "id":"9789ce2159d04f53b93156b1d34dd838",
               "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"oa人员信息查询-验证人员同步用-delete.html",
-  "generationDate":new Date(1662692042303.71),
+  "generationDate":new Date(1662695337489.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -296,7 +296,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u38.png"}},
+                "normal~":"images/业务数据导入权限配置/u40.png"}},
 {
               "id":"96e890df29df4c84b62c15ce260153f7",
               "label":"",
@@ -362,7 +362,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u198.png"}},
+                "normal~":"images/业务数据导入权限配置/u216.png"}},
 {
               "id":"e628bf22227645c1b91c7486e976761b",
               "label":"",
@@ -395,7 +395,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u318.png"}},
+                "normal~":"images/业务数据导入权限配置/u348.png"}},
 {
               "id":"260ee175c7c841fd9e5185542ecf7a05",
               "label":"",
@@ -428,7 +428,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u44.png"}},
+                "normal~":"images/业务数据导入权限配置/u46.png"}},
 {
               "id":"8ebc026f6e694973984885c03b94a02c",
               "label":"",
@@ -494,7 +494,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u204.png"}},
+                "normal~":"images/业务数据导入权限配置/u222.png"}},
 {
               "id":"ccc9af254f834e7bb366fb6a1587ca6b",
               "label":"",
@@ -527,7 +527,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u324.png"}},
+                "normal~":"images/业务数据导入权限配置/u354.png"}},
 {
               "id":"7e839768e5d041709889ed5c2577cc59",
               "label":"",
@@ -692,7 +692,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u42.png"}},
+                "normal~":"images/业务数据导入权限配置/u44.png"}},
 {
               "id":"46b8204a97ad4a28bd8a326f3520760d",
               "label":"",
@@ -758,7 +758,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u202.png"}},
+                "normal~":"images/业务数据导入权限配置/u220.png"}},
 {
               "id":"5e407080163646e0b94f5e1da0b895be",
               "label":"",
@@ -791,7 +791,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u322.png"}}]},
+                "normal~":"images/业务数据导入权限配置/u352.png"}}]},
 {
           "id":"a8aa1723f3b242158d0f748101787a78",
           "label":"",

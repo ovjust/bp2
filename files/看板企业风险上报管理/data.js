@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业风险上报管理.html",
-  "generationDate":new Date(1662692041782.88),
+  "generationDate":new Date(1662695336954.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2733,7 +2733,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u38.png"}},
+                "normal~":"images/业务数据导入权限配置/u40.png"}},
 {
               "id":"7f525402b4934078b4f3b86073a2db2a",
               "label":"",
@@ -2832,7 +2832,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u198.png"}},
+                "normal~":"images/业务数据导入权限配置/u216.png"}},
 {
               "id":"39702d35f3104b539c6ed559cdaf632c",
               "label":"",
@@ -2865,7 +2865,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u198.png"}},
+                "normal~":"images/业务数据导入权限配置/u216.png"}},
 {
               "id":"4ad4da6b5da449c28c663a0e02369d87",
               "label":"",
@@ -2898,7 +2898,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u318.png"}},
+                "normal~":"images/业务数据导入权限配置/u348.png"}},
 {
               "id":"ecf4b0df4fca4701ba169e14fde0b486",
               "label":"",
@@ -3195,7 +3195,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u44.png"}},
+                "normal~":"images/业务数据导入权限配置/u46.png"}},
 {
               "id":"c7402de985fa4958b89753dd1c28ef4e",
               "label":"",
@@ -3294,7 +3294,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u204.png"}},
+                "normal~":"images/业务数据导入权限配置/u222.png"}},
 {
               "id":"b83b2b8e3bf343fa82dd3a738c2f4007",
               "label":"",
@@ -3327,7 +3327,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u204.png"}},
+                "normal~":"images/业务数据导入权限配置/u222.png"}},
 {
               "id":"7deb2ebaab554faf8b1a971ead656725",
               "label":"",
@@ -3360,7 +3360,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入权限配置/u324.png"}},
+                "normal~":"images/业务数据导入权限配置/u354.png"}},
 {
               "id":"f370e2bd2d3e41cd8ec1e81b9b21d84d",
               "label":"",

@@ -137,13 +137,17 @@
                 "type":"Wireframe",
                 "url":"查看数据-财务公司.html"},
 {
-                "pageName":"查看数据-保理公司",
-                "type":"Wireframe",
-                "url":"查看数据-保理公司.html"},
-{
                 "pageName":"查看数据-往来客户账-损益",
                 "type":"Wireframe",
                 "url":"查看数据-往来客户账-损益.html"},
+{
+                "pageName":"查看数据-外部银行存款数据",
+                "type":"Wireframe",
+                "url":"查看数据-外部银行存款数据.html"},
+{
+                "pageName":"查看数据-保理公司",
+                "type":"Wireframe",
+                "url":"查看数据-保理公司.html"},
 {
                 "pageName":"查看数据-香港公司",
                 "type":"Wireframe",
@@ -179,11 +183,7 @@
 {
                 "pageName":"查看数据-外部融资数据",
                 "type":"Wireframe",
-                "url":"查看数据-外部融资数据.html"},
-{
-                "pageName":"查看数据-外部存款数据",
-                "type":"Wireframe",
-                "url":"查看数据-外部存款数据.html"}]},
+                "url":"查看数据-外部融资数据.html"}]},
 {
             "pageName":"内部业务数据管理-仅查看",
             "type":"Wireframe",
