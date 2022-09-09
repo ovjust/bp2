@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业管理-delete_1.html",
-  "generationDate":new Date(1662616250277.92),
+  "generationDate":new Date(1662692041409.04),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -667,7 +667,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u206.png"}},
+                "normal~":"images/业务数据导入管理/u226.png"}},
 {
               "id":"4ea1f27299c6474ebe5a2af11023ec7b",
               "label":"",

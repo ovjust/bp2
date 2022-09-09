@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-保理公司.html",
-  "generationDate":new Date(1662616247977.79),
+  "generationDate":new Date(1662692038968.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -61,7 +61,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/业务数据导入管理/u223.png"}},
+            "normal~":"images/业务数据导入管理/u245.png"}},
 {
           "id":"848179f3481241fe9ae0aba57b52033c",
           "label":"",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-历史融资.html",
-  "generationDate":new Date(1662616248198.68),
+  "generationDate":new Date(1662692039205.27),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

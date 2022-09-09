@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额登记管理-delete.html",
-  "generationDate":new Date(1662616249765.01),
+  "generationDate":new Date(1662692040835.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -743,7 +743,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u206.png"}},
+                "normal~":"images/业务数据导入管理/u226.png"}},
 {
               "id":"26ee8d5f7cb8478a919cba314978d4b6",
               "label":"",
@@ -809,7 +809,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u34.png"}},
+                "normal~":"images/业务数据导入管理/u36.png"}},
 {
               "id":"02f82254c7fe4a4183a404f24192ff8a",
               "label":"",
@@ -842,7 +842,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u34.png"}},
+                "normal~":"images/业务数据导入管理/u36.png"}},
 {
               "id":"dced1de4faa74e06921617a8896a4baa",
               "label":"",
@@ -875,7 +875,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u34.png"}},
+                "normal~":"images/业务数据导入管理/u36.png"}},
 {
               "id":"f140e0c871404cf99599c7258b6a6653",
               "label":"",
@@ -908,7 +908,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u34.png"}},
+                "normal~":"images/业务数据导入管理/u36.png"}},
 {
               "id":"3534415adfb9418392ca8b0df858ee98",
               "label":"",
@@ -941,7 +941,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u34.png"}},
+                "normal~":"images/业务数据导入管理/u36.png"}},
 {
               "id":"25f0031bae78432eb80a0a508ebfcb00",
               "label":"",
@@ -974,7 +974,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u214.png"}},
+                "normal~":"images/业务数据导入管理/u236.png"}},
 {
               "id":"58bae2b351264fbe80b960f2f5d3a5d9",
               "label":"",

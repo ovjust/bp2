@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"oa对接.html",
-  "generationDate":new Date(1662616252498.15),
+  "generationDate":new Date(1662692043672.73),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

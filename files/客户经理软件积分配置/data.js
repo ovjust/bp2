@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户经理软件积分配置.html",
-  "generationDate":new Date(1662616252091.84),
+  "generationDate":new Date(1662692043280.24),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -263,7 +263,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"6eeac3850be74af5bd42ace98709d32b",
               "label":"",
@@ -296,7 +296,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"978c3a8a54d44fbdbcca480cefb4c4e2",
               "label":"",
@@ -329,7 +329,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"58bae2b351264fbe80b960f2f5d3a5d9",
               "label":"",
@@ -1228,7 +1228,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"66fb7b8567c440f7998855652858add4",
               "label":"",
@@ -1426,7 +1426,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"ffd66877282948d1b84ee8cc10b929ad",
               "label":"",
@@ -2086,7 +2086,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"ac15caed2cc04e849a5dcb00d7ebe622",
               "label":"",
@@ -2350,7 +2350,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"5d571c5ad184494a991b42bad5286c89",
               "label":"",
@@ -2614,7 +2614,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"93bb5304c61e4086ab026ddaa107938e",
               "label":"",
@@ -2878,7 +2878,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"79479d98cdb3449bb01590dd3947ef54",
               "label":"",
@@ -3406,7 +3406,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"901a226d4f604b0598babfbedbe5d763",
               "label":"",
@@ -3670,7 +3670,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"d455c3460c0445c3baf29f620caa5aaa",
               "label":"",
@@ -3934,7 +3934,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"aa2ed26b5e2141a18f5c01b352118e6b",
               "label":"",
@@ -7135,7 +7135,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"c478a7d9a6ad43abb03c61212a3e0331",
               "label":"",
@@ -7498,7 +7498,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/业务数据导入管理/u30.png"}},
+                "normal~":"images/客户经理软件积分配置/u31.png"}},
 {
               "id":"052a9f3cc99947598f4c79a7b2d82397",
               "label":"",
