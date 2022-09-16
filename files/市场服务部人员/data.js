@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"市场服务部人员.html",
-  "generationDate":new Date(1662695332026.4),
+  "generationDate":new Date(1663292875588.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1972,7 +1972,172 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/市场服务部人员/u104.jpg"}}]}},
+            "normal~":"images/市场服务部人员/u104.jpg"}},
+{
+          "id":"4bf4f57acfb24b3289d22fe21b8fee9d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":84,
+              "y":810},
+            "size":{
+              "width":486,
+              "height":340}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"14520c03f186400b89742e50805e5fdf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":84,
+                  "y":810},
+                "size":{
+                  "width":486,
+                  "height":340}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/市场服务部人员/u106.png"}},
+{
+          "id":"0944fc2b1cb24abf86fce3f29bdd6e20",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":830},
+            "size":{
+              "width":240,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2a3c5f6c2d91432c85f7be388a405c27",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":90,
+                  "y":830},
+                "size":{
+                  "width":240,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/市场服务部人员/u108.png"}},
+{
+          "id":"a24694a32242458fb15a02cfc16b817b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":630,
+              "y":810},
+            "size":{
+              "width":520,
+              "height":340}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0edde5cdca4d4ea09d122c33940865f1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":630,
+                  "y":810},
+                "size":{
+                  "width":520,
+                  "height":340}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/市场服务部人员/u110.png"}},
+{
+          "id":"bd34b03201764f1a9906cbde9f737388",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":630,
+              "y":830},
+            "size":{
+              "width":160,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9dfa579e78ae4f2d8e90b30847fb5a1e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":630,
+                  "y":830},
+                "size":{
+                  "width":160,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/市场服务部人员/u112.png"}},
+{
+          "id":"1a183fc40b6648a49d50b74fd6ad8b78",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1176,
+              "y":864},
+            "size":{
+              "width":534,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5ebf34158cd24b96bcf5feaee996707a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1176,
+                  "y":864},
+                "size":{
+                  "width":534,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -2187,4 +2352,24 @@
     "101fbee51b8146a58ef1cf120927ccf1":{
       "scriptId":"u104"},
     "4579107c4b8048198d18b0cd2708fc5e":{
-      "scriptId":"u105"}}});
+      "scriptId":"u105"},
+    "4bf4f57acfb24b3289d22fe21b8fee9d":{
+      "scriptId":"u106"},
+    "14520c03f186400b89742e50805e5fdf":{
+      "scriptId":"u107"},
+    "0944fc2b1cb24abf86fce3f29bdd6e20":{
+      "scriptId":"u108"},
+    "2a3c5f6c2d91432c85f7be388a405c27":{
+      "scriptId":"u109"},
+    "a24694a32242458fb15a02cfc16b817b":{
+      "scriptId":"u110"},
+    "0edde5cdca4d4ea09d122c33940865f1":{
+      "scriptId":"u111"},
+    "bd34b03201764f1a9906cbde9f737388":{
+      "scriptId":"u112"},
+    "9dfa579e78ae4f2d8e90b30847fb5a1e":{
+      "scriptId":"u113"},
+    "1a183fc40b6648a49d50b74fd6ad8b78":{
+      "scriptId":"u114"},
+    "5ebf34158cd24b96bcf5feaee996707a":{
+      "scriptId":"u115"}}});

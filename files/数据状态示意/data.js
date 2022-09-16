@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"数据状态示意.html",
+  "generationDate":new Date(1663292877841.83),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"11f1ce1dfa2f48c09209ebcc72bd0d3d",
+    "type":"Axure:Page",
+    "name":"数据状态示意",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"14366d98a91d495491b6c1268f39610f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":22,
+              "y":20},
+            "size":{
+              "width":2078,
+              "height":2330}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3fa6f91f60e94477b52747860413b977",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":22,
+                  "y":20},
+                "size":{
+                  "width":2078,
+                  "height":2330}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/数据状态示意/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "14366d98a91d495491b6c1268f39610f":{
+      "scriptId":"u0"},
+    "3fa6f91f60e94477b52747860413b977":{
+      "scriptId":"u1"}}});

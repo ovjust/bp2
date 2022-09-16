@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"金融产品管理.html",
-  "generationDate":new Date(1662695333180.24),
+  "generationDate":new Date(1663292876963.5),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

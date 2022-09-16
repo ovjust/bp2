@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"协同客户经理.html",
-  "generationDate":new Date(1662695339030.6),
+  "generationDate":new Date(1663292883782.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1859,11 +1859,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":717,
-              "y":394},
+              "x":922,
+              "y":363},
             "size":{
-              "width":228,
-              "height":256}},
+              "width":205,
+              "height":192}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -1875,11 +1875,11 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":717,
-                  "y":394},
+                  "x":922,
+                  "y":363},
                 "size":{
-                  "width":228,
-                  "height":256}},
+                  "width":205,
+                  "height":192}},
               "adaptiveStyles":{
 }}],
           "images":{

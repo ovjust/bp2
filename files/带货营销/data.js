@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"带货营销.html",
-  "generationDate":new Date(1662695333074.09),
+  "generationDate":new Date(1663292876835.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

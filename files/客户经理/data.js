@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户经理.html",
-  "generationDate":new Date(1662695331788.66),
+  "generationDate":new Date(1663292875328.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -41,7 +41,7 @@
               "y":40},
             "size":{
               "width":970,
-              "height":760}},
+              "height":810}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -57,7 +57,7 @@
                   "y":40},
                 "size":{
                   "width":970,
-                  "height":760}},
+                  "height":810}},
               "adaptiveStyles":{
 }}],
           "images":{

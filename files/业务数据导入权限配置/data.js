@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"业务数据导入权限配置.html",
-  "generationDate":new Date(1662695333641.87),
+  "generationDate":new Date(1663292877503.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

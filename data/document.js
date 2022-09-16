@@ -129,6 +129,10 @@
                 "type":"Wireframe",
                 "url":"数据处理流程示意.html"},
 {
+                "pageName":"数据状态示意",
+                "type":"Wireframe",
+                "url":"数据状态示意.html"},
+{
                 "pageName":"业务数据导入模板下载",
                 "type":"Wireframe",
                 "url":"业务数据导入模板下载.html"},
@@ -411,7 +415,35 @@
 {
             "pageName":"带货营销-第3、4级审批单据的副本",
             "type":"Wireframe",
-            "url":"带货营销-第3、4级审批单据的副本.html"}]}]},
+            "url":"带货营销-第3、4级审批单据的副本.html"}]},
+{
+        "pageName":"拜访登记",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"拜访统计",
+            "type":"Wireframe",
+            "url":"拜访统计.html"},
+{
+            "pageName":"新页面 1",
+            "type":"Wireframe",
+            "url":"新页面_1_1.html"}]},
+{
+        "pageName":"服务方案",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"服务方案管理",
+            "type":"Wireframe",
+            "url":"服务方案管理.html"}]},
+{
+        "pageName":"积分管理",
+        "type":"Folder",
+        "url":"",
+        "children":[{
+            "pageName":"排行榜",
+            "type":"Wireframe",
+            "url":"排行榜.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

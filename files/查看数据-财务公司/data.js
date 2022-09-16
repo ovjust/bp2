@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看数据-财务公司.html",
-  "generationDate":new Date(1662695334057.1),
+  "generationDate":new Date(1663292877974.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
