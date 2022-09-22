@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"接口对接.html",
-  "generationDate":new Date(1663292883565.77),
+  "generationDate":new Date(1663837682525.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"工作汇报管理.html",
-  "generationDate":new Date(1663292882363.14),
+  "generationDate":new Date(1663837679967.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5238,25 +5238,6 @@
           "images":{
             "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"5d7201a601d040b2914ab92760640c43",
-          "label":"",
-          "type":"button",
-          "styleType":"button",
-          "visible":true,
-          "style":{
-            "foreGroundFill":{
-              "fillType":"solid",
-              "color":0xFF000000,
-              "opacity":1},
-            "location":{
-              "x":520,
-              "y":979},
-            "size":{
-              "width":80,
-              "height":25}},
-          "adaptiveStyles":{
-}},
-{
           "id":"9b92cde20f494300af8849cedd618fa4",
           "label":"",
           "type":"textBox",
@@ -6054,7 +6035,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u321.png"}},
+                "normal~":"images/工作汇报管理/u320.png"}},
 {
               "id":"3eb3db3b9faf4957bcf7e2f6b76a552a",
               "label":"",
@@ -6095,7 +6076,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u341.png"}},
+                "normal~":"images/工作汇报管理/u340.png"}},
 {
               "id":"bcd6299ff2e6474bbf048237146f004f",
               "label":"",
@@ -6136,7 +6117,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u341.png"}},
+                "normal~":"images/工作汇报管理/u340.png"}},
 {
               "id":"324abe33f35443699d49487c6e4d5b1d",
               "label":"",
@@ -6169,7 +6150,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u341.png"}},
+                "normal~":"images/工作汇报管理/u340.png"}},
 {
               "id":"117e8a7b9eaf46c8af899ff4a0e1a980",
               "label":"",
@@ -6664,7 +6645,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/工作汇报管理/u401.png"}},
+                "normal~":"images/工作汇报管理/u400.png"}},
 {
               "id":"956be52688b14fd988e80f336eb16e04",
               "label":"",
@@ -7735,237 +7716,235 @@
       "scriptId":"u284"},
     "3732e9e42ee241aeb476a47aa150cf80":{
       "scriptId":"u285"},
-    "5d7201a601d040b2914ab92760640c43":{
-      "scriptId":"u286"},
     "9b92cde20f494300af8849cedd618fa4":{
-      "scriptId":"u287"},
+      "scriptId":"u286"},
     "afb620e3d7244b0b927c67049bcf955d":{
-      "scriptId":"u288"},
+      "scriptId":"u287"},
     "a59740975f704b96b081c7d07a334591":{
-      "scriptId":"u289"},
+      "scriptId":"u288"},
     "54da29001a664750af17e3fc78f5d565":{
-      "scriptId":"u290"},
+      "scriptId":"u289"},
     "2b73083e5beb495e8e0bb11ad84b1ab5":{
-      "scriptId":"u291"},
+      "scriptId":"u290"},
     "46c5a2227be34b30aa03f833b434c8fe":{
-      "scriptId":"u292"},
+      "scriptId":"u291"},
     "a9f16077004c4734a221bde8a5ca1d5c":{
-      "scriptId":"u293"},
+      "scriptId":"u292"},
     "8e0a16b8f5024ac7839e198b07f57f31":{
-      "scriptId":"u294"},
+      "scriptId":"u293"},
     "f30bf14123f24a1481350e2fd662614a":{
-      "scriptId":"u295"},
+      "scriptId":"u294"},
     "9e604f3838ba4bb2b82311a5eeb75d53":{
-      "scriptId":"u296"},
+      "scriptId":"u295"},
     "ea69ab93c2ac4dbeb50e684f61e90403":{
-      "scriptId":"u297"},
+      "scriptId":"u296"},
     "0381ec6e6e5e49028bbda318ba569f2a":{
-      "scriptId":"u298"},
+      "scriptId":"u297"},
     "2eadcf5107b246e8a3a8b1102136e5e0":{
-      "scriptId":"u299"},
+      "scriptId":"u298"},
     "556fff6662484db1b030b52534010ab9":{
-      "scriptId":"u300"},
+      "scriptId":"u299"},
     "c08abf725d374f3c8a312ca7b0329716":{
-      "scriptId":"u301"},
+      "scriptId":"u300"},
     "51d6052a694841e89878e6bc04e3a68b":{
-      "scriptId":"u302"},
+      "scriptId":"u301"},
     "93f0d7da36a9414a8763ab3c4e0605f9":{
-      "scriptId":"u303"},
+      "scriptId":"u302"},
     "cad84a2250234e35b56a2af7e67b40ca":{
-      "scriptId":"u304"},
+      "scriptId":"u303"},
     "117e8a7b9eaf46c8af899ff4a0e1a980":{
-      "scriptId":"u305"},
+      "scriptId":"u304"},
     "cafcbbaa49cb46e9842d3414c587112e":{
-      "scriptId":"u306"},
+      "scriptId":"u305"},
     "047091c60438493f8ec7c1eb3a91bd4b":{
-      "scriptId":"u307"},
+      "scriptId":"u306"},
     "552b10dc7d1349ba928b957fd1b611b0":{
-      "scriptId":"u308"},
+      "scriptId":"u307"},
     "d980b9017a444104aaf1d2acbaff0b94":{
-      "scriptId":"u309"},
+      "scriptId":"u308"},
     "161a6c2167a84047bb0aee9f1b721e5c":{
-      "scriptId":"u310"},
+      "scriptId":"u309"},
     "956be52688b14fd988e80f336eb16e04":{
-      "scriptId":"u311"},
+      "scriptId":"u310"},
     "f7c3389d538d423987eb36c367906493":{
-      "scriptId":"u312"},
+      "scriptId":"u311"},
     "f5cf596928564781846e86edcb2f7360":{
-      "scriptId":"u313"},
+      "scriptId":"u312"},
     "731b1b4a4c9f4cd3adfecd2cd6a5001c":{
-      "scriptId":"u314"},
+      "scriptId":"u313"},
     "4f78d1f7e6d648d5a0cd4e8bc37b5dd2":{
-      "scriptId":"u315"},
+      "scriptId":"u314"},
     "218cc97bc54f497b8dca8dbdb464435d":{
-      "scriptId":"u316"},
+      "scriptId":"u315"},
     "1817edbde2ee4480bcd2de7e4d627d4f":{
-      "scriptId":"u317"},
+      "scriptId":"u316"},
     "26825ba81f1f40b895cf2be71509dfee":{
-      "scriptId":"u318"},
+      "scriptId":"u317"},
     "75e46f69f334420d9aa4d6438c646735":{
-      "scriptId":"u319"},
+      "scriptId":"u318"},
     "8cda7f5bd0404684aee13f848820bfef":{
-      "scriptId":"u320"},
+      "scriptId":"u319"},
     "3bd2fde462c144159408a139cb355f97":{
-      "scriptId":"u321"},
+      "scriptId":"u320"},
     "6bad091a7a404edab4b354f0cddcd790":{
-      "scriptId":"u322"},
+      "scriptId":"u321"},
     "f86359e7e08944cc801ce75406dcdfaf":{
-      "scriptId":"u323"},
+      "scriptId":"u322"},
     "a7f0fc2eaaf84b31bac998708c6cf1df":{
-      "scriptId":"u324"},
+      "scriptId":"u323"},
     "29523548f66b431dac4e5d9a3d2e97a5":{
-      "scriptId":"u325"},
+      "scriptId":"u324"},
     "5ca18c7c1e714654a9c5523eb37d8187":{
-      "scriptId":"u326"},
+      "scriptId":"u325"},
     "2286ea72d86f4c37b5d72930d049c9c5":{
-      "scriptId":"u327"},
+      "scriptId":"u326"},
     "60cfb8f6e3c44ddc8d76d451ac37e730":{
-      "scriptId":"u328"},
+      "scriptId":"u327"},
     "91ee045e18bf403bb6e5b68a2f9636c4":{
-      "scriptId":"u329"},
+      "scriptId":"u328"},
     "313f14887b664c81ac659359ad876804":{
-      "scriptId":"u330"},
+      "scriptId":"u329"},
     "b06816b8ce5540ef87626e37fa6fb1e0":{
-      "scriptId":"u331"},
+      "scriptId":"u330"},
     "ab27ee97081a46d8b1cc7c2179965f3b":{
-      "scriptId":"u332"},
+      "scriptId":"u331"},
     "f87c90400086439287081e574236470a":{
-      "scriptId":"u333"},
+      "scriptId":"u332"},
     "84bcb4d555d0496084e111ab59c4b01f":{
-      "scriptId":"u334"},
+      "scriptId":"u333"},
     "053c4f86db0b4b5aa7ae26ca7ad23e09":{
-      "scriptId":"u335"},
+      "scriptId":"u334"},
     "b4eb86a4399c4c5291d9ce3af75e41a3":{
-      "scriptId":"u336"},
+      "scriptId":"u335"},
     "bc6ade0d6d34463789217d54273db135":{
-      "scriptId":"u337"},
+      "scriptId":"u336"},
     "45e94940bacc4719b1602d014252f7b1":{
-      "scriptId":"u338"},
+      "scriptId":"u337"},
     "a74fb5b666d24121a0d65cbfd9646f58":{
-      "scriptId":"u339"},
+      "scriptId":"u338"},
     "bb42c8cb46564ecd81982471715aba74":{
-      "scriptId":"u340"},
+      "scriptId":"u339"},
     "3eb3db3b9faf4957bcf7e2f6b76a552a":{
-      "scriptId":"u341"},
+      "scriptId":"u340"},
     "06849435d01e44b19f4881a704687e78":{
-      "scriptId":"u342"},
+      "scriptId":"u341"},
     "18b948a8773f4df68617f5c67b4f39d3":{
-      "scriptId":"u343"},
+      "scriptId":"u342"},
     "1ab23d1362554bb38a6ee2318767b79e":{
-      "scriptId":"u344"},
+      "scriptId":"u343"},
     "8dd74de941954de78b274b6d4897eadf":{
-      "scriptId":"u345"},
+      "scriptId":"u344"},
     "def36f28dd414fc892dff122991b4363":{
-      "scriptId":"u346"},
+      "scriptId":"u345"},
     "850026a860e6459693b7811f5b04d951":{
-      "scriptId":"u347"},
+      "scriptId":"u346"},
     "eb344524ca3d48a99d274ef71b517f72":{
-      "scriptId":"u348"},
+      "scriptId":"u347"},
     "b51f19e22f5448838cd2f9d409defa36":{
-      "scriptId":"u349"},
+      "scriptId":"u348"},
     "6d674da6ed774493b645225b917a32b9":{
-      "scriptId":"u350"},
+      "scriptId":"u349"},
     "a8aa3e6f52f642509db0dd73317ff53f":{
-      "scriptId":"u351"},
+      "scriptId":"u350"},
     "c501da26a9594f19adf5d1a737ac80b8":{
-      "scriptId":"u352"},
+      "scriptId":"u351"},
     "9d88e9fdda6e4b9d9e94d78a926780ea":{
-      "scriptId":"u353"},
+      "scriptId":"u352"},
     "08ffaaac44e342f3a5fec903091b861c":{
-      "scriptId":"u354"},
+      "scriptId":"u353"},
     "7baf9a05210a4790baa40fbeb3555e83":{
-      "scriptId":"u355"},
+      "scriptId":"u354"},
     "9b784362537e4363a73ded2380fcf9f6":{
-      "scriptId":"u356"},
+      "scriptId":"u355"},
     "318eb4044fad4d52a2d764336cf99e17":{
-      "scriptId":"u357"},
+      "scriptId":"u356"},
     "887cbcef2a584e078b9e3b050e8bb0b8":{
-      "scriptId":"u358"},
+      "scriptId":"u357"},
     "d5d30f62763044a4a430fcc162d2fdd5":{
-      "scriptId":"u359"},
+      "scriptId":"u358"},
     "f1c14cd37b5a41dbacac15f62c2e0f11":{
-      "scriptId":"u360"},
+      "scriptId":"u359"},
     "bcd6299ff2e6474bbf048237146f004f":{
-      "scriptId":"u361"},
+      "scriptId":"u360"},
     "249b6ee9d6904185ac995fec550ffd17":{
-      "scriptId":"u362"},
+      "scriptId":"u361"},
     "a23d3934fc0f41d99bc7dde496deae81":{
-      "scriptId":"u363"},
+      "scriptId":"u362"},
     "9831a8060634454089ca2add270c4e24":{
-      "scriptId":"u364"},
+      "scriptId":"u363"},
     "ad17c5708e6948c79bc38b022679fb92":{
-      "scriptId":"u365"},
+      "scriptId":"u364"},
     "1047ffdd9b1d4904b48ecaf7cbd4b6e8":{
-      "scriptId":"u366"},
+      "scriptId":"u365"},
     "12b55db514d84af0ac5d9174f94e810c":{
-      "scriptId":"u367"},
+      "scriptId":"u366"},
     "2a2caf0b5b384f6cbfd323be65dc8ec5":{
-      "scriptId":"u368"},
+      "scriptId":"u367"},
     "3831ceeafbc341abacabf0eb2ec470ee":{
-      "scriptId":"u369"},
+      "scriptId":"u368"},
     "a2034b0f27bf42438d62ccb55a2d9379":{
-      "scriptId":"u370"},
+      "scriptId":"u369"},
     "f756467859be45ef96ab30ccf1c5e0a8":{
-      "scriptId":"u371"},
+      "scriptId":"u370"},
     "e9b227637a45406aabf42b9fd2c8cbcc":{
-      "scriptId":"u372"},
+      "scriptId":"u371"},
     "38ccaa17b4da4f56aa37e4de00046175":{
-      "scriptId":"u373"},
+      "scriptId":"u372"},
     "ef32e9c00f904872b61831ef74d44bf2":{
-      "scriptId":"u374"},
+      "scriptId":"u373"},
     "fbae04fde4e34ad8b3e822b771da82bd":{
-      "scriptId":"u375"},
+      "scriptId":"u374"},
     "611e2ee98c06455497c4ffbc746e7f3a":{
-      "scriptId":"u376"},
+      "scriptId":"u375"},
     "d0e94046911a49fcb2b6adc7bdbea7e6":{
-      "scriptId":"u377"},
+      "scriptId":"u376"},
     "6a6753d7b0b641e7bbb933a533a75829":{
-      "scriptId":"u378"},
+      "scriptId":"u377"},
     "679d720c136e436fb27f724ed9a408fa":{
-      "scriptId":"u379"},
+      "scriptId":"u378"},
     "8235b4e40dc24b01a3d1480e7f250401":{
-      "scriptId":"u380"},
+      "scriptId":"u379"},
     "324abe33f35443699d49487c6e4d5b1d":{
-      "scriptId":"u381"},
+      "scriptId":"u380"},
     "1519683130924abfa5a30238259eb168":{
-      "scriptId":"u382"},
+      "scriptId":"u381"},
     "27dcf04686ad483abac18a25021585fe":{
-      "scriptId":"u383"},
+      "scriptId":"u382"},
     "04a4ae0b0dfa4780a4117cf42431a135":{
-      "scriptId":"u384"},
+      "scriptId":"u383"},
     "c75b53f1b99e48feb1817c69e3d3edcd":{
-      "scriptId":"u385"},
+      "scriptId":"u384"},
     "07512ad6da4144ca9baf55bba9ed8391":{
-      "scriptId":"u386"},
+      "scriptId":"u385"},
     "ae785971dffb4f54b6a690d987742317":{
-      "scriptId":"u387"},
+      "scriptId":"u386"},
     "5f430a3443884954b6380ce8f0f1a216":{
-      "scriptId":"u388"},
+      "scriptId":"u387"},
     "9cf6b11bb89840089546a41e29d1e5f5":{
-      "scriptId":"u389"},
+      "scriptId":"u388"},
     "0a7d185f0c164edab496cfdf6a8e74dd":{
-      "scriptId":"u390"},
+      "scriptId":"u389"},
     "e9a4f8721fdf4826b29f22a00f4a62d1":{
-      "scriptId":"u391"},
+      "scriptId":"u390"},
     "9a6f820f7e4c4262bdec1d714e56cc84":{
-      "scriptId":"u392"},
+      "scriptId":"u391"},
     "cadfa411befc472caf3eee703a6b3d3c":{
-      "scriptId":"u393"},
+      "scriptId":"u392"},
     "d134c1ebf8f44733b7696c4710fca545":{
-      "scriptId":"u394"},
+      "scriptId":"u393"},
     "562412e8b80f4fa68d49f224f0f9a602":{
-      "scriptId":"u395"},
+      "scriptId":"u394"},
     "e11bc9ae2d0e4ff1bd2e483e9a7dde4e":{
-      "scriptId":"u396"},
+      "scriptId":"u395"},
     "8b4d4bedeff9419190596bf08e89fe37":{
-      "scriptId":"u397"},
+      "scriptId":"u396"},
     "019f3a8e558847b694c4e617acd7b5dd":{
-      "scriptId":"u398"},
+      "scriptId":"u397"},
     "db331cc90fd64c019696305c5cbd4fcc":{
-      "scriptId":"u399"},
+      "scriptId":"u398"},
     "5c28bda7a9604dd282525a914b6ff725":{
-      "scriptId":"u400"},
+      "scriptId":"u399"},
     "89c3ea303bba41f3a9e303130864a7dc":{
-      "scriptId":"u401"},
+      "scriptId":"u400"},
     "53259410d43b4e908ddfc8831a37a5ef":{
-      "scriptId":"u402"}}});
+      "scriptId":"u401"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"阅读说明.html",
-  "generationDate":new Date(1663292875004.02),
+  "generationDate":new Date(1663837670666.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -41,7 +41,7 @@
               "y":104},
             "size":{
               "width":388,
-              "height":16}},
+              "height":32}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -57,7 +57,7 @@
                   "y":104},
                 "size":{
                   "width":388,
-                  "height":16}},
+                  "height":32}},
               "adaptiveStyles":{
 }}],
           "images":{

@@ -189,6 +189,10 @@
                 "type":"Wireframe",
                 "url":"查看数据-外部融资数据.html"}]},
 {
+            "pageName":"业务数据导入管理-delete",
+            "type":"Wireframe",
+            "url":"业务数据导入管理-delete.html"},
+{
             "pageName":"内部业务数据管理-仅查看",
             "type":"Wireframe",
             "url":"内部业务数据管理-仅查看.html"},
@@ -313,9 +317,9 @@
             "type":"Wireframe",
             "url":"工作汇报管理.html",
             "children":[{
-                "pageName":"部门经理、专员",
+                "pageName":"部门经理创建汇报",
                 "type":"Wireframe",
-                "url":"部门经理、专员.html"},
+                "url":"部门经理创建汇报.html"},
 {
                 "pageName":"拜访详情列表",
                 "type":"Wireframe",
@@ -340,6 +344,10 @@
             "pageName":"客户经理软件积分配置",
             "type":"Wireframe",
             "url":"客户经理软件积分配置.html"},
+{
+            "pageName":"客户经理软件积分配置-delete",
+            "type":"Wireframe",
+            "url":"客户经理软件积分配置-delete.html"},
 {
             "pageName":"客户经理积分记录管理",
             "type":"Wireframe",

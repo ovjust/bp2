@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"带货营销-第1级审批单据.html",
-  "generationDate":new Date(1663292884074.43),
+  "generationDate":new Date(1663837683303.02),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

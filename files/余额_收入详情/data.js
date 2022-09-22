@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"余额_收入详情.html",
-  "generationDate":new Date(1663292876402.87),
+  "generationDate":new Date(1663837672224.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

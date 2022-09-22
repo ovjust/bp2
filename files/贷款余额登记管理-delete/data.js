@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款余额登记管理-delete.html",
-  "generationDate":new Date(1663292880330.97),
+  "generationDate":new Date(1663837677566.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

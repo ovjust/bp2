@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"排行榜.html",
-  "generationDate":new Date(1663292884554.35),
+  "generationDate":new Date(1663837683962.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -561,7 +561,7 @@
                   "adaptiveStyles":{
 }}],
               "images":{
-                "normal~":"images/排行榜/u56.png"}},
+                "normal~":"images/客户经理软件积分配置/u311.png"}},
 {
               "id":"63da8ac188ed49c18bdbeb705dadb2ad",
               "label":"",

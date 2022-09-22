@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"看板企业管理-delete.html",
-  "generationDate":new Date(1663292880774.95),
+  "generationDate":new Date(1663837678095.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

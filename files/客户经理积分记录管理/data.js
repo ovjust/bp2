@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客户经理积分记录管理.html",
-  "generationDate":new Date(1663292883350.17),
+  "generationDate":new Date(1663837682229.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -3253,6 +3253,7 @@
           "label":"",
           "type":"textBox",
           "styleType":"textBox",
+          "disabled":true,
           "visible":true,
           "style":{
             "location":{

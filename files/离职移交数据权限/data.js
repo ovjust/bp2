@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"离职移交数据权限.html",
-  "generationDate":new Date(1663292883851.21),
+  "generationDate":new Date(1663837682996.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
